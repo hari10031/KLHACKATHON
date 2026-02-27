@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+.risk-low {
+    @apply text-risk-low;
+}
+
+.risk-medium {
+    @apply text-risk-medium;
+}
+
+.risk-high {
+    @apply text-risk-high;
+}
+
+.risk-critical {
+    @apply text-risk-critical;
+}
+
+.bg-risk-low {
+    background-color: #22c55e;
+}
+
+.bg-risk-medium {
+    background-color: #f59e0b;
+}
+
+.bg-risk-high {
+    background-color: #ef4444;
+}
+
+.bg-risk-critical {
+    background-color: #991b1b;
+}

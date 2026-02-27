@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>GST Audit Report — {{ gstin }} — {{ return_period }}</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            color: #1e293b;
+            background: #f8fafc;
+            padding: 40px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, .08);
+        }
+
+        .header {
+            background: #1e3a5f;
+            color: #fff;
+            padding: 32px 40px;
+            border-radius: 12px 12px 0 0;
+        }
+
+        .header h1 {
+            font-size: 24px;
+            font-weight: 700;
+        }
+
+        .header p {
+            font-size: 14px;
+            opacity: .8;
+            margin-top: 4px;
+        }
+
+        .meta {
+            display: flex;
+            gap: 32px;
+            margin-top: 16px;
+            font-size: 13px;
+        }
+
+        .meta span {
+            background: rgba(255, 255, 255, .15);
+            padding: 4px 12px;
+            border-radius: 6px;
+        }
+
+        .section {
+            padding: 28px 40px;
+            border-bottom: 1px solid #e2e8f0;
+        }
+
+        .section h2 {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 16px;
+            color: #1e3a5f;
+        }
+
+        .kpi-row {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 16px;
+        }
+
+        .kpi {
+            background: #f1f5f9;
+            border-radius: 8px;
+            padding: 16px;
+            text-align: center;
+        }
+
+        .kpi .value {
+            font-size: 28px;
+            font-weight: 700;
+        }
+
+        .kpi .label {
+            font-size: 11px;
+            text-transform: uppercase;
+            color: #64748b;
+            margin-top: 4px;
+        }
+
+        .kpi.critical .value {
+            color: #991b1b;
+        }
+
+        .kpi.high .value {
+            color: #ef4444;
+        }
+
+        .kpi.medium .value {
+            color: #f59e0b;
+        }
+
+        .kpi.low .value {
+            color: #22c55e;
+        }
+
+        .finding {
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            margin-bottom: 16px;
+            overflow: hidden;
+        }
+
+        .finding-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 14px 20px;
+            background: #f8fafc;
+        }
+
+        .finding-header .badge {
+            font-size: 11px;
+            font-weight: 600;
+            padding: 3px 10px;
+            border-radius: 4px;
+            color: #fff;
+        }
+
+        .badge-CRITICAL {
+            background: #991b1b;
+        }
+
+        .badge-HIGH {
+            background: #ef4444;
+        }
+
+        .badge-MEDIUM {
+            background: #f59e0b;
+        }
+
+        .badge-LOW {
+            background: #22c55e;
+        }
+
+        .finding-body {
+            padding: 16px 20px;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+
+        .finding-body .narrative {
+            background: #fffbeb;
+            border-left: 3px solid #f59e0b;
+            padding: 12px 16px;
+            border-radius: 0 6px 6px 0;
+            margin-bottom: 12px;
+        }
+
+        .finding-body .detail-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+            font-size: 13px;
+        }
+
+        .finding-body .detail-grid strong {
+            color: #64748b;
+        }
+
+        .traversal {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-top: 12px;
+        }
+
+        .traversal .node {
+            background: #dbeafe;
+            color: #1e40af;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-family: monospace;
+        }
+
+        .traversal .arrow {
+            color: #94a3b8;
+            font-size: 12px;
+        }
+
+        .footer {
+            padding: 20px 40px;
+            text-align: center;
+            font-size: 12px;
+            color: #94a3b8;
+        }
+
+        @media print {
+            body {
+                padding: 0;
+            }
+
+            .container {
+                box-shadow: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>GST Reconciliation Audit Report</h1>
+            <p>Intelligent Knowledge Graph Analysis</p>
+            <div class="meta">
+                <span>GSTIN: {{ gstin }}</span>
+                <span>Period: {{ return_period }}</span>
+                <span>Generated: {{ generated_at }}</span>
+                {% if taxpayer.legal_name %}<span>{{ taxpayer.legal_name }}</span>{% endif %}
+            </div>
+        </div>
+
+        <!-- Summary -->
+        <div class="section">
+            <h2>Executive Summary</h2>
+            <div class="kpi-row">
+                <div class="kpi">
+                    <div class="value">{{ summary.total_findings }}</div>
+                    <div class="label">Total Findings</div>
+                </div>
+                <div class="kpi critical">
+                    <div class="value">{{ summary.critical_count }}</div>
+                    <div class="label">Critical</div>
+                </div>
+                <div class="kpi high">
+                    <div class="value">{{ summary.high_count }}</div>
+                    <div class="label">High</div>
+                </div>
+                <div class="kpi medium">
+                    <div class="value">{{ summary.total_itc_at_risk | inr }}</div>
+                    <div class="label">ITC at Risk</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Findings by Type -->
+        <div class="section">
+            <h2>Findings by Type</h2>
+            <table style="width:100%;font-size:14px;border-collapse:collapse;">
+                <tr style="border-bottom:1px solid #e2e8f0;">
+                    <th style="text-align:left;padding:8px;">Mismatch Type</th>
+                    <th style="text-align:right;padding:8px;">Count</th>
+                </tr>
+                {% for type, count in summary.by_type.items() %}
+                <tr style="border-bottom:1px solid #f1f5f9;">
+                    <td style="padding:8px;">{{ type | replace("_"," ") }}</td>
+                    <td style="text-align:right;padding:8px;">{{ count }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+
+        <!-- Detailed Findings -->
+        <div class="section">
+            <h2>Detailed Findings</h2>
+            {% for f in findings %}
+            <div class="finding">
+                <div class="finding-header">
+                    <span class="badge badge-{{ f.severity }}">{{ f.severity }}</span>
+                    <span style="font-weight:600;">{{ f.mismatch_type | replace("_"," ") }}</span>
+                    <span style="margin-left:auto;font-family:monospace;font-size:12px;color:#94a3b8;">{{
+                        f.mismatch_id[:12] if f.mismatch_id else '' }}...</span>
+                </div>
+                <div class="finding-body">
+                    <div class="narrative">{{ f.narrative }}</div>
+                    <div class="detail-grid">
+                        <div><strong>Invoice:</strong> {{ f.invoice_number or '—' }}</div>
+                        <div><strong>Seller:</strong> {{ f.seller_gstin or '—' }}</div>
+                        <div><strong>ITC at Risk:</strong> {{ (f.itc_at_risk or 0) | inr }}</div>
+                        <div><strong>Risk Score:</strong> {{ (f.composite_risk_score or 0) | pct }}</div>
+                    </div>
+
+                    {% if f.seller_gstin %}
+                    <div class="traversal">
+                        <span class="node">{{ f.seller_gstin }}</span>
+                        <span class="arrow">→</span>
+                        <span class="node">{{ f.invoice_number or 'Invoice' }}</span>
+                        <span class="arrow">→</span>
+                        <span class="node">{{ gstin }}</span>
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+        <div class="footer">
+            GST Reconciliation Engine v1.0 — Knowledge Graph Powered Audit Trail<br>
+            This report was auto-generated. Verify findings with source documents.
+        </div>
+    </div>
+</body>
+
+</html>
