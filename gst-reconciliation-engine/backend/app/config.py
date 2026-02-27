@@ -32,12 +32,15 @@ class Settings(BaseSettings):
     LOG_LEVEL: str = "INFO"
     LOG_FORMAT: str = "json"
 
+    # Nebula AI
+    NEBULA_API_KEY: str = ""
+
     @property
     def cors_origins(self) -> List[str]:
         return [o.strip() for o in self.API_CORS_ORIGINS.split(",")]
 
     class Config:
-        env_file = ".env"
+        env_file = "../.env"
         case_sensitive = True
 
 

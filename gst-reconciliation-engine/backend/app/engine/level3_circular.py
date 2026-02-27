@@ -96,15 +96,30 @@ class Level3CircularTradeDetector:
         return G
 
     def _detect_cycles_networkx(self, G: nx.DiGraph) -> List[List[str]]:
-        """Detect all simple cycles using NetworkX's DFS-based algorithm."""
+        """Detect simple cycles using NetworkX with length bound for performance."""
         try:
-            all_cycles = list(nx.simple_cycles(G))           
-            # Filter by length
-            filtered = [
-                c for c in all_cycles
-                if self.min_cycle_length <= len(c) <= self.max_cycle_length
-            ]
+            from itertools import islice
+            # Use length_bound to avoid exponential blowup on dense graphs
+            filtered = []
+            max_cycles = 200  # Safety cap
+            for cycle in islice(
+                nx.simple_cycles(G, length_bound=self.max_cycle_length), max_cycles
+            ):
+                if len(cycle) >= self.min_cycle_length:
+                    filtered.append(cycle)
             return filtered
+        except TypeError:
+            # Fallback for older NetworkX without length_bound
+            try:
+                from itertools import islice
+                filtered = []
+                for cycle in islice(nx.simple_cycles(G), 200):
+                    if self.min_cycle_length <= len(cycle) <= self.max_cycle_length:
+                        filtered.append(cycle)
+                return filtered
+            except Exception as e:
+                logger.error(f"NetworkX cycle detection error: {e}")
+                return []
         except Exception as e:
             logger.error(f"NetworkX cycle detection error: {e}")
             return []

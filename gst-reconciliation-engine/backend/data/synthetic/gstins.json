@@ -1,0 +1,457 @@
+[
+  {
+    "gstin_number": "03QAHFE7680NZZM",
+    "state_code": "03",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "QAHFE7680N"
+  },
+  {
+    "gstin_number": "06LHWCW4227D3ZC",
+    "state_code": "06",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "LHWCW4227D"
+  },
+  {
+    "gstin_number": "05NZJPJ8685W7ZH",
+    "state_code": "05",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "NZJPJ8685W"
+  },
+  {
+    "gstin_number": "33NZJPJ8685WOZ1",
+    "state_code": "33",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "NZJPJ8685W"
+  },
+  {
+    "gstin_number": "15JRSBT6524ILZ6",
+    "state_code": "15",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "JRSBT6524I"
+  },
+  {
+    "gstin_number": "05JRSBT6524IEZE",
+    "state_code": "05",
+    "status": "active",
+    "registration_type": "composition",
+    "pan": "JRSBT6524I"
+  },
+  {
+    "gstin_number": "37OSFJM8611XFZ8",
+    "state_code": "37",
+    "status": "active",
+    "registration_type": "ISD",
+    "pan": "OSFJM8611X"
+  },
+  {
+    "gstin_number": "32DMTBE6740M8Z7",
+    "state_code": "32",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "DMTBE6740M"
+  },
+  {
+    "gstin_number": "35NGQBJ4498IXZA",
+    "state_code": "35",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "NGQBJ4498I"
+  },
+  {
+    "gstin_number": "10NGQBJ4498IOZV",
+    "state_code": "10",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "NGQBJ4498I"
+  },
+  {
+    "gstin_number": "20OUNAT3098ZWZV",
+    "state_code": "20",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "OUNAT3098Z"
+  },
+  {
+    "gstin_number": "13ZNDJR1569RGZM",
+    "state_code": "13",
+    "status": "cancelled",
+    "registration_type": "regular",
+    "pan": "ZNDJR1569R"
+  },
+  {
+    "gstin_number": "34OPAAH0035IGZK",
+    "state_code": "34",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "OPAAH0035I"
+  },
+  {
+    "gstin_number": "07UECLL4476UDZZ",
+    "state_code": "07",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "UECLL4476U"
+  },
+  {
+    "gstin_number": "01DEMBO8806RVZQ",
+    "state_code": "01",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "DEMBO8806R"
+  },
+  {
+    "gstin_number": "34KBJLI9726XZZJ",
+    "state_code": "34",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "KBJLI9726X"
+  },
+  {
+    "gstin_number": "16IBMPF0580C3ZS",
+    "state_code": "16",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "IBMPF0580C"
+  },
+  {
+    "gstin_number": "20KPNGG6321U7ZL",
+    "state_code": "20",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "KPNGG6321U"
+  },
+  {
+    "gstin_number": "36FGYBH3187T9ZK",
+    "state_code": "36",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "FGYBH3187T"
+  },
+  {
+    "gstin_number": "07FGYBH3187TAZK",
+    "state_code": "07",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "FGYBH3187T"
+  },
+  {
+    "gstin_number": "18PSFGQ4980NTZ8",
+    "state_code": "18",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "PSFGQ4980N"
+  },
+  {
+    "gstin_number": "20LABCR0354BEZN",
+    "state_code": "20",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "LABCR0354B"
+  },
+  {
+    "gstin_number": "07LABCR0354BNZ2",
+    "state_code": "07",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "LABCR0354B"
+  },
+  {
+    "gstin_number": "12WKQCH8988A7ZW",
+    "state_code": "12",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "WKQCH8988A"
+  },
+  {
+    "gstin_number": "27BMFJL3720GXZO",
+    "state_code": "27",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "BMFJL3720G"
+  },
+  {
+    "gstin_number": "23ZNYBI1921NDZD",
+    "state_code": "23",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "ZNYBI1921N"
+  },
+  {
+    "gstin_number": "22SAYPV7763CRZW",
+    "state_code": "22",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "SAYPV7763C"
+  },
+  {
+    "gstin_number": "20SOELV7154AUZ7",
+    "state_code": "20",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "SOELV7154A"
+  },
+  {
+    "gstin_number": "16RNUCV0563YVZX",
+    "state_code": "16",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "RNUCV0563Y"
+  },
+  {
+    "gstin_number": "01TLXTG7331WGZ2",
+    "state_code": "01",
+    "status": "active",
+    "registration_type": "composition",
+    "pan": "TLXTG7331W"
+  },
+  {
+    "gstin_number": "35DDMPR5986XVZY",
+    "state_code": "35",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "DDMPR5986X"
+  },
+  {
+    "gstin_number": "22TVHPP6202IAZZ",
+    "state_code": "22",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "TVHPP6202I"
+  },
+  {
+    "gstin_number": "02BKOLB2495WPZY",
+    "state_code": "02",
+    "status": "active",
+    "registration_type": "composition",
+    "pan": "BKOLB2495W"
+  },
+  {
+    "gstin_number": "26YKTPZ6224A9ZY",
+    "state_code": "26",
+    "status": "active",
+    "registration_type": "ISD",
+    "pan": "YKTPZ6224A"
+  },
+  {
+    "gstin_number": "02YKTPZ6224AQZR",
+    "state_code": "02",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "YKTPZ6224A"
+  },
+  {
+    "gstin_number": "26RCLJF0323YVZ3",
+    "state_code": "26",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "RCLJF0323Y"
+  },
+  {
+    "gstin_number": "04RCLJF0323YNZH",
+    "state_code": "04",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "RCLJF0323Y"
+  },
+  {
+    "gstin_number": "08BYBAH1011VBZU",
+    "state_code": "08",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "BYBAH1011V"
+  },
+  {
+    "gstin_number": "27ZSUCJ1036MKZT",
+    "state_code": "27",
+    "status": "active",
+    "registration_type": "composition",
+    "pan": "ZSUCJ1036M"
+  },
+  {
+    "gstin_number": "29PDZAL5606ASZ0",
+    "state_code": "29",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "PDZAL5606A"
+  },
+  {
+    "gstin_number": "06NQQPY4472HPZ3",
+    "state_code": "06",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "NQQPY4472H"
+  },
+  {
+    "gstin_number": "01MIMHZ2258RGZ6",
+    "state_code": "01",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "MIMHZ2258R"
+  },
+  {
+    "gstin_number": "36QMUBJ2635PUZU",
+    "state_code": "36",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "QMUBJ2635P"
+  },
+  {
+    "gstin_number": "18GDFBX5712POZS",
+    "state_code": "18",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "GDFBX5712P"
+  },
+  {
+    "gstin_number": "01ANHAR2967D4ZW",
+    "state_code": "01",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "ANHAR2967D"
+  },
+  {
+    "gstin_number": "06WCBJC5618JFZ7",
+    "state_code": "06",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "WCBJC5618J"
+  },
+  {
+    "gstin_number": "14JXHTN3667Y5ZQ",
+    "state_code": "14",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "JXHTN3667Y"
+  },
+  {
+    "gstin_number": "17KRMAH2280H5Z7",
+    "state_code": "17",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "KRMAH2280H"
+  },
+  {
+    "gstin_number": "21KRMAH2280HJZ4",
+    "state_code": "21",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "KRMAH2280H"
+  },
+  {
+    "gstin_number": "21MHKGQ5458X2ZE",
+    "state_code": "21",
+    "status": "active",
+    "registration_type": "ISD",
+    "pan": "MHKGQ5458X"
+  },
+  {
+    "gstin_number": "34RHBCP5429NBZ0",
+    "state_code": "34",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "RHBCP5429N"
+  },
+  {
+    "gstin_number": "35SHYPB4339MYZD",
+    "state_code": "35",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "SHYPB4339M"
+  },
+  {
+    "gstin_number": "02TQTFI5946D6ZP",
+    "state_code": "02",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "TQTFI5946D"
+  },
+  {
+    "gstin_number": "33VCYCP9274PXZK",
+    "state_code": "33",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "VCYCP9274P"
+  },
+  {
+    "gstin_number": "09VCYCP9274P5Z3",
+    "state_code": "09",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "VCYCP9274P"
+  },
+  {
+    "gstin_number": "34UKYPI8225VZZF",
+    "state_code": "34",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "UKYPI8225V"
+  },
+  {
+    "gstin_number": "26YWZFS3843P3Z4",
+    "state_code": "26",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "YWZFS3843P"
+  },
+  {
+    "gstin_number": "10ZICJD5474UMZ1",
+    "state_code": "10",
+    "status": "active",
+    "registration_type": "composition",
+    "pan": "ZICJD5474U"
+  },
+  {
+    "gstin_number": "06JISJR0069HKZG",
+    "state_code": "06",
+    "status": "active",
+    "registration_type": "composition",
+    "pan": "JISJR0069H"
+  },
+  {
+    "gstin_number": "12BUHHN1557FAZ2",
+    "state_code": "12",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "BUHHN1557F"
+  },
+  {
+    "gstin_number": "20QLRJJ6143SPZR",
+    "state_code": "20",
+    "status": "active",
+    "registration_type": "composition",
+    "pan": "QLRJJ6143S"
+  },
+  {
+    "gstin_number": "04CJJGW2962SNZ4",
+    "state_code": "04",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "CJJGW2962S"
+  },
+  {
+    "gstin_number": "24EGTCU0607B9ZY",
+    "state_code": "24",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "EGTCU0607B"
+  },
+  {
+    "gstin_number": "22WJNGF2848XQZL",
+    "state_code": "22",
+    "status": "active",
+    "registration_type": "ISD",
+    "pan": "WJNGF2848X"
+  },
+  {
+    "gstin_number": "26WJNGF2848X6ZX",
+    "state_code": "26",
+    "status": "active",
+    "registration_type": "regular",
+    "pan": "WJNGF2848X"
+  }
+]

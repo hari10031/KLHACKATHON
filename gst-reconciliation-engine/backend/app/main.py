@@ -8,8 +8,8 @@ from contextlib import asynccontextmanager
 from loguru import logger
 
 from app.config import settings
-from app.database import Neo4jConnection
-from app.api import reconciliation, dashboard, audit, risk, ingestion
+from app.database import Neo4jConnection, verify_connectivity
+from app.api import reconciliation, dashboard, audit, risk, ingestion, model_metrics
 
 
 @asynccontextmanager
@@ -17,7 +17,7 @@ async def lifespan(app: FastAPI):
     """Manage Neo4j connection lifecycle."""
     logger.info("Connecting to Neo4j...")
     Neo4jConnection.get_driver()
-    Neo4jConnection.verify_connectivity()
+    verify_connectivity()
     logger.info("Neo4j connected successfully.")
     yield
     logger.info("Shutting down Neo4j connection...")
@@ -46,6 +46,7 @@ app.include_router(dashboard.router, prefix="/api/v1")
 app.include_router(audit.router, prefix="/api/v1")
 app.include_router(risk.router, prefix="/api/v1")
 app.include_router(ingestion.router, prefix="/api/v1")
+app.include_router(model_metrics.router, prefix="/api/v1")
 
 
 @app.get("/")
@@ -56,7 +57,7 @@ async def root():
 @app.get("/health")
 async def health():
     try:
-        Neo4jConnection.verify_connectivity()
+        verify_connectivity()
         return {"status": "healthy", "neo4j": "connected"}
     except Exception as e:
         return {"status": "degraded", "neo4j": str(e)}

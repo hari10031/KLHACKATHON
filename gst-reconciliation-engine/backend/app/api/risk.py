@@ -13,11 +13,12 @@ async def vendor_risk(gstin: str):
     """Get risk prediction for a single vendor GSTIN."""
     result = eq("""
         MATCH (g:GSTIN {gstin_number: $gstin})
+        OPTIONAL MATCH (tp:Taxpayer)-[:HAS_GSTIN]->(g)
         OPTIONAL MATCH (g)-[:ISSUED_INVOICE]->(inv:Invoice)
-        WITH g, count(inv) AS invoice_count,
+        WITH g, tp, count(inv) AS invoice_count,
              sum(inv.total_value) AS total_value
         RETURN g.gstin_number AS gstin,
-               g.trade_name AS name,
+               COALESCE(tp.legal_name, tp.trade_name, g.trade_name, 'Unknown') AS name,
                g.risk_score AS risk_score,
                g.risk_label AS risk_label,
                g.pagerank AS pagerank,
@@ -38,9 +39,10 @@ async def risk_heatmap():
     data = eq("""
         MATCH (g:GSTIN)
         WHERE g.risk_score IS NOT NULL
+        OPTIONAL MATCH (tp:Taxpayer)-[:HAS_GSTIN]->(g)
         RETURN g.gstin_number AS gstin,
-               g.trade_name AS name,
-               g.state AS state,
+               COALESCE(tp.legal_name, tp.trade_name, 'Unknown') AS name,
+               g.state_code AS state,
                g.risk_score AS risk_score,
                g.risk_label AS label,
                g.community_id AS community
@@ -58,7 +60,7 @@ async def risk_communities():
         RETURN g.community_id AS community,
                collect({
                    gstin: g.gstin_number,
-                   name: g.trade_name,
+                   name: COALESCE(g.trade_name, 'Unknown'),
                    risk_score: g.risk_score
                }) AS members,
                avg(g.risk_score) AS avg_risk

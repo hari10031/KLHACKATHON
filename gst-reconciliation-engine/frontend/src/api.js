@@ -2,7 +2,7 @@ import axios from 'axios'
 
 const api = axios.create({
     baseURL: '/api/v1',
-    timeout: 30000,
+    timeout: 60000,
 })
 
 // ── Reconciliation ──
@@ -12,11 +12,13 @@ export const runReconciliation = (gstin, period, level) =>
 export const getGSTINs = () => api.get('/reconciliation/gstins')
 export const getPeriods = () => api.get('/reconciliation/periods')
 export const getMismatches = (gstin, period, params = {}) =>
-    api.get('/reconciliation/mismatches', { params: { gstin, return_period: period, ...params } })
+    api.get('/reconciliation/mismatches', {
+        params: { gstin, ...(period ? { return_period: period } : {}), ...params },
+    })
 
 // ── Dashboard ──
 export const getDashboardSummary = (gstin, period) =>
-    api.get('/dashboard/summary', { params: { gstin, return_period: period } })
+    api.get('/dashboard/summary', { params: { gstin, ...(period ? { return_period: period } : {}) } })
 
 export const getGraphData = (gstin, depth = 2) =>
     api.get('/dashboard/graph', { params: { gstin, depth } })
@@ -29,7 +31,7 @@ export const getMismatchTrends = (gstin) =>
 
 // ── Audit ──
 export const getFindings = (gstin, period) =>
-    api.get('/audit/findings', { params: { gstin, return_period: period } })
+    api.get('/audit/findings', { params: { gstin, ...(period ? { return_period: period } : {}) } })
 
 export const getTraversalPath = (mismatchId) =>
     api.get('/audit/traversal', { params: { mismatch_id: mismatchId } })
@@ -42,5 +44,15 @@ export const trainModel = () => api.post('/risk/train')
 
 // ── Ingestion ──
 export const seedDatabase = (params) => api.post('/ingestion/seed', null, { params })
+
+// ── Model Metrics ──
+export const getModelMetrics = () => api.get('/model-metrics')
+
+// ── Live Simulation ──
+export const runSimulation = () => api.post('/model-metrics/simulate')
+export const uploadSimulation = (formData) => api.post('/model-metrics/simulate/upload', formData, {
+    headers: { 'Content-Type': 'multipart/form-data' },
+    timeout: 120000,
+})
 
 export default api

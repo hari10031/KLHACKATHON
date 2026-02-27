@@ -1,0 +1,3 @@
+# Problem Statement
+
+India loses over ₹1.5 lakh crore annually to GST fraud — circular trading, phantom invoices, and fake ITC claims — yet detection relies on manual audits that catch barely 5% of cases. Existing systems lack cross-entity intelligence: they audit taxpayers in isolation, missing multi-party collusion rings that span states and industries. There is no real-time mechanism to reconcile GSTR-1/2B/3B filings, map entity relationships as a knowledge graph, and apply machine learning to flag anomalies before fraudulent ITC is encashed. The tax ecosystem needs an automated, graph-powered reconciliation engine with explainable AI to detect, score, and prioritize fraud at scale.

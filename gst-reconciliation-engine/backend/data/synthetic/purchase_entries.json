@@ -1,0 +1,6002 @@
+[
+  {
+    "entry_id": "PR000001",
+    "booking_date": "2024-12-14",
+    "taxable_value": 4727132.8,
+    "igst": 850883.9,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ebe64b01daa6b4e1"
+  },
+  {
+    "entry_id": "PR000002",
+    "booking_date": "2024-09-21",
+    "taxable_value": 1994252.19,
+    "igst": 358965.39,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "08c5bab15d1c62eb"
+  },
+  {
+    "entry_id": "PR000003",
+    "booking_date": "2025-03-03",
+    "taxable_value": 145736.95,
+    "igst": 26232.65,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "7b33cf1d9ca1c236"
+  },
+  {
+    "entry_id": "PR000004",
+    "booking_date": "2024-07-22",
+    "taxable_value": 4922243.85,
+    "igst": 886003.89,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6d0684a7983f1509"
+  },
+  {
+    "entry_id": "PR000005",
+    "booking_date": "2024-11-10",
+    "taxable_value": 2002848.63,
+    "igst": 100142.43,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a82af200b6d0bfc0"
+  },
+  {
+    "entry_id": "PR000006",
+    "booking_date": "2024-11-23",
+    "taxable_value": 188998.62,
+    "igst": 34019.75,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "9bbbcd9c3f831ff0"
+  },
+  {
+    "entry_id": "PR000007",
+    "booking_date": "2025-02-18",
+    "taxable_value": 330493.36,
+    "igst": 92538.14,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "4d199014e645ea19"
+  },
+  {
+    "entry_id": "PR000008",
+    "booking_date": "2024-08-30",
+    "taxable_value": 2538940.87,
+    "igst": 304672.9,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "15d3850139811a46"
+  },
+  {
+    "entry_id": "PR000009",
+    "booking_date": "2024-12-21",
+    "taxable_value": 1426030.01,
+    "igst": 171123.6,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "91715b0a4dde2088"
+  },
+  {
+    "entry_id": "PR000010",
+    "booking_date": "2024-08-26",
+    "taxable_value": 1506454.82,
+    "igst": 271161.87,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "9702d1aed48c534a"
+  },
+  {
+    "entry_id": "PR000011",
+    "booking_date": "2024-08-29",
+    "taxable_value": 219987.57,
+    "igst": 39597.76,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5aee7c49fb7cc59e"
+  },
+  {
+    "entry_id": "PR000012",
+    "booking_date": "2024-11-09",
+    "taxable_value": 3197707.08,
+    "igst": 575587.27,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "fc20446cd580db18"
+  },
+  {
+    "entry_id": "PR000013",
+    "booking_date": "2024-12-08",
+    "taxable_value": 614064.47,
+    "igst": 110531.6,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "6fdba1df5db34b62"
+  },
+  {
+    "entry_id": "PR000014",
+    "booking_date": "2024-06-06",
+    "taxable_value": 2514816.07,
+    "igst": 452666.89,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "07758cefc267baf5"
+  },
+  {
+    "entry_id": "PR000015",
+    "booking_date": "2025-03-17",
+    "taxable_value": 1487871.92,
+    "igst": 267816.95,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "49387b0cc3c1a6d0"
+  },
+  {
+    "entry_id": "PR000016",
+    "booking_date": "2024-12-10",
+    "taxable_value": 4411815.04,
+    "igst": 794126.71,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "73a221d32664a413"
+  },
+  {
+    "entry_id": "PR000017",
+    "booking_date": "2025-02-05",
+    "taxable_value": 699765.15,
+    "igst": 125957.73,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2633f043ec2fa7ce"
+  },
+  {
+    "entry_id": "PR000018",
+    "booking_date": "2024-06-10",
+    "taxable_value": 1037501.18,
+    "igst": 186750.21,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "11247b600cccd456"
+  },
+  {
+    "entry_id": "PR000019",
+    "booking_date": "2025-01-13",
+    "taxable_value": 687227.5,
+    "igst": 123700.95,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "e8e081e945ca09c5"
+  },
+  {
+    "entry_id": "PR000020",
+    "booking_date": "2024-04-20",
+    "taxable_value": 1492662.66,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "655c560809f892fe"
+  },
+  {
+    "entry_id": "PR000021",
+    "booking_date": "2024-05-31",
+    "taxable_value": 1838351.97,
+    "igst": 514738.55,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "f2d1d79a77129171"
+  },
+  {
+    "entry_id": "PR000022",
+    "booking_date": "2024-08-09",
+    "taxable_value": 3729276.61,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e05938204dae3f58"
+  },
+  {
+    "entry_id": "PR000023",
+    "booking_date": "2024-10-12",
+    "taxable_value": 1238312.68,
+    "igst": 222896.28,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "4bb880433cb4dc89"
+  },
+  {
+    "entry_id": "PR000024",
+    "booking_date": "2024-09-01",
+    "taxable_value": 305727.23,
+    "igst": 55030.9,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "81a44bb886734869"
+  },
+  {
+    "entry_id": "PR000025",
+    "booking_date": "2024-04-08",
+    "taxable_value": 4685861.66,
+    "igst": 0.0,
+    "cgst": 421727.55,
+    "sgst": 421727.55,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a0c8ff5b4a163414"
+  },
+  {
+    "entry_id": "PR000026",
+    "booking_date": "2024-12-07",
+    "taxable_value": 2304684.16,
+    "igst": 414843.15,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "cf84e78b2e13f4aa"
+  },
+  {
+    "entry_id": "PR000027",
+    "booking_date": "2024-07-25",
+    "taxable_value": 3420524.09,
+    "igst": 957746.75,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "d695809afb9477e4"
+  },
+  {
+    "entry_id": "PR000028",
+    "booking_date": "2024-05-21",
+    "taxable_value": 1161487.88,
+    "igst": 209067.82,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f3f3062d252a31af"
+  },
+  {
+    "entry_id": "PR000029",
+    "booking_date": "2024-05-18",
+    "taxable_value": 2990620.95,
+    "igst": 538311.77,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "545d962a66e6eb8b"
+  },
+  {
+    "entry_id": "PR000030",
+    "booking_date": "2024-09-11",
+    "taxable_value": 3674636.95,
+    "igst": 1028898.35,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "45e56c864fa14b69"
+  },
+  {
+    "entry_id": "PR000031",
+    "booking_date": "2024-09-17",
+    "taxable_value": 530616.81,
+    "igst": 95511.03,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f5a61f64a6850496"
+  },
+  {
+    "entry_id": "PR000032",
+    "booking_date": "2025-01-12",
+    "taxable_value": 4792354.65,
+    "igst": 862623.84,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "679b339ddcee416d"
+  },
+  {
+    "entry_id": "PR000033",
+    "booking_date": "2024-10-14",
+    "taxable_value": 929582.74,
+    "igst": 167324.89,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "0a6ef7a5bc8fb5c5"
+  },
+  {
+    "entry_id": "PR000034",
+    "booking_date": "2024-04-17",
+    "taxable_value": 1314813.31,
+    "igst": 236666.4,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "31cfcfb3d003c33e"
+  },
+  {
+    "entry_id": "PR000035",
+    "booking_date": "2025-01-21",
+    "taxable_value": 3139436.29,
+    "igst": 565098.53,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "dd61e573ec993fc0"
+  },
+  {
+    "entry_id": "PR000036",
+    "booking_date": "2025-02-15",
+    "taxable_value": 82390.48,
+    "igst": 14830.29,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e1b226742075f507"
+  },
+  {
+    "entry_id": "PR000037",
+    "booking_date": "2025-03-13",
+    "taxable_value": 342989.63,
+    "igst": 41158.76,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c5733124e487ce0d"
+  },
+  {
+    "entry_id": "PR000038",
+    "booking_date": "2024-10-15",
+    "taxable_value": 1206167.7,
+    "igst": 144740.12,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e27722664960c41c"
+  },
+  {
+    "entry_id": "PR000039",
+    "booking_date": "2024-06-19",
+    "taxable_value": 1634424.73,
+    "igst": 294196.45,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f399ba4a88983262"
+  },
+  {
+    "entry_id": "PR000040",
+    "booking_date": "2024-04-24",
+    "taxable_value": 1820518.51,
+    "igst": 327693.33,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "448d11aa181744a5"
+  },
+  {
+    "entry_id": "PR000041",
+    "booking_date": "2024-09-19",
+    "taxable_value": 3794886.84,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "fe4716ff8b6ea910"
+  },
+  {
+    "entry_id": "PR000042",
+    "booking_date": "2024-09-08",
+    "taxable_value": 604562.95,
+    "igst": 108821.33,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "1a2ed247ec54027c"
+  },
+  {
+    "entry_id": "PR000043",
+    "booking_date": "2024-05-04",
+    "taxable_value": 4512577.91,
+    "igst": 812264.02,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b84274ed7346a963"
+  },
+  {
+    "entry_id": "PR000044",
+    "booking_date": "2025-01-04",
+    "taxable_value": 1720826.56,
+    "igst": 309748.78,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "12040cfcd98ab4ef"
+  },
+  {
+    "entry_id": "PR000045",
+    "booking_date": "2024-09-06",
+    "taxable_value": 2452691.66,
+    "igst": 0.0,
+    "cgst": 220742.25,
+    "sgst": 220742.25,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "55342f16454b19a1"
+  },
+  {
+    "entry_id": "PR000046",
+    "booking_date": "2025-03-29",
+    "taxable_value": 3468108.43,
+    "igst": 624259.52,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "234c90319633bd95"
+  },
+  {
+    "entry_id": "PR000047",
+    "booking_date": "2024-10-15",
+    "taxable_value": 3663189.89,
+    "igst": 659374.18,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "bb1e126bb6a9780f"
+  },
+  {
+    "entry_id": "PR000048",
+    "booking_date": "2025-01-07",
+    "taxable_value": 768796.08,
+    "igst": 138383.29,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "68fe9c3859d2713d"
+  },
+  {
+    "entry_id": "PR000049",
+    "booking_date": "2024-04-18",
+    "taxable_value": 2856528.46,
+    "igst": 514175.12,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "0773be787dc9736e"
+  },
+  {
+    "entry_id": "PR000050",
+    "booking_date": "2025-02-06",
+    "taxable_value": 188290.89,
+    "igst": 33892.36,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b41ea860f961ba92"
+  },
+  {
+    "entry_id": "PR000051",
+    "booking_date": "2024-04-30",
+    "taxable_value": 166322.15,
+    "igst": 29937.99,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "74117ab486a1f32c"
+  },
+  {
+    "entry_id": "PR000052",
+    "booking_date": "2024-10-10",
+    "taxable_value": 2295531.1,
+    "igst": 114776.55,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "68dd77a0b6d4a43d"
+  },
+  {
+    "entry_id": "PR000053",
+    "booking_date": "2025-03-03",
+    "taxable_value": 906498.15,
+    "igst": 163169.67,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "8e5c2ed53338f135"
+  },
+  {
+    "entry_id": "PR000054",
+    "booking_date": "2024-05-12",
+    "taxable_value": 1663814.61,
+    "igst": 299486.63,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "12ae9f93d606d5bc"
+  },
+  {
+    "entry_id": "PR000055",
+    "booking_date": "2025-03-18",
+    "taxable_value": 1714321.46,
+    "igst": 205718.58,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "0aa2ee1ea64e9cd4"
+  },
+  {
+    "entry_id": "PR000056",
+    "booking_date": "2024-05-29",
+    "taxable_value": 2489197.58,
+    "igst": 298703.71,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "ccf28242b5cfe9cb"
+  },
+  {
+    "entry_id": "PR000057",
+    "booking_date": "2025-03-13",
+    "taxable_value": 2130550.04,
+    "igst": 0.0,
+    "cgst": 298277.01,
+    "sgst": 298277.01,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "a3dd69c1c9857810"
+  },
+  {
+    "entry_id": "PR000058",
+    "booking_date": "2024-10-28",
+    "taxable_value": 230815.65,
+    "igst": 41546.82,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "340a3e82326dace5"
+  },
+  {
+    "entry_id": "PR000059",
+    "booking_date": "2025-01-19",
+    "taxable_value": 441011.29,
+    "igst": 79382.03,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ed6c2a9bab0711ef"
+  },
+  {
+    "entry_id": "PR000060",
+    "booking_date": "2024-07-10",
+    "taxable_value": 604608.29,
+    "igst": 108829.49,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ef3faf7a126ba56c"
+  },
+  {
+    "entry_id": "PR000061",
+    "booking_date": "2024-09-23",
+    "taxable_value": 2264775.68,
+    "igst": 634137.19,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6ecc0ad9e0b74fb4"
+  },
+  {
+    "entry_id": "PR000062",
+    "booking_date": "2024-11-18",
+    "taxable_value": 3080928.06,
+    "igst": 369711.37,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "cf56ab4e80100b59"
+  },
+  {
+    "entry_id": "PR000063",
+    "booking_date": "2024-06-18",
+    "taxable_value": 2984804.78,
+    "igst": 835745.34,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "aa7e19f2cb08a1f8"
+  },
+  {
+    "entry_id": "PR000064",
+    "booking_date": "2024-12-21",
+    "taxable_value": 2572031.0,
+    "igst": 128601.55,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "7d7ad211cba631d4"
+  },
+  {
+    "entry_id": "PR000065",
+    "booking_date": "2024-10-16",
+    "taxable_value": 3151456.11,
+    "igst": 567262.1,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "d51661efe56727e9"
+  },
+  {
+    "entry_id": "PR000066",
+    "booking_date": "2025-03-13",
+    "taxable_value": 4787000.85,
+    "igst": 239350.04,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "276c9d06247cebd4"
+  },
+  {
+    "entry_id": "PR000067",
+    "booking_date": "2024-06-05",
+    "taxable_value": 501125.24,
+    "igst": 90202.54,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e4a1454bc1a93aef"
+  },
+  {
+    "entry_id": "PR000068",
+    "booking_date": "2024-04-19",
+    "taxable_value": 1303820.99,
+    "igst": 234687.78,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "d98f61f1fb1d3fa9"
+  },
+  {
+    "entry_id": "PR000069",
+    "booking_date": "2024-04-24",
+    "taxable_value": 4902968.32,
+    "igst": 245148.42,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "12c54d20f3c7a356"
+  },
+  {
+    "entry_id": "PR000070",
+    "booking_date": "2025-01-28",
+    "taxable_value": 3236648.91,
+    "igst": 582596.8,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ff30c83968eea2e0"
+  },
+  {
+    "entry_id": "PR000071",
+    "booking_date": "2024-12-24",
+    "taxable_value": 3422154.79,
+    "igst": 615987.86,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "d363c397e89c9355"
+  },
+  {
+    "entry_id": "PR000072",
+    "booking_date": "2024-04-03",
+    "taxable_value": 2890357.74,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2941cff53f641dd3"
+  },
+  {
+    "entry_id": "PR000073",
+    "booking_date": "2024-09-21",
+    "taxable_value": 3070512.81,
+    "igst": 552692.31,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "9bcf10c89aae163d"
+  },
+  {
+    "entry_id": "PR000074",
+    "booking_date": "2024-08-01",
+    "taxable_value": 4878253.86,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "8f7f15b519be6dc5"
+  },
+  {
+    "entry_id": "PR000075",
+    "booking_date": "2024-08-11",
+    "taxable_value": 1913983.56,
+    "igst": 95699.18,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "4494c11249348516"
+  },
+  {
+    "entry_id": "PR000076",
+    "booking_date": "2025-01-20",
+    "taxable_value": 2454535.95,
+    "igst": 441816.47,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "09cb75fa3fd3045a"
+  },
+  {
+    "entry_id": "PR000077",
+    "booking_date": "2024-07-02",
+    "taxable_value": 656564.69,
+    "igst": 32828.23,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2377f531483c4b8d"
+  },
+  {
+    "entry_id": "PR000078",
+    "booking_date": "2024-08-24",
+    "taxable_value": 1626126.34,
+    "igst": 81306.32,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a79f22c89c9d39ad"
+  },
+  {
+    "entry_id": "PR000079",
+    "booking_date": "2024-08-13",
+    "taxable_value": 777216.54,
+    "igst": 139898.98,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b1999af9c94edcfb"
+  },
+  {
+    "entry_id": "PR000080",
+    "booking_date": "2024-08-25",
+    "taxable_value": 2675959.34,
+    "igst": 481672.68,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "cdf15daceb84a726"
+  },
+  {
+    "entry_id": "PR000081",
+    "booking_date": "2024-08-16",
+    "taxable_value": 3576264.52,
+    "igst": 429151.74,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "4005cfbafdf613e1"
+  },
+  {
+    "entry_id": "PR000082",
+    "booking_date": "2025-03-07",
+    "taxable_value": 2364654.9,
+    "igst": 425637.88,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ce044be3533a8146"
+  },
+  {
+    "entry_id": "PR000083",
+    "booking_date": "2024-06-18",
+    "taxable_value": 3957539.76,
+    "igst": 712357.16,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6efc6f3e62463131"
+  },
+  {
+    "entry_id": "PR000084",
+    "booking_date": "2024-12-25",
+    "taxable_value": 3828904.74,
+    "igst": 689202.85,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ec575b5dc458423b"
+  },
+  {
+    "entry_id": "PR000085",
+    "booking_date": "2024-12-22",
+    "taxable_value": 507024.38,
+    "igst": 60842.93,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "9cd0f6f42438e212"
+  },
+  {
+    "entry_id": "PR000086",
+    "booking_date": "2024-10-21",
+    "taxable_value": 3631840.08,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "83aae8adfba51ff2"
+  },
+  {
+    "entry_id": "PR000087",
+    "booking_date": "2024-09-19",
+    "taxable_value": 4399082.72,
+    "igst": 219954.14,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "d87fcb8568530b9f"
+  },
+  {
+    "entry_id": "PR000088",
+    "booking_date": "2024-10-20",
+    "taxable_value": 981300.4,
+    "igst": 49065.02,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6e08f1221ef52536"
+  },
+  {
+    "entry_id": "PR000089",
+    "booking_date": "2024-11-17",
+    "taxable_value": 114717.83,
+    "igst": 20649.21,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "33fef3cb6e8cfdc3"
+  },
+  {
+    "entry_id": "PR000090",
+    "booking_date": "2024-12-07",
+    "taxable_value": 3722209.21,
+    "igst": 669997.66,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "d28441ff70f57356"
+  },
+  {
+    "entry_id": "PR000091",
+    "booking_date": "2025-01-15",
+    "taxable_value": 1588163.56,
+    "igst": 285869.44,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "0d50980e8c02627c"
+  },
+  {
+    "entry_id": "PR000092",
+    "booking_date": "2024-07-08",
+    "taxable_value": 162115.54,
+    "igst": 29180.8,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "030dd4c0df288a89"
+  },
+  {
+    "entry_id": "PR000093",
+    "booking_date": "2024-08-28",
+    "taxable_value": 1990801.42,
+    "igst": 358344.26,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "3af4454ffa555018"
+  },
+  {
+    "entry_id": "PR000094",
+    "booking_date": "2024-06-27",
+    "taxable_value": 2827892.4,
+    "igst": 791809.87,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e262c3e351732940"
+  },
+  {
+    "entry_id": "PR000095",
+    "booking_date": "2024-07-04",
+    "taxable_value": 276264.63,
+    "igst": 33151.76,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "15e2876efb91e2ab"
+  },
+  {
+    "entry_id": "PR000096",
+    "booking_date": "2025-03-19",
+    "taxable_value": 4669524.48,
+    "igst": 840514.41,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c68b271ca7ed8b0c"
+  },
+  {
+    "entry_id": "PR000097",
+    "booking_date": "2024-10-20",
+    "taxable_value": 3080350.72,
+    "igst": 154017.54,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e877e2627b930b5d"
+  },
+  {
+    "entry_id": "PR000098",
+    "booking_date": "2024-05-15",
+    "taxable_value": 4385366.61,
+    "igst": 789365.99,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c434f51bf1130aed"
+  },
+  {
+    "entry_id": "PR000099",
+    "booking_date": "2024-07-17",
+    "taxable_value": 1003577.01,
+    "igst": 281001.56,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f19ce30bc8c98897"
+  },
+  {
+    "entry_id": "PR000100",
+    "booking_date": "2025-03-24",
+    "taxable_value": 487217.72,
+    "igst": 87699.19,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5173e50ce2ac28dd"
+  },
+  {
+    "entry_id": "PR000101",
+    "booking_date": "2024-07-16",
+    "taxable_value": 2156311.34,
+    "igst": 107815.57,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "e706fbefbb1167eb"
+  },
+  {
+    "entry_id": "PR000102",
+    "booking_date": "2025-03-14",
+    "taxable_value": 4592589.61,
+    "igst": 1285925.09,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "81a7d38609aff343"
+  },
+  {
+    "entry_id": "PR000103",
+    "booking_date": "2025-03-23",
+    "taxable_value": 4651624.75,
+    "igst": 837292.45,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "de71b6585300fc83"
+  },
+  {
+    "entry_id": "PR000104",
+    "booking_date": "2024-06-25",
+    "taxable_value": 3475560.76,
+    "igst": 173778.04,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "285b35e9389cea33"
+  },
+  {
+    "entry_id": "PR000105",
+    "booking_date": "2024-11-12",
+    "taxable_value": 1055072.88,
+    "igst": 189913.12,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "46a02a911c86b714"
+  },
+  {
+    "entry_id": "PR000106",
+    "booking_date": "2025-03-11",
+    "taxable_value": 3852715.93,
+    "igst": 192635.8,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "b18e17112dbe67ca"
+  },
+  {
+    "entry_id": "PR000107",
+    "booking_date": "2024-08-20",
+    "taxable_value": 3461415.24,
+    "igst": 623054.74,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "43e882ab6fbd1b82"
+  },
+  {
+    "entry_id": "PR000108",
+    "booking_date": "2025-03-01",
+    "taxable_value": 4664535.72,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6b1c965eebe66d02"
+  },
+  {
+    "entry_id": "PR000109",
+    "booking_date": "2024-07-07",
+    "taxable_value": 179455.74,
+    "igst": 21534.69,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a2079b8831f5bd50"
+  },
+  {
+    "entry_id": "PR000110",
+    "booking_date": "2024-06-28",
+    "taxable_value": 4523407.09,
+    "igst": 226170.35,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "14b5838d010d312a"
+  },
+  {
+    "entry_id": "PR000111",
+    "booking_date": "2024-06-24",
+    "taxable_value": 1218979.4,
+    "igst": 219416.29,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "cdd48a6f6de364c4"
+  },
+  {
+    "entry_id": "PR000112",
+    "booking_date": "2024-06-30",
+    "taxable_value": 3351043.03,
+    "igst": 603187.75,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "70028fb38ef10da5"
+  },
+  {
+    "entry_id": "PR000113",
+    "booking_date": "2025-03-21",
+    "taxable_value": 299198.95,
+    "igst": 14959.95,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e6848406bb506153"
+  },
+  {
+    "entry_id": "PR000114",
+    "booking_date": "2025-03-23",
+    "taxable_value": 2262754.4,
+    "igst": 271530.53,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "799d4d85a745995b"
+  },
+  {
+    "entry_id": "PR000115",
+    "booking_date": "2024-10-05",
+    "taxable_value": 3241215.12,
+    "igst": 583418.72,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "418b0cb7006c312d"
+  },
+  {
+    "entry_id": "PR000116",
+    "booking_date": "2025-02-16",
+    "taxable_value": 1466554.04,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "98b6a1147917b51c"
+  },
+  {
+    "entry_id": "PR000117",
+    "booking_date": "2025-01-20",
+    "taxable_value": 2205002.3,
+    "igst": 264600.28,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "fccd1514875f5286"
+  },
+  {
+    "entry_id": "PR000118",
+    "booking_date": "2025-01-08",
+    "taxable_value": 1541102.92,
+    "igst": 184932.35,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f8cd8bf652adaacd"
+  },
+  {
+    "entry_id": "PR000119",
+    "booking_date": "2024-10-30",
+    "taxable_value": 1443881.46,
+    "igst": 259898.66,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "080e70adf067514c"
+  },
+  {
+    "entry_id": "PR000120",
+    "booking_date": "2025-02-22",
+    "taxable_value": 621760.44,
+    "igst": 111916.88,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6ede7016a9948f6d"
+  },
+  {
+    "entry_id": "PR000121",
+    "booking_date": "2024-07-09",
+    "taxable_value": 3823682.21,
+    "igst": 688262.8,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5ee187b187d86378"
+  },
+  {
+    "entry_id": "PR000122",
+    "booking_date": "2025-03-30",
+    "taxable_value": 144768.93,
+    "igst": 40535.3,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "9213d0e4ba0e90be"
+  },
+  {
+    "entry_id": "PR000123",
+    "booking_date": "2025-01-22",
+    "taxable_value": 2644664.86,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b1827999ad7284a1"
+  },
+  {
+    "entry_id": "PR000124",
+    "booking_date": "2025-02-02",
+    "taxable_value": 3435545.74,
+    "igst": 961952.81,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "8dac6e8dc711aada"
+  },
+  {
+    "entry_id": "PR000125",
+    "booking_date": "2024-12-11",
+    "taxable_value": 3142226.78,
+    "igst": 565600.82,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ef5b6e78056be2ab"
+  },
+  {
+    "entry_id": "PR000126",
+    "booking_date": "2024-10-10",
+    "taxable_value": 2298821.54,
+    "igst": 413787.88,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "1d7f8706791f5417"
+  },
+  {
+    "entry_id": "PR000127",
+    "booking_date": "2024-11-06",
+    "taxable_value": 4959735.67,
+    "igst": 247986.78,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "1237c79d989df5b5"
+  },
+  {
+    "entry_id": "PR000128",
+    "booking_date": "2024-04-25",
+    "taxable_value": 4981142.24,
+    "igst": 1394719.83,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "e476422885c03ce8"
+  },
+  {
+    "entry_id": "PR000129",
+    "booking_date": "2025-02-21",
+    "taxable_value": 4044858.46,
+    "igst": 728074.52,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "93ccff128a21cf4d"
+  },
+  {
+    "entry_id": "PR000130",
+    "booking_date": "2024-04-11",
+    "taxable_value": 4298060.43,
+    "igst": 214903.02,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "863966796dad6669"
+  },
+  {
+    "entry_id": "PR000131",
+    "booking_date": "2024-09-05",
+    "taxable_value": 3227342.54,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a9565b8e5048960a"
+  },
+  {
+    "entry_id": "PR000132",
+    "booking_date": "2024-11-02",
+    "taxable_value": 3646428.74,
+    "igst": 656357.17,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "1b2539a7efed8670"
+  },
+  {
+    "entry_id": "PR000133",
+    "booking_date": "2024-10-19",
+    "taxable_value": 4723841.02,
+    "igst": 850291.38,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5a30f9a8677a3c92"
+  },
+  {
+    "entry_id": "PR000134",
+    "booking_date": "2024-06-14",
+    "taxable_value": 1451674.61,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2d4e5cffe47bd469"
+  },
+  {
+    "entry_id": "PR000135",
+    "booking_date": "2024-11-26",
+    "taxable_value": 449150.26,
+    "igst": 53898.03,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "40f8f84483fab28a"
+  },
+  {
+    "entry_id": "PR000136",
+    "booking_date": "2024-09-30",
+    "taxable_value": 2426512.37,
+    "igst": 436772.23,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "64429cbf9c44b343"
+  },
+  {
+    "entry_id": "PR000137",
+    "booking_date": "2024-05-12",
+    "taxable_value": 4153665.43,
+    "igst": 747659.78,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "1a3f5aa8ee94e8ba"
+  },
+  {
+    "entry_id": "PR000138",
+    "booking_date": "2025-03-17",
+    "taxable_value": 657302.06,
+    "igst": 118314.37,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b1f19f3d434aeccb"
+  },
+  {
+    "entry_id": "PR000139",
+    "booking_date": "2024-12-14",
+    "taxable_value": 570563.52,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "3b657ce25abf9556"
+  },
+  {
+    "entry_id": "PR000140",
+    "booking_date": "2025-02-15",
+    "taxable_value": 955381.35,
+    "igst": 171968.64,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "1e0e4da88b8109d7"
+  },
+  {
+    "entry_id": "PR000141",
+    "booking_date": "2025-01-21",
+    "taxable_value": 2766725.17,
+    "igst": 774683.05,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6093aa8952b983a6"
+  },
+  {
+    "entry_id": "PR000142",
+    "booking_date": "2024-08-12",
+    "taxable_value": 3384962.36,
+    "igst": 169248.12,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "3554741eeae69058"
+  },
+  {
+    "entry_id": "PR000143",
+    "booking_date": "2024-06-10",
+    "taxable_value": 4243126.86,
+    "igst": 509175.22,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "783dc2d71686c758"
+  },
+  {
+    "entry_id": "PR000144",
+    "booking_date": "2024-12-27",
+    "taxable_value": 4602332.51,
+    "igst": 828419.85,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "502cde7f66fa0968"
+  },
+  {
+    "entry_id": "PR000145",
+    "booking_date": "2025-01-23",
+    "taxable_value": 3573520.96,
+    "igst": 178676.05,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "ff976bde8ceb8018"
+  },
+  {
+    "entry_id": "PR000146",
+    "booking_date": "2024-07-18",
+    "taxable_value": 2367304.45,
+    "igst": 426114.8,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "4381809686b65117"
+  },
+  {
+    "entry_id": "PR000147",
+    "booking_date": "2024-09-20",
+    "taxable_value": 2376662.51,
+    "igst": 427799.25,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "aae82957cc4bec51"
+  },
+  {
+    "entry_id": "PR000148",
+    "booking_date": "2025-01-27",
+    "taxable_value": 2457873.73,
+    "igst": 122893.69,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "fefa29423ac35d61"
+  },
+  {
+    "entry_id": "PR000149",
+    "booking_date": "2024-12-17",
+    "taxable_value": 1925858.35,
+    "igst": 346654.5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b9ddd62078076210"
+  },
+  {
+    "entry_id": "PR000150",
+    "booking_date": "2024-06-22",
+    "taxable_value": 2815844.81,
+    "igst": 506852.07,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "9556cfd3b4e0c8a0"
+  },
+  {
+    "entry_id": "PR000151",
+    "booking_date": "2024-06-03",
+    "taxable_value": 4860223.1,
+    "igst": 243011.15,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "3e37b221fd9e0fd8"
+  },
+  {
+    "entry_id": "PR000152",
+    "booking_date": "2025-01-27",
+    "taxable_value": 3730121.22,
+    "igst": 447614.55,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "3f5d305248054e77"
+  },
+  {
+    "entry_id": "PR000153",
+    "booking_date": "2024-08-07",
+    "taxable_value": 540095.43,
+    "igst": 97217.18,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "096b6c7ef80f854d"
+  },
+  {
+    "entry_id": "PR000154",
+    "booking_date": "2024-10-14",
+    "taxable_value": 3976028.22,
+    "igst": 715685.08,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "7b08bc6ffbfa1e8d"
+  },
+  {
+    "entry_id": "PR000155",
+    "booking_date": "2024-10-06",
+    "taxable_value": 2588885.27,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "88b98a265e8eff16"
+  },
+  {
+    "entry_id": "PR000156",
+    "booking_date": "2024-09-17",
+    "taxable_value": 1027376.49,
+    "igst": 184927.77,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f0fff73b59fd5f24"
+  },
+  {
+    "entry_id": "PR000157",
+    "booking_date": "2025-03-31",
+    "taxable_value": 593348.1,
+    "igst": 29667.4,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2254fbe57f418220"
+  },
+  {
+    "entry_id": "PR000158",
+    "booking_date": "2024-10-23",
+    "taxable_value": 3249036.57,
+    "igst": 162451.83,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "0436f6c91e054d48"
+  },
+  {
+    "entry_id": "PR000159",
+    "booking_date": "2024-08-20",
+    "taxable_value": 492947.14,
+    "igst": 88730.49,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "7dfc97e3666d3078"
+  },
+  {
+    "entry_id": "PR000160",
+    "booking_date": "2025-03-04",
+    "taxable_value": 1699771.39,
+    "igst": 84988.57,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "243f0dd579652131"
+  },
+  {
+    "entry_id": "PR000161",
+    "booking_date": "2024-08-28",
+    "taxable_value": 350827.18,
+    "igst": 63148.89,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "90ecf1a1e772be3b"
+  },
+  {
+    "entry_id": "PR000162",
+    "booking_date": "2024-06-29",
+    "taxable_value": 1246424.95,
+    "igst": 224356.49,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "53c4a1f1e87f44ed"
+  },
+  {
+    "entry_id": "PR000163",
+    "booking_date": "2024-04-20",
+    "taxable_value": 1253778.06,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "9930d093c53b0adc"
+  },
+  {
+    "entry_id": "PR000164",
+    "booking_date": "2024-05-17",
+    "taxable_value": 2108991.97,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "27fbccef2e8d9257"
+  },
+  {
+    "entry_id": "PR000165",
+    "booking_date": "2025-02-14",
+    "taxable_value": 220650.77,
+    "igst": 11032.54,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ef4436e01a685488"
+  },
+  {
+    "entry_id": "PR000166",
+    "booking_date": "2024-04-21",
+    "taxable_value": 3959107.08,
+    "igst": 712639.27,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "bc4180f9f693089a"
+  },
+  {
+    "entry_id": "PR000167",
+    "booking_date": "2024-11-04",
+    "taxable_value": 3029650.32,
+    "igst": 545337.06,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "1a5d583c5a223393"
+  },
+  {
+    "entry_id": "PR000168",
+    "booking_date": "2024-06-19",
+    "taxable_value": 21898.57,
+    "igst": 3941.74,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a1390e6202e5b0a4"
+  },
+  {
+    "entry_id": "PR000169",
+    "booking_date": "2024-08-05",
+    "taxable_value": 2389150.07,
+    "igst": 430047.01,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "d72534ff07cc7f0c"
+  },
+  {
+    "entry_id": "PR000170",
+    "booking_date": "2025-01-19",
+    "taxable_value": 4071325.88,
+    "igst": 203566.29,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "7035c9a5241771ff"
+  },
+  {
+    "entry_id": "PR000171",
+    "booking_date": "2024-05-02",
+    "taxable_value": 3759241.68,
+    "igst": 676663.5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f4a1e09561b4e55d"
+  },
+  {
+    "entry_id": "PR000172",
+    "booking_date": "2024-10-29",
+    "taxable_value": 16642.42,
+    "igst": 2995.64,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "139b6e37a35c1805"
+  },
+  {
+    "entry_id": "PR000173",
+    "booking_date": "2025-03-25",
+    "taxable_value": 3671654.44,
+    "igst": 440598.53,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "319b448634ab7dd6"
+  },
+  {
+    "entry_id": "PR000174",
+    "booking_date": "2024-09-23",
+    "taxable_value": 4550925.46,
+    "igst": 819166.58,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "0ba494dd31689b51"
+  },
+  {
+    "entry_id": "PR000175",
+    "booking_date": "2025-03-07",
+    "taxable_value": 2994802.66,
+    "igst": 149740.13,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "c60931d9531ae8b2"
+  },
+  {
+    "entry_id": "PR000176",
+    "booking_date": "2024-07-10",
+    "taxable_value": 1811766.66,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5385f9a34d9ec967"
+  },
+  {
+    "entry_id": "PR000177",
+    "booking_date": "2025-03-22",
+    "taxable_value": 3971924.23,
+    "igst": 476630.91,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "2af2c799d157037b"
+  },
+  {
+    "entry_id": "PR000178",
+    "booking_date": "2024-09-01",
+    "taxable_value": 4731126.86,
+    "igst": 236556.34,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "657f1e89a0fa8a7e"
+  },
+  {
+    "entry_id": "PR000179",
+    "booking_date": "2024-11-09",
+    "taxable_value": 130523.41,
+    "igst": 23494.21,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f01b4d794cf0055b"
+  },
+  {
+    "entry_id": "PR000180",
+    "booking_date": "2025-03-14",
+    "taxable_value": 2758806.81,
+    "igst": 496585.23,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "fbe1199332bf6102"
+  },
+  {
+    "entry_id": "PR000181",
+    "booking_date": "2024-12-09",
+    "taxable_value": 4810869.49,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "aa8ac84eea11af1a"
+  },
+  {
+    "entry_id": "PR000182",
+    "booking_date": "2025-03-14",
+    "taxable_value": 4158800.3,
+    "igst": 748584.05,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ce34971048b7d5d4"
+  },
+  {
+    "entry_id": "PR000183",
+    "booking_date": "2024-11-11",
+    "taxable_value": 810009.67,
+    "igst": 145801.74,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "0ff53460bb328f78"
+  },
+  {
+    "entry_id": "PR000184",
+    "booking_date": "2025-01-31",
+    "taxable_value": 2172208.25,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "079853b7758b071c"
+  },
+  {
+    "entry_id": "PR000185",
+    "booking_date": "2024-11-01",
+    "taxable_value": 1599884.58,
+    "igst": 287979.22,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "86f6cc26648233b9"
+  },
+  {
+    "entry_id": "PR000186",
+    "booking_date": "2024-11-29",
+    "taxable_value": 2668254.21,
+    "igst": 480285.76,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "638c267065c73715"
+  },
+  {
+    "entry_id": "PR000187",
+    "booking_date": "2024-07-22",
+    "taxable_value": 3541565.27,
+    "igst": 991638.28,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "656838bd60860998"
+  },
+  {
+    "entry_id": "PR000188",
+    "booking_date": "2025-02-15",
+    "taxable_value": 2754838.14,
+    "igst": 495870.87,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "282b7682095d051a"
+  },
+  {
+    "entry_id": "PR000189",
+    "booking_date": "2024-06-13",
+    "taxable_value": 68471.02,
+    "igst": 12324.78,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "57a061e7d28b1192"
+  },
+  {
+    "entry_id": "PR000190",
+    "booking_date": "2024-06-26",
+    "taxable_value": 1123387.76,
+    "igst": 134806.53,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "f045887f9d291493"
+  },
+  {
+    "entry_id": "PR000191",
+    "booking_date": "2024-11-05",
+    "taxable_value": 724194.43,
+    "igst": 130355.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "16d65aeff17e26b4"
+  },
+  {
+    "entry_id": "PR000192",
+    "booking_date": "2024-07-17",
+    "taxable_value": 280272.46,
+    "igst": 50449.04,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b2939c6812d0a170"
+  },
+  {
+    "entry_id": "PR000193",
+    "booking_date": "2024-10-20",
+    "taxable_value": 3399837.82,
+    "igst": 611970.81,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "addb946547640a95"
+  },
+  {
+    "entry_id": "PR000194",
+    "booking_date": "2024-04-17",
+    "taxable_value": 1346570.89,
+    "igst": 242382.76,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "3d8e0263f24bbbf8"
+  },
+  {
+    "entry_id": "PR000195",
+    "booking_date": "2024-06-07",
+    "taxable_value": 1454917.11,
+    "igst": 0.0,
+    "cgst": 203688.4,
+    "sgst": 203688.4,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "24952ee3ed34d223"
+  },
+  {
+    "entry_id": "PR000196",
+    "booking_date": "2024-06-03",
+    "taxable_value": 2441806.72,
+    "igst": 122090.34,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b78af0453c1a204b"
+  },
+  {
+    "entry_id": "PR000197",
+    "booking_date": "2024-10-21",
+    "taxable_value": 998155.53,
+    "igst": 179668.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "29f3d3e15676956d"
+  },
+  {
+    "entry_id": "PR000198",
+    "booking_date": "2024-11-01",
+    "taxable_value": 2378021.59,
+    "igst": 428043.89,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "bc6593a56b29665b"
+  },
+  {
+    "entry_id": "PR000199",
+    "booking_date": "2024-09-05",
+    "taxable_value": 4095438.54,
+    "igst": 737178.94,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "3503b708a12e182a"
+  },
+  {
+    "entry_id": "PR000200",
+    "booking_date": "2024-11-27",
+    "taxable_value": 1753717.8,
+    "igst": 210446.14,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "06b62ebb7cf3777a"
+  },
+  {
+    "entry_id": "PR000201",
+    "booking_date": "2024-05-31",
+    "taxable_value": 3921622.19,
+    "igst": 196081.11,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c4da6f9873c14dc6"
+  },
+  {
+    "entry_id": "PR000202",
+    "booking_date": "2024-08-13",
+    "taxable_value": 464792.93,
+    "igst": 83662.73,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "8202c0202071f096"
+  },
+  {
+    "entry_id": "PR000203",
+    "booking_date": "2024-05-18",
+    "taxable_value": 3540709.79,
+    "igst": 177035.49,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2c59eb8c27430a8f"
+  },
+  {
+    "entry_id": "PR000204",
+    "booking_date": "2024-05-08",
+    "taxable_value": 3285116.1,
+    "igst": 591320.9,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "c1a93a07aa29ac77"
+  },
+  {
+    "entry_id": "PR000205",
+    "booking_date": "2024-06-07",
+    "taxable_value": 186003.97,
+    "igst": 33480.71,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2027576835e65a45"
+  },
+  {
+    "entry_id": "PR000206",
+    "booking_date": "2024-10-06",
+    "taxable_value": 4947835.58,
+    "igst": 890610.4,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "7fd6597ea46afe31"
+  },
+  {
+    "entry_id": "PR000207",
+    "booking_date": "2024-05-13",
+    "taxable_value": 2793017.66,
+    "igst": 139650.88,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2e6e67276674c4a5"
+  },
+  {
+    "entry_id": "PR000208",
+    "booking_date": "2024-05-06",
+    "taxable_value": 2116046.82,
+    "igst": 380888.43,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "935e0880b84b4ea4"
+  },
+  {
+    "entry_id": "PR000209",
+    "booking_date": "2024-11-08",
+    "taxable_value": 3406121.46,
+    "igst": 408734.58,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "156a6dd42b1fe5ac"
+  },
+  {
+    "entry_id": "PR000210",
+    "booking_date": "2024-11-29",
+    "taxable_value": 1670936.7,
+    "igst": 300768.61,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "37042c4652a6d5aa"
+  },
+  {
+    "entry_id": "PR000211",
+    "booking_date": "2024-08-17",
+    "taxable_value": 3641349.5,
+    "igst": 655442.91,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "12e3c69f2f7b70ad"
+  },
+  {
+    "entry_id": "PR000212",
+    "booking_date": "2024-08-27",
+    "taxable_value": 2791146.1,
+    "igst": 502406.3,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c447aff1ff0e0db1"
+  },
+  {
+    "entry_id": "PR000213",
+    "booking_date": "2024-06-09",
+    "taxable_value": 2771864.56,
+    "igst": 498935.62,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e0c0742c9e141dae"
+  },
+  {
+    "entry_id": "PR000214",
+    "booking_date": "2025-01-30",
+    "taxable_value": 4109878.73,
+    "igst": 493185.45,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e71b5a720a7d7a19"
+  },
+  {
+    "entry_id": "PR000215",
+    "booking_date": "2024-10-25",
+    "taxable_value": 4913498.64,
+    "igst": 884429.76,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e7586f2851e35a59"
+  },
+  {
+    "entry_id": "PR000216",
+    "booking_date": "2024-12-13",
+    "taxable_value": 1054689.91,
+    "igst": 189844.18,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "15d84074d8a58a79"
+  },
+  {
+    "entry_id": "PR000217",
+    "booking_date": "2024-07-28",
+    "taxable_value": 528053.61,
+    "igst": 95049.65,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "058ded91eac8e9e0"
+  },
+  {
+    "entry_id": "PR000218",
+    "booking_date": "2024-07-16",
+    "taxable_value": 4138051.12,
+    "igst": 206902.56,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "789aeb55eebd14b7"
+  },
+  {
+    "entry_id": "PR000219",
+    "booking_date": "2024-07-14",
+    "taxable_value": 4083995.13,
+    "igst": 735119.12,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "807e89bbae33e489"
+  },
+  {
+    "entry_id": "PR000220",
+    "booking_date": "2024-11-11",
+    "taxable_value": 4485836.5,
+    "igst": 538300.38,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f0e1048b919db20b"
+  },
+  {
+    "entry_id": "PR000221",
+    "booking_date": "2024-07-22",
+    "taxable_value": 3565956.16,
+    "igst": 641872.11,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "d4465be915d7efef"
+  },
+  {
+    "entry_id": "PR000222",
+    "booking_date": "2024-04-10",
+    "taxable_value": 1923931.59,
+    "igst": 346307.69,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b5dcebaff7e6787d"
+  },
+  {
+    "entry_id": "PR000223",
+    "booking_date": "2025-03-01",
+    "taxable_value": 62683.24,
+    "igst": 11282.98,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "1fc1c7a349b246af"
+  },
+  {
+    "entry_id": "PR000224",
+    "booking_date": "2025-03-14",
+    "taxable_value": 2702666.33,
+    "igst": 135133.32,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "da3891e8a2e6a126"
+  },
+  {
+    "entry_id": "PR000225",
+    "booking_date": "2025-02-06",
+    "taxable_value": 4040363.03,
+    "igst": 727265.35,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "efeb2e54ca658908"
+  },
+  {
+    "entry_id": "PR000226",
+    "booking_date": "2025-01-17",
+    "taxable_value": 4628659.02,
+    "igst": 555439.08,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "710deaf65ba2da31"
+  },
+  {
+    "entry_id": "PR000227",
+    "booking_date": "2024-04-24",
+    "taxable_value": 3694003.37,
+    "igst": 184700.17,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "18bf58ebb9ac7a22"
+  },
+  {
+    "entry_id": "PR000228",
+    "booking_date": "2024-08-26",
+    "taxable_value": 2433691.99,
+    "igst": 438064.56,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "7ee9490174b320a0"
+  },
+  {
+    "entry_id": "PR000229",
+    "booking_date": "2024-05-11",
+    "taxable_value": 3637080.59,
+    "igst": 654674.51,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "1d05006386ff1357"
+  },
+  {
+    "entry_id": "PR000230",
+    "booking_date": "2025-02-07",
+    "taxable_value": 3550242.56,
+    "igst": 639043.66,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "0a07dd138c25c379"
+  },
+  {
+    "entry_id": "PR000231",
+    "booking_date": "2024-07-30",
+    "taxable_value": 1455360.25,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5b44525661ad03ad"
+  },
+  {
+    "entry_id": "PR000232",
+    "booking_date": "2024-10-09",
+    "taxable_value": 2067563.0,
+    "igst": 0.0,
+    "cgst": 289458.82,
+    "sgst": 289458.82,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "30f2d1a2772220dd"
+  },
+  {
+    "entry_id": "PR000233",
+    "booking_date": "2025-02-05",
+    "taxable_value": 3924074.02,
+    "igst": 1098740.73,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "cea0f839914c9672"
+  },
+  {
+    "entry_id": "PR000234",
+    "booking_date": "2025-01-13",
+    "taxable_value": 1039201.41,
+    "igst": 187056.25,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "3bcaba8260dd2d40"
+  },
+  {
+    "entry_id": "PR000235",
+    "booking_date": "2025-01-06",
+    "taxable_value": 1997628.89,
+    "igst": 359573.2,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "cb494946e326e4ef"
+  },
+  {
+    "entry_id": "PR000236",
+    "booking_date": "2025-02-16",
+    "taxable_value": 4639469.61,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2bbf14b6b184526f"
+  },
+  {
+    "entry_id": "PR000237",
+    "booking_date": "2024-12-18",
+    "taxable_value": 2127603.29,
+    "igst": 382968.59,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "4fd9859cd7a4652e"
+  },
+  {
+    "entry_id": "PR000238",
+    "booking_date": "2024-11-04",
+    "taxable_value": 3085254.0,
+    "igst": 555345.72,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "183afa318e8a8e90"
+  },
+  {
+    "entry_id": "PR000239",
+    "booking_date": "2024-06-30",
+    "taxable_value": 415040.28,
+    "igst": 49804.83,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5eb4873172297865"
+  },
+  {
+    "entry_id": "PR000240",
+    "booking_date": "2024-08-19",
+    "taxable_value": 1754073.2,
+    "igst": 315733.18,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5f6ea0121058d1ba"
+  },
+  {
+    "entry_id": "PR000241",
+    "booking_date": "2025-01-17",
+    "taxable_value": 4968784.43,
+    "igst": 894381.2,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5802430cd7dba207"
+  },
+  {
+    "entry_id": "PR000242",
+    "booking_date": "2025-03-14",
+    "taxable_value": 1501566.32,
+    "igst": 270281.94,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "3951f08db4069783"
+  },
+  {
+    "entry_id": "PR000243",
+    "booking_date": "2024-05-20",
+    "taxable_value": 643383.47,
+    "igst": 115809.02,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "778a18687e76c800"
+  },
+  {
+    "entry_id": "PR000244",
+    "booking_date": "2025-03-18",
+    "taxable_value": 3279687.15,
+    "igst": 393562.46,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "75b12bcc478681b9"
+  },
+  {
+    "entry_id": "PR000245",
+    "booking_date": "2025-03-12",
+    "taxable_value": 3834401.92,
+    "igst": 1073632.54,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a249c749a5090a46"
+  },
+  {
+    "entry_id": "PR000246",
+    "booking_date": "2025-02-21",
+    "taxable_value": 2113227.02,
+    "igst": 591703.57,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "4d1e82d3704d6afc"
+  },
+  {
+    "entry_id": "PR000247",
+    "booking_date": "2024-10-17",
+    "taxable_value": 4649433.61,
+    "igst": 836898.05,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2b0c176a257e34af"
+  },
+  {
+    "entry_id": "PR000248",
+    "booking_date": "2025-01-18",
+    "taxable_value": 893933.57,
+    "igst": 250301.4,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "157e72df7e298d61"
+  },
+  {
+    "entry_id": "PR000249",
+    "booking_date": "2024-04-12",
+    "taxable_value": 3049452.72,
+    "igst": 853846.76,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c28a664cb8eb78f2"
+  },
+  {
+    "entry_id": "PR000250",
+    "booking_date": "2024-04-17",
+    "taxable_value": 4335446.51,
+    "igst": 780380.37,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e1cd6feff4a86d38"
+  },
+  {
+    "entry_id": "PR000251",
+    "booking_date": "2024-11-17",
+    "taxable_value": 2841587.72,
+    "igst": 511485.79,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6a6d9b6fd11d68d0"
+  },
+  {
+    "entry_id": "PR000252",
+    "booking_date": "2024-12-04",
+    "taxable_value": 72148.75,
+    "igst": 12986.77,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "4d1fdd0d7c9bb783"
+  },
+  {
+    "entry_id": "PR000253",
+    "booking_date": "2024-04-21",
+    "taxable_value": 1329550.93,
+    "igst": 239319.17,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c0b68d9892b1b946"
+  },
+  {
+    "entry_id": "PR000254",
+    "booking_date": "2025-02-24",
+    "taxable_value": 2945098.77,
+    "igst": 530117.78,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ea5ee12ba0d18229"
+  },
+  {
+    "entry_id": "PR000255",
+    "booking_date": "2024-12-28",
+    "taxable_value": 515482.67,
+    "igst": 92786.88,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5a0fde142c958c2e"
+  },
+  {
+    "entry_id": "PR000256",
+    "booking_date": "2025-03-27",
+    "taxable_value": 1043836.6,
+    "igst": 187890.59,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b680202b5578bb51"
+  },
+  {
+    "entry_id": "PR000257",
+    "booking_date": "2024-05-08",
+    "taxable_value": 4885916.61,
+    "igst": 1368056.65,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6cabc729670aaf58"
+  },
+  {
+    "entry_id": "PR000258",
+    "booking_date": "2024-04-25",
+    "taxable_value": 302371.5,
+    "igst": 54426.87,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "7904a7edab1367b8"
+  },
+  {
+    "entry_id": "PR000259",
+    "booking_date": "2024-07-03",
+    "taxable_value": 1699708.79,
+    "igst": 84985.44,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f32aeec814639230"
+  },
+  {
+    "entry_id": "PR000260",
+    "booking_date": "2024-09-29",
+    "taxable_value": 687423.52,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "719069515ec9861b"
+  },
+  {
+    "entry_id": "PR000261",
+    "booking_date": "2024-10-02",
+    "taxable_value": 4182836.64,
+    "igst": 1171194.26,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "4c9ac1551a2d45ba"
+  },
+  {
+    "entry_id": "PR000262",
+    "booking_date": "2024-05-27",
+    "taxable_value": 150870.65,
+    "igst": 27156.72,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "cf41e242edfc1c42"
+  },
+  {
+    "entry_id": "PR000263",
+    "booking_date": "2024-07-22",
+    "taxable_value": 649908.25,
+    "igst": 116983.49,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "357ac5c3ee19c3b2"
+  },
+  {
+    "entry_id": "PR000264",
+    "booking_date": "2025-02-13",
+    "taxable_value": 2729851.26,
+    "igst": 491373.23,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "7187dfec71a74de5"
+  },
+  {
+    "entry_id": "PR000265",
+    "booking_date": "2024-12-28",
+    "taxable_value": 235929.11,
+    "igst": 42467.24,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ddb9a812ff4c4569"
+  },
+  {
+    "entry_id": "PR000266",
+    "booking_date": "2024-11-01",
+    "taxable_value": 2957490.61,
+    "igst": 532348.31,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "40d88270329651d6"
+  },
+  {
+    "entry_id": "PR000267",
+    "booking_date": "2025-02-03",
+    "taxable_value": 4325560.26,
+    "igst": 778600.85,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e8f5e132026ea31b"
+  },
+  {
+    "entry_id": "PR000268",
+    "booking_date": "2025-02-26",
+    "taxable_value": 4261312.93,
+    "igst": 767036.33,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "9c5909afe17af45f"
+  },
+  {
+    "entry_id": "PR000269",
+    "booking_date": "2024-05-17",
+    "taxable_value": 1565308.8,
+    "igst": 281755.58,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "dfdc4a9892b79a7b"
+  },
+  {
+    "entry_id": "PR000270",
+    "booking_date": "2024-07-25",
+    "taxable_value": 4130844.03,
+    "igst": 743551.93,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "665299b63449133d"
+  },
+  {
+    "entry_id": "PR000271",
+    "booking_date": "2024-09-08",
+    "taxable_value": 4036460.59,
+    "igst": 484375.27,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "8fe026379b5e4690"
+  },
+  {
+    "entry_id": "PR000272",
+    "booking_date": "2025-01-02",
+    "taxable_value": 1572978.5,
+    "igst": 78648.93,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "5f2bc24f12b19a13"
+  },
+  {
+    "entry_id": "PR000273",
+    "booking_date": "2024-10-23",
+    "taxable_value": 1133974.38,
+    "igst": 204115.39,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "61939f3180eb7d4e"
+  },
+  {
+    "entry_id": "PR000274",
+    "booking_date": "2024-11-12",
+    "taxable_value": 2537136.31,
+    "igst": 0.0,
+    "cgst": 228342.27,
+    "sgst": 228342.27,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2d717c0cd9a0c469"
+  },
+  {
+    "entry_id": "PR000275",
+    "booking_date": "2025-03-04",
+    "taxable_value": 494803.07,
+    "igst": 24740.15,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c6ea315819484c47"
+  },
+  {
+    "entry_id": "PR000276",
+    "booking_date": "2024-10-07",
+    "taxable_value": 4553399.84,
+    "igst": 227669.99,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "4c3ef4bde072623f"
+  },
+  {
+    "entry_id": "PR000277",
+    "booking_date": "2025-02-02",
+    "taxable_value": 3133058.95,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "621a9df98780acdd"
+  },
+  {
+    "entry_id": "PR000278",
+    "booking_date": "2024-11-10",
+    "taxable_value": 1855138.6,
+    "igst": 333924.95,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "d121d8be726c3b98"
+  },
+  {
+    "entry_id": "PR000279",
+    "booking_date": "2024-06-22",
+    "taxable_value": 2736069.66,
+    "igst": 328328.36,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c113cd6d11a91b6c"
+  },
+  {
+    "entry_id": "PR000280",
+    "booking_date": "2024-10-16",
+    "taxable_value": 4409805.51,
+    "igst": 793764.99,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "8fb691ac65c285a0"
+  },
+  {
+    "entry_id": "PR000281",
+    "booking_date": "2024-07-12",
+    "taxable_value": 1689078.08,
+    "igst": 0.0,
+    "cgst": 152017.03,
+    "sgst": 152017.03,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f60efbc9d72a3b8e"
+  },
+  {
+    "entry_id": "PR000282",
+    "booking_date": "2025-01-13",
+    "taxable_value": 4504184.47,
+    "igst": 810753.2,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "1d98399943267e8e"
+  },
+  {
+    "entry_id": "PR000283",
+    "booking_date": "2025-02-19",
+    "taxable_value": 1462454.97,
+    "igst": 0.0,
+    "cgst": 204743.7,
+    "sgst": 204743.7,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "48bf3666f2ec8b20"
+  },
+  {
+    "entry_id": "PR000284",
+    "booking_date": "2024-09-25",
+    "taxable_value": 2762360.86,
+    "igst": 497224.95,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "80186e369071b1cd"
+  },
+  {
+    "entry_id": "PR000285",
+    "booking_date": "2024-04-26",
+    "taxable_value": 1935117.84,
+    "igst": 96755.89,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "fd90b42d9b0a8703"
+  },
+  {
+    "entry_id": "PR000286",
+    "booking_date": "2024-06-22",
+    "taxable_value": 309036.24,
+    "igst": 15451.81,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "cd4378160b6086d6"
+  },
+  {
+    "entry_id": "PR000287",
+    "booking_date": "2024-06-11",
+    "taxable_value": 1907905.3,
+    "igst": 534213.48,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "d59a93a9acaf945c"
+  },
+  {
+    "entry_id": "PR000288",
+    "booking_date": "2024-09-07",
+    "taxable_value": 2145558.16,
+    "igst": 0.0,
+    "cgst": 193100.23,
+    "sgst": 193100.23,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "32acde79c4382718"
+  },
+  {
+    "entry_id": "PR000289",
+    "booking_date": "2024-08-15",
+    "taxable_value": 2247975.14,
+    "igst": 112398.76,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6c70fcca58e90a68"
+  },
+  {
+    "entry_id": "PR000290",
+    "booking_date": "2024-04-13",
+    "taxable_value": 3258523.2,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ae0f599453423e55"
+  },
+  {
+    "entry_id": "PR000291",
+    "booking_date": "2025-01-15",
+    "taxable_value": 197867.99,
+    "igst": 9893.4,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f357f770246567bc"
+  },
+  {
+    "entry_id": "PR000292",
+    "booking_date": "2024-04-22",
+    "taxable_value": 1095785.52,
+    "igst": 54789.28,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "7c10aa465ca29b01"
+  },
+  {
+    "entry_id": "PR000293",
+    "booking_date": "2024-04-15",
+    "taxable_value": 3017235.92,
+    "igst": 543102.47,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c875a253b26d343a"
+  },
+  {
+    "entry_id": "PR000294",
+    "booking_date": "2024-06-24",
+    "taxable_value": 2401397.69,
+    "igst": 432251.58,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "b321f1dc880095e3"
+  },
+  {
+    "entry_id": "PR000295",
+    "booking_date": "2024-11-30",
+    "taxable_value": 72705.84,
+    "igst": 13087.05,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "4e74500191085e96"
+  },
+  {
+    "entry_id": "PR000296",
+    "booking_date": "2024-05-16",
+    "taxable_value": 1837118.47,
+    "igst": 330681.32,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "b0952e0302a1b4c3"
+  },
+  {
+    "entry_id": "PR000297",
+    "booking_date": "2024-07-15",
+    "taxable_value": 409635.23,
+    "igst": 73734.34,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "2afe6f1cac0665b7"
+  },
+  {
+    "entry_id": "PR000298",
+    "booking_date": "2024-06-13",
+    "taxable_value": 3474992.03,
+    "igst": 173749.6,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "145d2c0397ada14b"
+  },
+  {
+    "entry_id": "PR000299",
+    "booking_date": "2025-01-01",
+    "taxable_value": 2114085.65,
+    "igst": 253690.28,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "bb78a633e518de8e"
+  },
+  {
+    "entry_id": "PR000300",
+    "booking_date": "2025-02-02",
+    "taxable_value": 2134231.28,
+    "igst": 597584.76,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "dae9fee9ac6b3b6f"
+  },
+  {
+    "entry_id": "PR000301",
+    "booking_date": "2024-04-18",
+    "taxable_value": 2182019.33,
+    "igst": 392763.48,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "846d94eb872edeae"
+  },
+  {
+    "entry_id": "PR000302",
+    "booking_date": "2024-07-19",
+    "taxable_value": 3320517.72,
+    "igst": 597693.19,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a68ff60b4ddb05c1"
+  },
+  {
+    "entry_id": "PR000303",
+    "booking_date": "2024-05-09",
+    "taxable_value": 2999509.1,
+    "igst": 539911.64,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "70aa8d9dd13f7c3c"
+  },
+  {
+    "entry_id": "PR000304",
+    "booking_date": "2024-09-13",
+    "taxable_value": 2830508.61,
+    "igst": 509491.55,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "31e87a6ee32d8b5b"
+  },
+  {
+    "entry_id": "PR000305",
+    "booking_date": "2024-08-09",
+    "taxable_value": 2274348.07,
+    "igst": 409382.65,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "a0e32f296397e0b0"
+  },
+  {
+    "entry_id": "PR000306",
+    "booking_date": "2025-01-03",
+    "taxable_value": 88185.42,
+    "igst": 15873.38,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "9d587d8ed731e6a4"
+  },
+  {
+    "entry_id": "PR000307",
+    "booking_date": "2025-01-03",
+    "taxable_value": 1026438.7,
+    "igst": 184758.97,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "731232ee04dc3235"
+  },
+  {
+    "entry_id": "PR000308",
+    "booking_date": "2024-07-27",
+    "taxable_value": 1833607.17,
+    "igst": 330049.29,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "259ea02ffdcc0f43"
+  },
+  {
+    "entry_id": "PR000309",
+    "booking_date": "2024-05-22",
+    "taxable_value": 4086631.51,
+    "igst": 735593.67,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "d66301fd1eb475f6"
+  },
+  {
+    "entry_id": "PR000310",
+    "booking_date": "2024-12-25",
+    "taxable_value": 4810562.39,
+    "igst": 865901.23,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "59d2be4674f9773e"
+  },
+  {
+    "entry_id": "PR000311",
+    "booking_date": "2024-10-09",
+    "taxable_value": 1753425.0,
+    "igst": 87671.25,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "50aa09ee487e9494"
+  },
+  {
+    "entry_id": "PR000312",
+    "booking_date": "2025-03-05",
+    "taxable_value": 3657517.71,
+    "igst": 658353.19,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "f1170270866edd5e"
+  },
+  {
+    "entry_id": "PR000313",
+    "booking_date": "2025-03-07",
+    "taxable_value": 2634019.07,
+    "igst": 737525.34,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "2b42e92902835375"
+  },
+  {
+    "entry_id": "PR000314",
+    "booking_date": "2024-10-25",
+    "taxable_value": 771075.67,
+    "igst": 138793.62,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "ecdcdce43f7343f4"
+  },
+  {
+    "entry_id": "PR000315",
+    "booking_date": "2024-04-02",
+    "taxable_value": 888687.78,
+    "igst": 159963.8,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "d03d48aaef184578"
+  },
+  {
+    "entry_id": "PR000316",
+    "booking_date": "2024-11-18",
+    "taxable_value": 4758571.2,
+    "igst": 237928.56,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "bd132bc2166bb1a0"
+  },
+  {
+    "entry_id": "PR000317",
+    "booking_date": "2025-03-04",
+    "taxable_value": 3918840.19,
+    "igst": 705391.23,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a3d67cd56c73978b"
+  },
+  {
+    "entry_id": "PR000318",
+    "booking_date": "2025-01-28",
+    "taxable_value": 1451676.24,
+    "igst": 261301.72,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "104eefb6ce2c7b8e"
+  },
+  {
+    "entry_id": "PR000319",
+    "booking_date": "2024-09-16",
+    "taxable_value": 2725771.21,
+    "igst": 490638.82,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "634ede041828c597"
+  },
+  {
+    "entry_id": "PR000320",
+    "booking_date": "2024-06-02",
+    "taxable_value": 3340323.89,
+    "igst": 601258.3,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "976d91b772e646c8"
+  },
+  {
+    "entry_id": "PR000321",
+    "booking_date": "2025-03-07",
+    "taxable_value": 3243935.41,
+    "igst": 162196.77,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "dc8b1ad76601c7ac"
+  },
+  {
+    "entry_id": "PR000322",
+    "booking_date": "2024-05-29",
+    "taxable_value": 4873220.81,
+    "igst": 584786.5,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "08217ae8faa4e298"
+  },
+  {
+    "entry_id": "PR000323",
+    "booking_date": "2025-01-13",
+    "taxable_value": 410962.38,
+    "igst": 73973.23,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "34ae1cd5886d15bb"
+  },
+  {
+    "entry_id": "PR000324",
+    "booking_date": "2024-11-02",
+    "taxable_value": 3242039.74,
+    "igst": 583567.15,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b5bbcee39c4cd9a9"
+  },
+  {
+    "entry_id": "PR000325",
+    "booking_date": "2024-10-17",
+    "taxable_value": 940815.46,
+    "igst": 47040.77,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ba310e2f30852583"
+  },
+  {
+    "entry_id": "PR000326",
+    "booking_date": "2025-01-08",
+    "taxable_value": 3209800.61,
+    "igst": 577764.11,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "691492928ddcfcd6"
+  },
+  {
+    "entry_id": "PR000327",
+    "booking_date": "2024-10-12",
+    "taxable_value": 3123471.5,
+    "igst": 562224.87,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "01abaff3e724271d"
+  },
+  {
+    "entry_id": "PR000328",
+    "booking_date": "2024-05-31",
+    "taxable_value": 4027273.6,
+    "igst": 201363.68,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "35b52d8769e56a5a"
+  },
+  {
+    "entry_id": "PR000329",
+    "booking_date": "2024-06-08",
+    "taxable_value": 590263.27,
+    "igst": 0.0,
+    "cgst": 14756.58,
+    "sgst": 14756.58,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5d5fd647861e52ea"
+  },
+  {
+    "entry_id": "PR000330",
+    "booking_date": "2025-02-05",
+    "taxable_value": 4631139.35,
+    "igst": 833605.08,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "9dac8acad5322e18"
+  },
+  {
+    "entry_id": "PR000331",
+    "booking_date": "2024-06-15",
+    "taxable_value": 2212295.88,
+    "igst": 398213.26,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "1c20fb32f87f5cf4"
+  },
+  {
+    "entry_id": "PR000332",
+    "booking_date": "2024-06-15",
+    "taxable_value": 3341049.69,
+    "igst": 601388.94,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ea6b1f834971ed7f"
+  },
+  {
+    "entry_id": "PR000333",
+    "booking_date": "2024-09-06",
+    "taxable_value": 3925914.4,
+    "igst": 706664.59,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c1b1f6575d911a68"
+  },
+  {
+    "entry_id": "PR000334",
+    "booking_date": "2025-02-24",
+    "taxable_value": 2737840.87,
+    "igst": 492811.36,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f9e63dcca11a6c57"
+  },
+  {
+    "entry_id": "PR000335",
+    "booking_date": "2025-01-04",
+    "taxable_value": 1469871.67,
+    "igst": 264576.9,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "275330cb66b38a30"
+  },
+  {
+    "entry_id": "PR000336",
+    "booking_date": "2024-11-25",
+    "taxable_value": 2722345.2,
+    "igst": 326681.42,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f786f583d5f4894d"
+  },
+  {
+    "entry_id": "PR000337",
+    "booking_date": "2024-08-24",
+    "taxable_value": 599385.03,
+    "igst": 107889.31,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "feaa367e3db0123d"
+  },
+  {
+    "entry_id": "PR000338",
+    "booking_date": "2024-12-31",
+    "taxable_value": 4703397.95,
+    "igst": 846611.63,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e6714a6198273845"
+  },
+  {
+    "entry_id": "PR000339",
+    "booking_date": "2025-01-18",
+    "taxable_value": 2427445.23,
+    "igst": 291293.43,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "09158be3574a5729"
+  },
+  {
+    "entry_id": "PR000340",
+    "booking_date": "2025-01-24",
+    "taxable_value": 2014872.48,
+    "igst": 362677.05,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "4b398789cafc5383"
+  },
+  {
+    "entry_id": "PR000341",
+    "booking_date": "2024-11-13",
+    "taxable_value": 3746633.51,
+    "igst": 674394.03,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "afcdf835946329b9"
+  },
+  {
+    "entry_id": "PR000342",
+    "booking_date": "2024-07-20",
+    "taxable_value": 2809408.51,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a5ffcd65fb92ca0f"
+  },
+  {
+    "entry_id": "PR000343",
+    "booking_date": "2024-08-29",
+    "taxable_value": 366740.84,
+    "igst": 66013.35,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "9425a3c224bb15d8"
+  },
+  {
+    "entry_id": "PR000344",
+    "booking_date": "2025-03-25",
+    "taxable_value": 334903.76,
+    "igst": 60282.68,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b8550aa13d5ff3c1"
+  },
+  {
+    "entry_id": "PR000345",
+    "booking_date": "2025-03-08",
+    "taxable_value": 1484344.07,
+    "igst": 267181.93,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "b9116809e32c0ffb"
+  },
+  {
+    "entry_id": "PR000346",
+    "booking_date": "2025-02-16",
+    "taxable_value": 1306230.73,
+    "igst": 235121.53,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ec9d648ec2a6111a"
+  },
+  {
+    "entry_id": "PR000347",
+    "booking_date": "2024-10-19",
+    "taxable_value": 75145.93,
+    "igst": 3757.3,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "048d674a7d0d4aaa"
+  },
+  {
+    "entry_id": "PR000348",
+    "booking_date": "2025-02-15",
+    "taxable_value": 2538166.98,
+    "igst": 456870.06,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "3a66ea051885f54d"
+  },
+  {
+    "entry_id": "PR000349",
+    "booking_date": "2024-07-05",
+    "taxable_value": 1844035.9,
+    "igst": 331926.46,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "cc5665e9c250731d"
+  },
+  {
+    "entry_id": "PR000350",
+    "booking_date": "2025-03-17",
+    "taxable_value": 933822.36,
+    "igst": 261470.26,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "6bdeb22ab037fe9a"
+  },
+  {
+    "entry_id": "PR000351",
+    "booking_date": "2024-04-25",
+    "taxable_value": 2608191.42,
+    "igst": 469474.46,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "ddf32946693e107b"
+  },
+  {
+    "entry_id": "PR000352",
+    "booking_date": "2024-05-15",
+    "taxable_value": 3881892.2,
+    "igst": 194094.61,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "7d6b7006b223d505"
+  },
+  {
+    "entry_id": "PR000353",
+    "booking_date": "2025-02-18",
+    "taxable_value": 3664706.12,
+    "igst": 1026117.71,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b8ec1e2d10e3c587"
+  },
+  {
+    "entry_id": "PR000354",
+    "booking_date": "2024-09-03",
+    "taxable_value": 4255759.49,
+    "igst": 1191612.66,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ebfc1d2ddfe641c4"
+  },
+  {
+    "entry_id": "PR000355",
+    "booking_date": "2024-12-07",
+    "taxable_value": 1020581.21,
+    "igst": 183704.62,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "36e5c529d6fc5c1c"
+  },
+  {
+    "entry_id": "PR000356",
+    "booking_date": "2024-11-27",
+    "taxable_value": 317546.36,
+    "igst": 57158.34,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "eec57f3e21e8dc8a"
+  },
+  {
+    "entry_id": "PR000357",
+    "booking_date": "2024-08-05",
+    "taxable_value": 2855647.54,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2c0944118b372537"
+  },
+  {
+    "entry_id": "PR000358",
+    "booking_date": "2024-07-06",
+    "taxable_value": 189247.9,
+    "igst": 34064.62,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "90271506fd6491cd"
+  },
+  {
+    "entry_id": "PR000359",
+    "booking_date": "2024-04-03",
+    "taxable_value": 2078506.45,
+    "igst": 103925.32,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "0ed9a471314ce352"
+  },
+  {
+    "entry_id": "PR000360",
+    "booking_date": "2024-12-23",
+    "taxable_value": 749009.24,
+    "igst": 89881.11,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ef99feac39a1ad44"
+  },
+  {
+    "entry_id": "PR000361",
+    "booking_date": "2024-06-12",
+    "taxable_value": 954591.42,
+    "igst": 171826.46,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "74aeeac954f6c52e"
+  },
+  {
+    "entry_id": "PR000362",
+    "booking_date": "2025-03-26",
+    "taxable_value": 162882.53,
+    "igst": 45607.11,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "018b6484691479d4"
+  },
+  {
+    "entry_id": "PR000363",
+    "booking_date": "2024-04-07",
+    "taxable_value": 488044.21,
+    "igst": 87847.96,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2cfe4ecd0b8fe735"
+  },
+  {
+    "entry_id": "PR000364",
+    "booking_date": "2024-08-08",
+    "taxable_value": 149390.55,
+    "igst": 26890.3,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "eef3ce64b8535ecc"
+  },
+  {
+    "entry_id": "PR000365",
+    "booking_date": "2024-07-30",
+    "taxable_value": 3841595.21,
+    "igst": 691487.14,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6018c94fcbbe9299"
+  },
+  {
+    "entry_id": "PR000366",
+    "booking_date": "2024-09-13",
+    "taxable_value": 915893.65,
+    "igst": 164860.86,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "fbbfc544bbd69ce0"
+  },
+  {
+    "entry_id": "PR000367",
+    "booking_date": "2024-06-15",
+    "taxable_value": 418420.47,
+    "igst": 50210.46,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "24fdd60ac04d4f29"
+  },
+  {
+    "entry_id": "PR000368",
+    "booking_date": "2025-01-14",
+    "taxable_value": 1498478.8,
+    "igst": 74923.94,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "d84acca61d9f4de4"
+  },
+  {
+    "entry_id": "PR000369",
+    "booking_date": "2025-02-07",
+    "taxable_value": 1919269.65,
+    "igst": 345468.54,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2f9177c3155ac40d"
+  },
+  {
+    "entry_id": "PR000370",
+    "booking_date": "2024-08-06",
+    "taxable_value": 3306244.49,
+    "igst": 165312.22,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "40b7d16716522eb7"
+  },
+  {
+    "entry_id": "PR000371",
+    "booking_date": "2024-12-04",
+    "taxable_value": 3862226.94,
+    "igst": 193111.35,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "aa1794df19689832"
+  },
+  {
+    "entry_id": "PR000372",
+    "booking_date": "2024-09-22",
+    "taxable_value": 1306833.16,
+    "igst": 65341.66,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e440b11f8af2b436"
+  },
+  {
+    "entry_id": "PR000373",
+    "booking_date": "2024-12-28",
+    "taxable_value": 1251838.54,
+    "igst": 62591.93,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ac98e6d2038d2133"
+  },
+  {
+    "entry_id": "PR000374",
+    "booking_date": "2025-03-25",
+    "taxable_value": 271907.82,
+    "igst": 76134.19,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b7a45050ab0bb1f0"
+  },
+  {
+    "entry_id": "PR000375",
+    "booking_date": "2024-12-21",
+    "taxable_value": 4966874.16,
+    "igst": 894037.35,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2088ca620ac20895"
+  },
+  {
+    "entry_id": "PR000376",
+    "booking_date": "2024-08-14",
+    "taxable_value": 874967.31,
+    "igst": 157494.12,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b246f99b4a491b0f"
+  },
+  {
+    "entry_id": "PR000377",
+    "booking_date": "2025-01-10",
+    "taxable_value": 1898155.36,
+    "igst": 341667.96,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b141efa6b46dfc2d"
+  },
+  {
+    "entry_id": "PR000378",
+    "booking_date": "2024-11-29",
+    "taxable_value": 1433742.07,
+    "igst": 258073.57,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "74e6e0970aaadf86"
+  },
+  {
+    "entry_id": "PR000379",
+    "booking_date": "2024-11-17",
+    "taxable_value": 1269711.79,
+    "igst": 152365.41,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "039cddafc1706fef"
+  },
+  {
+    "entry_id": "PR000380",
+    "booking_date": "2024-04-16",
+    "taxable_value": 4206534.04,
+    "igst": 757176.13,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "24dcec7e2cba43fd"
+  },
+  {
+    "entry_id": "PR000381",
+    "booking_date": "2024-04-02",
+    "taxable_value": 3666942.9,
+    "igst": 660049.72,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "53e15aa34cdd05fb"
+  },
+  {
+    "entry_id": "PR000382",
+    "booking_date": "2024-12-24",
+    "taxable_value": 76206.93,
+    "igst": 13717.25,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b0fb59d98692b69c"
+  },
+  {
+    "entry_id": "PR000383",
+    "booking_date": "2025-02-18",
+    "taxable_value": 2886983.83,
+    "igst": 519657.09,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "1998166b53e1c957"
+  },
+  {
+    "entry_id": "PR000384",
+    "booking_date": "2025-02-06",
+    "taxable_value": 2014661.86,
+    "igst": 100733.09,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "59c5601ff268ed2f"
+  },
+  {
+    "entry_id": "PR000385",
+    "booking_date": "2025-03-27",
+    "taxable_value": 2050633.72,
+    "igst": 574177.44,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2bf6b2cd339f7f18"
+  },
+  {
+    "entry_id": "PR000386",
+    "booking_date": "2024-07-05",
+    "taxable_value": 405273.27,
+    "igst": 72949.19,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "cf75ec8e737d677b"
+  },
+  {
+    "entry_id": "PR000387",
+    "booking_date": "2024-11-29",
+    "taxable_value": 4024062.64,
+    "igst": 724331.28,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "66e4184fd4cc0b90"
+  },
+  {
+    "entry_id": "PR000388",
+    "booking_date": "2024-08-07",
+    "taxable_value": 4654813.75,
+    "igst": 1303347.85,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "e5b0ec6b2ea87648"
+  },
+  {
+    "entry_id": "PR000389",
+    "booking_date": "2024-07-29",
+    "taxable_value": 4755258.91,
+    "igst": 570631.07,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "bd7e32cadce17923"
+  },
+  {
+    "entry_id": "PR000390",
+    "booking_date": "2024-05-01",
+    "taxable_value": 790385.48,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f4e437ebe8bc0a19"
+  },
+  {
+    "entry_id": "PR000391",
+    "booking_date": "2024-04-05",
+    "taxable_value": 1439940.29,
+    "igst": 259189.25,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "4341ca831ee850eb"
+  },
+  {
+    "entry_id": "PR000392",
+    "booking_date": "2024-10-26",
+    "taxable_value": 2847403.02,
+    "igst": 512532.54,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "8c1e0b8e94af2c5e"
+  },
+  {
+    "entry_id": "PR000393",
+    "booking_date": "2025-01-01",
+    "taxable_value": 919667.49,
+    "igst": 165540.15,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "7100f95aa4722e8d"
+  },
+  {
+    "entry_id": "PR000394",
+    "booking_date": "2025-01-15",
+    "taxable_value": 439546.47,
+    "igst": 79118.36,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2d4805c9bc0ec587"
+  },
+  {
+    "entry_id": "PR000395",
+    "booking_date": "2024-05-25",
+    "taxable_value": 2516161.32,
+    "igst": 301939.36,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "77e31459115be27d"
+  },
+  {
+    "entry_id": "PR000396",
+    "booking_date": "2024-05-20",
+    "taxable_value": 691372.44,
+    "igst": 124447.04,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "298f789e1115d3f5"
+  },
+  {
+    "entry_id": "PR000397",
+    "booking_date": "2024-06-07",
+    "taxable_value": 3584980.66,
+    "igst": 430197.68,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "15a864e395e7c09d"
+  },
+  {
+    "entry_id": "PR000398",
+    "booking_date": "2024-05-16",
+    "taxable_value": 3413498.52,
+    "igst": 614429.73,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6991f788ed03ffdf"
+  },
+  {
+    "entry_id": "PR000399",
+    "booking_date": "2025-03-02",
+    "taxable_value": 2205435.38,
+    "igst": 110271.77,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "99e763a7df7956db"
+  },
+  {
+    "entry_id": "PR000400",
+    "booking_date": "2025-02-22",
+    "taxable_value": 3622050.08,
+    "igst": 651969.01,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "420892e42136d960"
+  },
+  {
+    "entry_id": "PR000401",
+    "booking_date": "2024-09-17",
+    "taxable_value": 2007481.78,
+    "igst": 361346.72,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ff326c8d11118162"
+  },
+  {
+    "entry_id": "PR000402",
+    "booking_date": "2024-11-15",
+    "taxable_value": 565095.52,
+    "igst": 101717.19,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e9e06c7a03e1db33"
+  },
+  {
+    "entry_id": "PR000403",
+    "booking_date": "2024-06-25",
+    "taxable_value": 4659674.04,
+    "igst": 559160.88,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "1a4df94253d17172"
+  },
+  {
+    "entry_id": "PR000404",
+    "booking_date": "2025-02-17",
+    "taxable_value": 4076640.17,
+    "igst": 203832.01,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "5de1fcd584bafb24"
+  },
+  {
+    "entry_id": "PR000405",
+    "booking_date": "2025-02-25",
+    "taxable_value": 2878491.8,
+    "igst": 518128.52,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "06f7f7f8d167b638"
+  },
+  {
+    "entry_id": "PR000406",
+    "booking_date": "2024-04-20",
+    "taxable_value": 71783.18,
+    "igst": 8613.98,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "8ed918390a6cf74e"
+  },
+  {
+    "entry_id": "PR000407",
+    "booking_date": "2024-09-29",
+    "taxable_value": 286742.39,
+    "igst": 51613.63,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "035d0813200e5f57"
+  },
+  {
+    "entry_id": "PR000408",
+    "booking_date": "2024-08-25",
+    "taxable_value": 1146963.78,
+    "igst": 206453.48,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c4a5d55cbb8f11cf"
+  },
+  {
+    "entry_id": "PR000409",
+    "booking_date": "2024-09-05",
+    "taxable_value": 4704063.03,
+    "igst": 235203.15,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5bfc4cdc4b340789"
+  },
+  {
+    "entry_id": "PR000410",
+    "booking_date": "2024-06-21",
+    "taxable_value": 2930881.45,
+    "igst": 351705.77,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a26b3da5e3741e7d"
+  },
+  {
+    "entry_id": "PR000411",
+    "booking_date": "2024-11-24",
+    "taxable_value": 396311.84,
+    "igst": 71336.13,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "12fb2b7aff45cfa3"
+  },
+  {
+    "entry_id": "PR000412",
+    "booking_date": "2025-02-06",
+    "taxable_value": 4169083.18,
+    "igst": 750434.97,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f3bb92e7d88a46bd"
+  },
+  {
+    "entry_id": "PR000413",
+    "booking_date": "2025-01-25",
+    "taxable_value": 4295858.4,
+    "igst": 515503.01,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ff3075e1700fd696"
+  },
+  {
+    "entry_id": "PR000414",
+    "booking_date": "2024-05-08",
+    "taxable_value": 4672809.56,
+    "igst": 841105.72,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "c7b1166d5c9811d7"
+  },
+  {
+    "entry_id": "PR000415",
+    "booking_date": "2024-08-13",
+    "taxable_value": 4967741.42,
+    "igst": 894193.46,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "653984dc00e49499"
+  },
+  {
+    "entry_id": "PR000416",
+    "booking_date": "2025-03-21",
+    "taxable_value": 3351967.28,
+    "igst": 402236.07,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "630b2305427e8777"
+  },
+  {
+    "entry_id": "PR000417",
+    "booking_date": "2025-01-02",
+    "taxable_value": 2292804.87,
+    "igst": 641985.36,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "801ac945fa1a925c"
+  },
+  {
+    "entry_id": "PR000418",
+    "booking_date": "2024-06-19",
+    "taxable_value": 2994387.21,
+    "igst": 838428.42,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ec41cb908fe5752c"
+  },
+  {
+    "entry_id": "PR000419",
+    "booking_date": "2024-09-29",
+    "taxable_value": 2991289.93,
+    "igst": 538432.19,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "bcb4246096aca576"
+  },
+  {
+    "entry_id": "PR000420",
+    "booking_date": "2025-02-01",
+    "taxable_value": 4612320.7,
+    "igst": 0.0,
+    "cgst": 115308.02,
+    "sgst": 115308.02,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "1a9518d2760c1b99"
+  },
+  {
+    "entry_id": "PR000421",
+    "booking_date": "2025-01-03",
+    "taxable_value": 709657.67,
+    "igst": 35482.88,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "4a43e3095a1dc583"
+  },
+  {
+    "entry_id": "PR000422",
+    "booking_date": "2025-01-01",
+    "taxable_value": 219003.34,
+    "igst": 10950.17,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a2a369832eb7f2f4"
+  },
+  {
+    "entry_id": "PR000423",
+    "booking_date": "2025-01-17",
+    "taxable_value": 4577915.83,
+    "igst": 0.0,
+    "cgst": 412012.42,
+    "sgst": 412012.42,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "96942d680f8a25eb"
+  },
+  {
+    "entry_id": "PR000424",
+    "booking_date": "2024-11-28",
+    "taxable_value": 2233121.01,
+    "igst": 401961.78,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "86430c94a53b87a6"
+  },
+  {
+    "entry_id": "PR000425",
+    "booking_date": "2025-03-30",
+    "taxable_value": 4676652.46,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "d370696ca94b6893"
+  },
+  {
+    "entry_id": "PR000426",
+    "booking_date": "2024-11-09",
+    "taxable_value": 1524209.28,
+    "igst": 274357.67,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5ed7c55e90fcdcb8"
+  },
+  {
+    "entry_id": "PR000427",
+    "booking_date": "2025-01-29",
+    "taxable_value": 2898197.44,
+    "igst": 521675.54,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "3b513943ac55cdad"
+  },
+  {
+    "entry_id": "PR000428",
+    "booking_date": "2024-11-11",
+    "taxable_value": 3094060.71,
+    "igst": 154703.04,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "cd0a447a52d277b2"
+  },
+  {
+    "entry_id": "PR000429",
+    "booking_date": "2024-11-21",
+    "taxable_value": 1984141.39,
+    "igst": 99207.07,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "fa2eb5eab53a464a"
+  },
+  {
+    "entry_id": "PR000430",
+    "booking_date": "2025-01-29",
+    "taxable_value": 1780098.93,
+    "igst": 320417.81,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "ce3eb6c14dd638d3"
+  },
+  {
+    "entry_id": "PR000431",
+    "booking_date": "2024-12-04",
+    "taxable_value": 3326660.5,
+    "igst": 598798.89,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "743433534ec5c736"
+  },
+  {
+    "entry_id": "PR000432",
+    "booking_date": "2024-04-04",
+    "taxable_value": 4152353.06,
+    "igst": 747423.55,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "3403999edc9938ad"
+  },
+  {
+    "entry_id": "PR000433",
+    "booking_date": "2024-10-25",
+    "taxable_value": 4887514.32,
+    "igst": 586501.72,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "259c0b2109c67228"
+  },
+  {
+    "entry_id": "PR000434",
+    "booking_date": "2024-04-20",
+    "taxable_value": 2372696.9,
+    "igst": 427085.44,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a172a79f355130b1"
+  },
+  {
+    "entry_id": "PR000435",
+    "booking_date": "2024-10-21",
+    "taxable_value": 4660780.04,
+    "igst": 233039.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "3f83a5a09891ad95"
+  },
+  {
+    "entry_id": "PR000436",
+    "booking_date": "2025-03-10",
+    "taxable_value": 3621261.53,
+    "igst": 651827.08,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "d05effd815b345eb"
+  },
+  {
+    "entry_id": "PR000437",
+    "booking_date": "2024-12-11",
+    "taxable_value": 2615838.36,
+    "igst": 470850.9,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "719d4c4fbbf4d2e1"
+  },
+  {
+    "entry_id": "PR000438",
+    "booking_date": "2024-10-09",
+    "taxable_value": 3140392.66,
+    "igst": 157019.63,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c53657384c917547"
+  },
+  {
+    "entry_id": "PR000439",
+    "booking_date": "2025-03-23",
+    "taxable_value": 2481450.56,
+    "igst": 446661.1,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "73b21549157e8c7e"
+  },
+  {
+    "entry_id": "PR000440",
+    "booking_date": "2024-07-05",
+    "taxable_value": 1734240.06,
+    "igst": 86712.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b4596420b25d40e4"
+  },
+  {
+    "entry_id": "PR000441",
+    "booking_date": "2024-12-08",
+    "taxable_value": 42354.53,
+    "igst": 7623.82,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "9e8c9b8f4b5d8e44"
+  },
+  {
+    "entry_id": "PR000442",
+    "booking_date": "2024-12-10",
+    "taxable_value": 1301378.51,
+    "igst": 234248.13,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "0ee54db8d7d35da4"
+  },
+  {
+    "entry_id": "PR000443",
+    "booking_date": "2025-02-28",
+    "taxable_value": 4809041.09,
+    "igst": 240452.05,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "cff15252fd2d0d04"
+  },
+  {
+    "entry_id": "PR000444",
+    "booking_date": "2025-01-15",
+    "taxable_value": 798645.6,
+    "igst": 143756.21,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6f94d8c098c70ca5"
+  },
+  {
+    "entry_id": "PR000445",
+    "booking_date": "2025-01-05",
+    "taxable_value": 2243805.41,
+    "igst": 403884.97,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "174170a2f3ded30a"
+  },
+  {
+    "entry_id": "PR000446",
+    "booking_date": "2024-05-26",
+    "taxable_value": 2703138.79,
+    "igst": 486564.98,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "1f5be451b74da493"
+  },
+  {
+    "entry_id": "PR000447",
+    "booking_date": "2024-08-18",
+    "taxable_value": 3709797.19,
+    "igst": 1038743.21,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "28c68514aebe8613"
+  },
+  {
+    "entry_id": "PR000448",
+    "booking_date": "2025-03-26",
+    "taxable_value": 3662801.65,
+    "igst": 1025584.46,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "9460b057e5570393"
+  },
+  {
+    "entry_id": "PR000449",
+    "booking_date": "2024-06-20",
+    "taxable_value": 1120783.21,
+    "igst": 134493.99,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2cc262a35c36e865"
+  },
+  {
+    "entry_id": "PR000450",
+    "booking_date": "2024-04-02",
+    "taxable_value": 2898645.65,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "d02b9d90e0adead9"
+  },
+  {
+    "entry_id": "PR000451",
+    "booking_date": "2025-03-06",
+    "taxable_value": 2776924.52,
+    "igst": 499846.41,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "80c953d0be9f73b7"
+  },
+  {
+    "entry_id": "PR000452",
+    "booking_date": "2024-12-16",
+    "taxable_value": 4603331.91,
+    "igst": 552399.83,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "b0a1bfaf2eeb2c70"
+  },
+  {
+    "entry_id": "PR000453",
+    "booking_date": "2024-04-10",
+    "taxable_value": 3328127.58,
+    "igst": 931875.72,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6284a66d8821632a"
+  },
+  {
+    "entry_id": "PR000454",
+    "booking_date": "2024-09-04",
+    "taxable_value": 4469274.43,
+    "igst": 804469.4,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "42aa350887441e2f"
+  },
+  {
+    "entry_id": "PR000455",
+    "booking_date": "2024-06-06",
+    "taxable_value": 4917841.82,
+    "igst": 885211.53,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "31099aac34307413"
+  },
+  {
+    "entry_id": "PR000456",
+    "booking_date": "2025-03-20",
+    "taxable_value": 4005348.21,
+    "igst": 720962.68,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "54a128ed4ce7e803"
+  },
+  {
+    "entry_id": "PR000457",
+    "booking_date": "2024-08-01",
+    "taxable_value": 712245.79,
+    "igst": 128204.24,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "bda9b0ab7f178490"
+  },
+  {
+    "entry_id": "PR000458",
+    "booking_date": "2024-09-29",
+    "taxable_value": 4888868.69,
+    "igst": 879996.36,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2e30ac365cd2fe21"
+  },
+  {
+    "entry_id": "PR000459",
+    "booking_date": "2025-01-31",
+    "taxable_value": 3169082.58,
+    "igst": 158454.13,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "6561fb66b1c7bc2c"
+  },
+  {
+    "entry_id": "PR000460",
+    "booking_date": "2024-06-02",
+    "taxable_value": 2925815.88,
+    "igst": 526646.86,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "95ed57dec7e0f69e"
+  },
+  {
+    "entry_id": "PR000461",
+    "booking_date": "2024-04-06",
+    "taxable_value": 4564460.73,
+    "igst": 1278049.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "862cd31ce2f52086"
+  },
+  {
+    "entry_id": "PR000462",
+    "booking_date": "2024-05-27",
+    "taxable_value": 2730497.29,
+    "igst": 327659.67,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "bf24345b1cad49bc"
+  },
+  {
+    "entry_id": "PR000463",
+    "booking_date": "2024-05-02",
+    "taxable_value": 2319762.5,
+    "igst": 417557.25,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ff154a8a2c393c76"
+  },
+  {
+    "entry_id": "PR000464",
+    "booking_date": "2025-03-28",
+    "taxable_value": 4715452.58,
+    "igst": 848781.46,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "9033a664792d939e"
+  },
+  {
+    "entry_id": "PR000465",
+    "booking_date": "2024-07-08",
+    "taxable_value": 2058057.94,
+    "igst": 576256.22,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f5b3aa3ed4847aba"
+  },
+  {
+    "entry_id": "PR000466",
+    "booking_date": "2024-08-16",
+    "taxable_value": 2021337.43,
+    "igst": 363840.74,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "591ce64aa671929f"
+  },
+  {
+    "entry_id": "PR000467",
+    "booking_date": "2024-07-09",
+    "taxable_value": 4435582.67,
+    "igst": 798404.88,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "9065a1f5751f46c7"
+  },
+  {
+    "entry_id": "PR000468",
+    "booking_date": "2025-01-19",
+    "taxable_value": 4111410.04,
+    "igst": 493369.2,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "cd88dcc37b142ead"
+  },
+  {
+    "entry_id": "PR000469",
+    "booking_date": "2024-04-17",
+    "taxable_value": 1295981.27,
+    "igst": 233276.63,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c92ee3b7fdc536b8"
+  },
+  {
+    "entry_id": "PR000470",
+    "booking_date": "2024-11-05",
+    "taxable_value": 37205.07,
+    "igst": 4464.61,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "c698d11dc41c0d68"
+  },
+  {
+    "entry_id": "PR000471",
+    "booking_date": "2024-04-29",
+    "taxable_value": 714072.05,
+    "igst": 85688.65,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6d414d08627bd51f"
+  },
+  {
+    "entry_id": "PR000472",
+    "booking_date": "2024-07-27",
+    "taxable_value": 23542.83,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "59919e20936d5cea"
+  },
+  {
+    "entry_id": "PR000473",
+    "booking_date": "2025-01-23",
+    "taxable_value": 1498263.96,
+    "igst": 179791.68,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a6a127a6d138f00d"
+  },
+  {
+    "entry_id": "PR000474",
+    "booking_date": "2024-04-30",
+    "taxable_value": 1668384.14,
+    "igst": 300309.15,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c1c78c07cb95dabe"
+  },
+  {
+    "entry_id": "PR000475",
+    "booking_date": "2024-06-28",
+    "taxable_value": 2056534.59,
+    "igst": 370176.23,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "74d3a587709c3834"
+  },
+  {
+    "entry_id": "PR000476",
+    "booking_date": "2024-05-14",
+    "taxable_value": 1098810.5,
+    "igst": 54940.53,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "49957577545d0ca5"
+  },
+  {
+    "entry_id": "PR000477",
+    "booking_date": "2024-07-11",
+    "taxable_value": 574216.3,
+    "igst": 103358.93,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "6639e4e69f31efac"
+  },
+  {
+    "entry_id": "PR000478",
+    "booking_date": "2024-05-06",
+    "taxable_value": 1639641.2,
+    "igst": 295135.42,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "bf207e433d51c3ef"
+  },
+  {
+    "entry_id": "PR000479",
+    "booking_date": "2024-12-31",
+    "taxable_value": 3727041.03,
+    "igst": 186352.05,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "0857d87c8e409f5a"
+  },
+  {
+    "entry_id": "PR000480",
+    "booking_date": "2024-05-10",
+    "taxable_value": 3360136.16,
+    "igst": 604824.51,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "f6a8c40084714f23"
+  },
+  {
+    "entry_id": "PR000481",
+    "booking_date": "2024-08-27",
+    "taxable_value": 1817341.28,
+    "igst": 327121.43,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "243822d1e42783b7"
+  },
+  {
+    "entry_id": "PR000482",
+    "booking_date": "2024-11-28",
+    "taxable_value": 2863633.01,
+    "igst": 515453.94,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "b4daf8941c77ca4f"
+  },
+  {
+    "entry_id": "PR000483",
+    "booking_date": "2024-07-29",
+    "taxable_value": 453094.67,
+    "igst": 81557.04,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "3d995a0fde17a89a"
+  },
+  {
+    "entry_id": "PR000484",
+    "booking_date": "2024-04-28",
+    "taxable_value": 3914267.2,
+    "igst": 469712.06,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f61a6d961eff4a67"
+  },
+  {
+    "entry_id": "PR000485",
+    "booking_date": "2024-04-28",
+    "taxable_value": 4886655.35,
+    "igst": 879597.96,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "fde13b7068b05396"
+  },
+  {
+    "entry_id": "PR000486",
+    "booking_date": "2025-01-29",
+    "taxable_value": 3596442.51,
+    "igst": 431573.1,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "aafd0c1c03b17b08"
+  },
+  {
+    "entry_id": "PR000487",
+    "booking_date": "2025-01-08",
+    "taxable_value": 2849811.19,
+    "igst": 512966.01,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "232c7859799a11e0"
+  },
+  {
+    "entry_id": "PR000488",
+    "booking_date": "2024-10-24",
+    "taxable_value": 3021990.74,
+    "igst": 543958.33,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "194ba9cc9f5ef57d"
+  },
+  {
+    "entry_id": "PR000489",
+    "booking_date": "2024-09-12",
+    "taxable_value": 3674284.45,
+    "igst": 661371.2,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c6d3fa6afaaa7102"
+  },
+  {
+    "entry_id": "PR000490",
+    "booking_date": "2024-09-01",
+    "taxable_value": 84396.71,
+    "igst": 10127.61,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "0b80abd2f42d984f"
+  },
+  {
+    "entry_id": "PR000491",
+    "booking_date": "2024-12-26",
+    "taxable_value": 2859782.87,
+    "igst": 514760.92,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c7d03153b4cbb3d5"
+  },
+  {
+    "entry_id": "PR000492",
+    "booking_date": "2025-02-13",
+    "taxable_value": 2988503.54,
+    "igst": 149425.18,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "80fd33b5826c3be1"
+  },
+  {
+    "entry_id": "PR000493",
+    "booking_date": "2025-03-03",
+    "taxable_value": 4319526.05,
+    "igst": 0.0,
+    "cgst": 388757.34,
+    "sgst": 388757.34,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "968ffee784d7d2cd"
+  },
+  {
+    "entry_id": "PR000494",
+    "booking_date": "2024-07-17",
+    "taxable_value": 1913712.18,
+    "igst": 95685.61,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "56c5baa83422c92a"
+  },
+  {
+    "entry_id": "PR000495",
+    "booking_date": "2024-04-22",
+    "taxable_value": 841769.79,
+    "igst": 151518.56,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "40aba93dd43c9112"
+  },
+  {
+    "entry_id": "PR000496",
+    "booking_date": "2024-11-27",
+    "taxable_value": 2380767.92,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5a25174f1a5b4169"
+  },
+  {
+    "entry_id": "PR000497",
+    "booking_date": "2024-07-28",
+    "taxable_value": 690201.61,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "76de6d7238fd8c02"
+  },
+  {
+    "entry_id": "PR000498",
+    "booking_date": "2024-06-09",
+    "taxable_value": 3041941.92,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "76857db799fcadf9"
+  },
+  {
+    "entry_id": "PR000499",
+    "booking_date": "2024-08-23",
+    "taxable_value": 1991286.43,
+    "igst": 557560.2,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "28ffac70d36a12c4"
+  },
+  {
+    "entry_id": "PR000500",
+    "booking_date": "2024-08-09",
+    "taxable_value": 376191.51,
+    "igst": 105333.62,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "08dac46e69573b0b"
+  },
+  {
+    "entry_id": "PR000501",
+    "booking_date": "2025-02-16",
+    "taxable_value": 2300570.34,
+    "igst": 414102.66,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "590c923d5adffb3e"
+  },
+  {
+    "entry_id": "PR000502",
+    "booking_date": "2024-07-05",
+    "taxable_value": 4607875.34,
+    "igst": 829417.56,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "1c94aa89da0b7c1c"
+  },
+  {
+    "entry_id": "PR000503",
+    "booking_date": "2024-11-10",
+    "taxable_value": 3448941.2,
+    "igst": 172447.06,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "109bb20ecc08090e"
+  },
+  {
+    "entry_id": "PR000504",
+    "booking_date": "2025-02-09",
+    "taxable_value": 848159.12,
+    "igst": 237484.55,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "7e3b9a7551b7467e"
+  },
+  {
+    "entry_id": "PR000505",
+    "booking_date": "2025-01-19",
+    "taxable_value": 1337061.69,
+    "igst": 240671.1,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "4fd52a79a4083407"
+  },
+  {
+    "entry_id": "PR000506",
+    "booking_date": "2024-08-07",
+    "taxable_value": 21414.78,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "d017c38b0f5a59fa"
+  },
+  {
+    "entry_id": "PR000507",
+    "booking_date": "2024-06-05",
+    "taxable_value": 2251805.88,
+    "igst": 405325.06,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b368cbbc583d2d2f"
+  },
+  {
+    "entry_id": "PR000508",
+    "booking_date": "2024-06-07",
+    "taxable_value": 495683.31,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "8216c020c798a722"
+  },
+  {
+    "entry_id": "PR000509",
+    "booking_date": "2024-12-27",
+    "taxable_value": 4560834.57,
+    "igst": 820950.22,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "9667a434102a5c3d"
+  },
+  {
+    "entry_id": "PR000510",
+    "booking_date": "2024-09-10",
+    "taxable_value": 2320729.43,
+    "igst": 116036.47,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "720947c8b9ecb76f"
+  },
+  {
+    "entry_id": "PR000511",
+    "booking_date": "2024-04-09",
+    "taxable_value": 956857.79,
+    "igst": 172234.4,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "870fe027c9c229b2"
+  },
+  {
+    "entry_id": "PR000512",
+    "booking_date": "2025-03-25",
+    "taxable_value": 1920361.46,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "91305eb120088092"
+  },
+  {
+    "entry_id": "PR000513",
+    "booking_date": "2025-03-14",
+    "taxable_value": 284013.48,
+    "igst": 14200.67,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "fa46c53044aa8f5f"
+  },
+  {
+    "entry_id": "PR000514",
+    "booking_date": "2024-07-31",
+    "taxable_value": 1996341.45,
+    "igst": 99817.07,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c393ba983406f9ff"
+  },
+  {
+    "entry_id": "PR000515",
+    "booking_date": "2024-09-03",
+    "taxable_value": 4510698.61,
+    "igst": 811925.75,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "23cb9cd590cb6896"
+  },
+  {
+    "entry_id": "PR000516",
+    "booking_date": "2024-06-18",
+    "taxable_value": 4888906.67,
+    "igst": 880003.2,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a916f60543a0ddb9"
+  },
+  {
+    "entry_id": "PR000517",
+    "booking_date": "2024-05-31",
+    "taxable_value": 2911878.55,
+    "igst": 145593.93,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e167a74f9322823d"
+  },
+  {
+    "entry_id": "PR000518",
+    "booking_date": "2024-06-30",
+    "taxable_value": 1727539.19,
+    "igst": 207304.7,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2f17b8cd3b1a4167"
+  },
+  {
+    "entry_id": "PR000519",
+    "booking_date": "2024-06-04",
+    "taxable_value": 2025935.4,
+    "igst": 364668.37,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "11ea2ac17e3dbd7b"
+  },
+  {
+    "entry_id": "PR000520",
+    "booking_date": "2025-02-09",
+    "taxable_value": 2721545.06,
+    "igst": 136077.25,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "33dd76d0873902f2"
+  },
+  {
+    "entry_id": "PR000521",
+    "booking_date": "2025-02-24",
+    "taxable_value": 4468245.88,
+    "igst": 804284.26,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "495c17b3081b89c0"
+  },
+  {
+    "entry_id": "PR000522",
+    "booking_date": "2024-08-08",
+    "taxable_value": 1380690.64,
+    "igst": 69034.53,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "251d8e374a444748"
+  },
+  {
+    "entry_id": "PR000523",
+    "booking_date": "2025-02-18",
+    "taxable_value": 4726497.55,
+    "igst": 567179.71,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a2e3994983a98474"
+  },
+  {
+    "entry_id": "PR000524",
+    "booking_date": "2025-03-23",
+    "taxable_value": 3376725.31,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a9be95c87f19916a"
+  },
+  {
+    "entry_id": "PR000525",
+    "booking_date": "2024-10-11",
+    "taxable_value": 3275420.21,
+    "igst": 393050.43,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "94ab0f5076de47a0"
+  },
+  {
+    "entry_id": "PR000526",
+    "booking_date": "2024-04-03",
+    "taxable_value": 1319280.69,
+    "igst": 237470.52,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "5461e32a2f23b979"
+  },
+  {
+    "entry_id": "PR000527",
+    "booking_date": "2024-05-24",
+    "taxable_value": 2364189.9,
+    "igst": 425554.18,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "bd89a79ed76601fb"
+  },
+  {
+    "entry_id": "PR000528",
+    "booking_date": "2025-01-21",
+    "taxable_value": 2065380.96,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "9d5d7f47c2202395"
+  },
+  {
+    "entry_id": "PR000529",
+    "booking_date": "2024-07-04",
+    "taxable_value": 3212578.94,
+    "igst": 899522.1,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "889c7fb72b344f36"
+  },
+  {
+    "entry_id": "PR000530",
+    "booking_date": "2025-02-03",
+    "taxable_value": 3657176.65,
+    "igst": 658291.8,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e24edc9df05ab98c"
+  },
+  {
+    "entry_id": "PR000531",
+    "booking_date": "2024-05-08",
+    "taxable_value": 3011506.45,
+    "igst": 542071.16,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a3037359f031759b"
+  },
+  {
+    "entry_id": "PR000532",
+    "booking_date": "2025-03-16",
+    "taxable_value": 4631187.93,
+    "igst": 1296732.62,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "754cf43b8b47f834"
+  },
+  {
+    "entry_id": "PR000533",
+    "booking_date": "2025-02-21",
+    "taxable_value": 1509025.63,
+    "igst": 271624.61,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "96fb803297ec1ff1"
+  },
+  {
+    "entry_id": "PR000534",
+    "booking_date": "2025-01-03",
+    "taxable_value": 3524228.49,
+    "igst": 634361.13,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "a16adb9d4902ab2a"
+  },
+  {
+    "entry_id": "PR000535",
+    "booking_date": "2024-10-11",
+    "taxable_value": 3241761.64,
+    "igst": 583517.1,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "d7a947a584be94f2"
+  },
+  {
+    "entry_id": "PR000536",
+    "booking_date": "2024-10-08",
+    "taxable_value": 3522950.73,
+    "igst": 422754.09,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "f40e3a37bcd3633a"
+  },
+  {
+    "entry_id": "PR000537",
+    "booking_date": "2024-10-27",
+    "taxable_value": 1439897.37,
+    "igst": 0.0,
+    "cgst": 129590.76,
+    "sgst": 129590.76,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "56e5826b117ca48d"
+  },
+  {
+    "entry_id": "PR000538",
+    "booking_date": "2024-04-01",
+    "taxable_value": 3014111.44,
+    "igst": 0.0,
+    "cgst": 271270.03,
+    "sgst": 271270.03,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "0e156712902af059"
+  },
+  {
+    "entry_id": "PR000539",
+    "booking_date": "2024-12-12",
+    "taxable_value": 1616220.1,
+    "igst": 290919.62,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "8978a4804792f92c"
+  },
+  {
+    "entry_id": "PR000540",
+    "booking_date": "2025-02-02",
+    "taxable_value": 1794822.82,
+    "igst": 502550.39,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "82d1e649c78f2f2d"
+  },
+  {
+    "entry_id": "PR000541",
+    "booking_date": "2024-09-29",
+    "taxable_value": 4855911.17,
+    "igst": 242795.56,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "17f60f9c6ab8e5bc"
+  },
+  {
+    "entry_id": "PR000542",
+    "booking_date": "2024-11-17",
+    "taxable_value": 4987507.0,
+    "igst": 249375.35,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "754f52bbd4628b21"
+  },
+  {
+    "entry_id": "PR000543",
+    "booking_date": "2024-05-15",
+    "taxable_value": 2384473.66,
+    "igst": 667652.62,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "2fe6193442ad6dee"
+  },
+  {
+    "entry_id": "PR000544",
+    "booking_date": "2024-04-21",
+    "taxable_value": 4694859.62,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "9ec9cbcb3259e222"
+  },
+  {
+    "entry_id": "PR000545",
+    "booking_date": "2024-12-25",
+    "taxable_value": 207179.36,
+    "igst": 0.0,
+    "cgst": 12430.76,
+    "sgst": 12430.76,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "0a9a2ea21a1a1497"
+  },
+  {
+    "entry_id": "PR000546",
+    "booking_date": "2024-10-26",
+    "taxable_value": 1575192.19,
+    "igst": 189023.06,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "7c3eaa4b357e6209"
+  },
+  {
+    "entry_id": "PR000547",
+    "booking_date": "2024-09-24",
+    "taxable_value": 3615474.74,
+    "igst": 650785.45,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "6cdd3a3b10de32d4"
+  },
+  {
+    "entry_id": "PR000548",
+    "booking_date": "2024-04-26",
+    "taxable_value": 1461597.46,
+    "igst": 263087.54,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5ee58bb30c574674"
+  },
+  {
+    "entry_id": "PR000549",
+    "booking_date": "2024-08-12",
+    "taxable_value": 1848586.32,
+    "igst": 332745.54,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "4c295aa527eb17c2"
+  },
+  {
+    "entry_id": "PR000550",
+    "booking_date": "2024-09-17",
+    "taxable_value": 2612680.98,
+    "igst": 470282.58,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "c4705f5c5d0b88b5"
+  },
+  {
+    "entry_id": "PR000551",
+    "booking_date": "2024-09-30",
+    "taxable_value": 3679479.94,
+    "igst": 183974.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "05983e0a7aa31721"
+  },
+  {
+    "entry_id": "PR000552",
+    "booking_date": "2025-01-06",
+    "taxable_value": 3024156.98,
+    "igst": 544348.26,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "dd35058c91292fc2"
+  },
+  {
+    "entry_id": "PR000553",
+    "booking_date": "2024-11-30",
+    "taxable_value": 2279946.84,
+    "igst": 410390.43,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "d301c98241468d91"
+  },
+  {
+    "entry_id": "PR000554",
+    "booking_date": "2024-08-30",
+    "taxable_value": 3036671.03,
+    "igst": 151833.55,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e772db00ab0073bc"
+  },
+  {
+    "entry_id": "PR000555",
+    "booking_date": "2024-09-16",
+    "taxable_value": 3726362.92,
+    "igst": 186318.15,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "02974f361cccdbbe"
+  },
+  {
+    "entry_id": "PR000556",
+    "booking_date": "2024-08-01",
+    "taxable_value": 115705.78,
+    "igst": 13884.69,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "507385fa3f34e277"
+  },
+  {
+    "entry_id": "PR000557",
+    "booking_date": "2025-02-01",
+    "taxable_value": 4059305.8,
+    "igst": 730675.04,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "55ebe3535492b147"
+  },
+  {
+    "entry_id": "PR000558",
+    "booking_date": "2024-12-30",
+    "taxable_value": 2559712.85,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6a904c4e2994b9a1"
+  },
+  {
+    "entry_id": "PR000559",
+    "booking_date": "2024-05-24",
+    "taxable_value": 4061660.1,
+    "igst": 731098.82,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "d78d50fe3558ac73"
+  },
+  {
+    "entry_id": "PR000560",
+    "booking_date": "2024-11-25",
+    "taxable_value": 2169736.71,
+    "igst": 260368.41,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "03e6ce337a53eaee"
+  },
+  {
+    "entry_id": "PR000561",
+    "booking_date": "2025-02-03",
+    "taxable_value": 1310189.39,
+    "igst": 235834.09,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "7f7102db055576b4"
+  },
+  {
+    "entry_id": "PR000562",
+    "booking_date": "2024-06-28",
+    "taxable_value": 3256390.11,
+    "igst": 0.0,
+    "cgst": 293075.11,
+    "sgst": 293075.11,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "55b6b0b41228eee9"
+  },
+  {
+    "entry_id": "PR000563",
+    "booking_date": "2024-06-21",
+    "taxable_value": 4160792.86,
+    "igst": 748942.71,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "d2013bd40205bc5f"
+  },
+  {
+    "entry_id": "PR000564",
+    "booking_date": "2025-02-03",
+    "taxable_value": 2836155.65,
+    "igst": 510508.02,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "9ce502caa44fbcad"
+  },
+  {
+    "entry_id": "PR000565",
+    "booking_date": "2024-06-12",
+    "taxable_value": 3284444.98,
+    "igst": 591200.1,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "622473e62755f3b6"
+  },
+  {
+    "entry_id": "PR000566",
+    "booking_date": "2024-11-19",
+    "taxable_value": 4619107.7,
+    "igst": 230955.39,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5850d80d9e338bd6"
+  },
+  {
+    "entry_id": "PR000567",
+    "booking_date": "2025-01-18",
+    "taxable_value": 420097.51,
+    "igst": 75617.55,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "445f3e0ec18bd40d"
+  },
+  {
+    "entry_id": "PR000568",
+    "booking_date": "2024-08-03",
+    "taxable_value": 1489601.9,
+    "igst": 268128.34,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "0572e9c17b7109f6"
+  },
+  {
+    "entry_id": "PR000569",
+    "booking_date": "2025-03-11",
+    "taxable_value": 3025178.26,
+    "igst": 544532.09,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "77c7879feeab0d70"
+  },
+  {
+    "entry_id": "PR000570",
+    "booking_date": "2024-08-19",
+    "taxable_value": 256541.09,
+    "igst": 71831.51,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "cde61e6c73b3e2da"
+  },
+  {
+    "entry_id": "PR000571",
+    "booking_date": "2024-05-01",
+    "taxable_value": 2727914.82,
+    "igst": 327349.78,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "b247dfae66239c3a"
+  },
+  {
+    "entry_id": "PR000572",
+    "booking_date": "2024-04-26",
+    "taxable_value": 4566710.36,
+    "igst": 822007.86,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "a68ca0452a5e6275"
+  },
+  {
+    "entry_id": "PR000573",
+    "booking_date": "2024-06-12",
+    "taxable_value": 1203347.85,
+    "igst": 216602.61,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "eafe052c02ca0358"
+  },
+  {
+    "entry_id": "PR000574",
+    "booking_date": "2024-10-30",
+    "taxable_value": 2396509.84,
+    "igst": 431371.77,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "02291dba0b4f16d1"
+  },
+  {
+    "entry_id": "PR000575",
+    "booking_date": "2024-06-20",
+    "taxable_value": 2399591.38,
+    "igst": 431926.45,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "63f74f75a198d239"
+  },
+  {
+    "entry_id": "PR000576",
+    "booking_date": "2024-05-10",
+    "taxable_value": 1057085.33,
+    "igst": 190275.36,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "28a0b2d906648517"
+  },
+  {
+    "entry_id": "PR000577",
+    "booking_date": "2024-11-05",
+    "taxable_value": 1740947.02,
+    "igst": 313370.46,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "86b13ff526a222f5"
+  },
+  {
+    "entry_id": "PR000578",
+    "booking_date": "2024-09-12",
+    "taxable_value": 530101.13,
+    "igst": 148428.32,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "065b09859c506aa9"
+  },
+  {
+    "entry_id": "PR000579",
+    "booking_date": "2025-02-13",
+    "taxable_value": 3253410.29,
+    "igst": 162670.51,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "c5377504edd0352d"
+  },
+  {
+    "entry_id": "PR000580",
+    "booking_date": "2024-05-02",
+    "taxable_value": 3368873.06,
+    "igst": 606397.15,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e756c0e0ca6efad7"
+  },
+  {
+    "entry_id": "PR000581",
+    "booking_date": "2024-07-08",
+    "taxable_value": 195618.08,
+    "igst": 35211.25,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "075f5d508c0f705f"
+  },
+  {
+    "entry_id": "PR000582",
+    "booking_date": "2025-03-13",
+    "taxable_value": 4179037.47,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "58a0c848ddc6c639"
+  },
+  {
+    "entry_id": "PR000583",
+    "booking_date": "2024-04-11",
+    "taxable_value": 1345673.84,
+    "igst": 242221.29,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "08eb46bf3af0126d"
+  },
+  {
+    "entry_id": "PR000584",
+    "booking_date": "2025-03-25",
+    "taxable_value": 4361040.74,
+    "igst": 0.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "30dbd1960431005c"
+  },
+  {
+    "entry_id": "PR000585",
+    "booking_date": "2024-09-23",
+    "taxable_value": 228760.16,
+    "igst": 64052.84,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6cd7bdf3039368dc"
+  },
+  {
+    "entry_id": "PR000586",
+    "booking_date": "2024-06-12",
+    "taxable_value": 2746808.15,
+    "igst": 494425.47,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "0f3066f06896db75"
+  },
+  {
+    "entry_id": "PR000587",
+    "booking_date": "2024-12-01",
+    "taxable_value": 2243017.53,
+    "igst": 112150.88,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "865055e609ef90e3"
+  },
+  {
+    "entry_id": "PR000588",
+    "booking_date": "2024-10-17",
+    "taxable_value": 2100037.96,
+    "igst": 378006.83,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "6f45ede86efd9249"
+  },
+  {
+    "entry_id": "PR000589",
+    "booking_date": "2024-12-25",
+    "taxable_value": 3273815.96,
+    "igst": 916668.47,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ce80cfe532c1b948"
+  },
+  {
+    "entry_id": "PR000590",
+    "booking_date": "2024-11-05",
+    "taxable_value": 1560482.84,
+    "igst": 78024.14,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "1bf63a5a504bb729"
+  },
+  {
+    "entry_id": "PR000591",
+    "booking_date": "2025-03-27",
+    "taxable_value": 2482401.59,
+    "igst": 0.0,
+    "cgst": 223416.14,
+    "sgst": 223416.14,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "ef2e6fc519a69fd0"
+  },
+  {
+    "entry_id": "PR000592",
+    "booking_date": "2024-09-02",
+    "taxable_value": 1019731.1,
+    "igst": 122367.73,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "73589cf2c5b4b5d6"
+  },
+  {
+    "entry_id": "PR000593",
+    "booking_date": "2024-11-22",
+    "taxable_value": 3789734.08,
+    "igst": 189486.7,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "ineligible",
+    "invoice_uid": "2f4e4637dfd48a35"
+  },
+  {
+    "entry_id": "PR000594",
+    "booking_date": "2024-05-03",
+    "taxable_value": 1572659.62,
+    "igst": 283078.73,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "45605bc45ea72f2d"
+  },
+  {
+    "entry_id": "PR000595",
+    "booking_date": "2025-03-29",
+    "taxable_value": 1187667.0,
+    "igst": 213780.06,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "e3be1ccf950c252e"
+  },
+  {
+    "entry_id": "PR000596",
+    "booking_date": "2025-02-21",
+    "taxable_value": 853325.59,
+    "igst": 153598.61,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "5cf13b8fbb1cc33c"
+  },
+  {
+    "entry_id": "PR000597",
+    "booking_date": "2025-02-07",
+    "taxable_value": 442773.16,
+    "igst": 22138.66,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "7f63d55e7d312c25"
+  },
+  {
+    "entry_id": "PR000598",
+    "booking_date": "2024-04-19",
+    "taxable_value": 4502999.68,
+    "igst": 540359.96,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "dc3422d561b99572"
+  },
+  {
+    "entry_id": "PR000599",
+    "booking_date": "2024-12-23",
+    "taxable_value": 3988396.98,
+    "igst": 0.0,
+    "cgst": 99709.92,
+    "sgst": 99709.92,
+    "itc_eligibility": "provisional",
+    "invoice_uid": "6867bb952db5d9af"
+  },
+  {
+    "entry_id": "PR000600",
+    "booking_date": "2024-06-21",
+    "taxable_value": 4531259.84,
+    "igst": 815626.77,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "itc_eligibility": "eligible",
+    "invoice_uid": "0bf1f30eeb7c45c1"
+  }
+]

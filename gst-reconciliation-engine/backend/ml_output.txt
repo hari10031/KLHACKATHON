@@ -1,0 +1,90 @@
+=================================================================
+  GST RECONCILIATION ENGINE - XGBoost Vendor Risk Model
+=================================================================
+
+[1/6] Loading dataset from local CSV files...
+       65 GSTINs | 1206 invoices | 18 mismatches | 2340 returns
+[2/6] Engineering features...
+       Original: 65 samples x 28 features
+       Classes: 35 HIGH-RISK vs 30 LOW-RISK
+[3/6] Augmenting dataset with synthetic samples...
+       Augmented: 715 samples (385 HIGH / 330 LOW)
+[4/6] Training XGBoost classifier...
+[5/6] Evaluating model performance...
+
+=================================================================
+         CLASSIFICATION MODEL PERFORMANCE
+=================================================================
+
+  Metric                              Score  Bar
+  ------------------------------ ----------  -------------------------
+  Accuracy                           84.62%  #####################
+  Precision                          83.95%  ####################
+  Recall                             88.31%  ######################
+  F1 Score                           86.08%  #####################
+  AUC-ROC                            93.72%  #######################
+
+  Cross-Val Accuracy (5-Fold)        86.15%  +/- 3.97%
+  Cross-Val F1 (5-Fold)              87.30%  +/- 3.64%
+  Cross-Val AUC (5-Fold)             94.29%  +/- 2.11%
+
+  Training Samples                      572
+  Testing Samples                       143
+  Original Dataset Size                  65
+  Augmented Dataset Size                715
+  Features                               28
+
+-----------------------------------------------------------------
+  CONFUSION MATRIX
+-----------------------------------------------------------------
+                        Predicted LOW   Predicted HIGH
+  Actual LOW                    53             13
+  Actual HIGH                    9             68
+
+  True Positives: 68  |  True Negatives: 53
+  False Positives: 13 |  False Negatives: 9
+
+-----------------------------------------------------------------
+  CLASSIFICATION REPORT
+-----------------------------------------------------------------
+              precision    recall  f1-score   support
+
+    LOW RISK       0.85      0.80      0.83        66
+   HIGH RISK       0.84      0.88      0.86        77
+
+    accuracy                           0.85       143
+   macro avg       0.85      0.84      0.84       143
+weighted avg       0.85      0.85      0.85       143
+
+=================================================================
+         REGRESSION MODEL (Risk Score Prediction)
+=================================================================
+
+  Mean Absolute Error                 4.61%
+  R-squared (R2)                    0.4491
+  Prediction Accuracy (1-MAE)        95.39%
+
+-----------------------------------------------------------------
+  TOP 10 FEATURE IMPORTANCES (Classifier)
+-----------------------------------------------------------------
+  total_mismatches             0.1190  ##############################
+  mismatch_rate                0.0806  ####################
+  max_invoice_value            0.0778  ###################
+  invoice_stddev               0.0753  ##################
+  medium_mismatches            0.0635  ###############
+  mismatch_severity_score      0.0606  ###############
+  betweenness_centrality       0.0590  ##############
+  avg_invoice_value            0.0574  ##############
+  critical_mismatches          0.0548  #############
+  pagerank                     0.0529  #############
+
+[6/6] Saving models...
+
+=================================================================
+  Classifier saved  -> models/vendor_risk_model.json
+  Regressor saved   -> models/vendor_risk_regressor.json
+  Metadata saved    -> models/model_metadata.json
+  SHAP explainer initialized for 28 features
+=================================================================
+
+  Training complete!

@@ -216,8 +216,11 @@ class DataValidator:
         result = execute_query("""
             MATCH (g:GSTIN)
             OPTIONAL MATCH (g)-[r]->()
-            RETURN avg(count(r)) AS avg_rels
+            WITH g, count(r) AS rel_count
+            RETURN avg(rel_count) AS avg_rels
         """)
+        if result:
+            stats["avg_rels_per_gstin"] = result[0]["avg_rels"]
 
         logger.info(f"Graph statistics: {stats.get('total_nodes', 0)} nodes, "
                      f"{stats.get('total_relationships', 0)} relationships")
