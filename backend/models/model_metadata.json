@@ -1,0 +1,64 @@
+{
+  "classifier": {
+    "accuracy": 0.8462,
+    "precision": 0.8395,
+    "recall": 0.8831,
+    "f1": 0.8608,
+    "auc_roc": 0.9372,
+    "cv_accuracy": 0.8615,
+    "cv_f1": 0.873,
+    "cv_auc": 0.9429
+  },
+  "regressor": {
+    "mae": 0.0461,
+    "r2": 0.4491
+  },
+  "dataset": {
+    "original_size": 65,
+    "augmented_size": 715,
+    "train_size": 572,
+    "test_size": 143
+  },
+  "features": [
+    "invoices_issued",
+    "invoices_received",
+    "value_issued",
+    "value_received",
+    "avg_invoice_value",
+    "max_invoice_value",
+    "counterparties",
+    "invoice_stddev",
+    "total_mismatches",
+    "critical_mismatches",
+    "high_mismatches",
+    "medium_mismatches",
+    "mismatch_rate",
+    "itc_at_risk",
+    "avg_mismatch_risk",
+    "has_circular_trade",
+    "has_phantom",
+    "pagerank",
+    "degree_centrality",
+    "betweenness_centrality",
+    "clustering_coefficient",
+    "community_id",
+    "gstr1_filings",
+    "gstr3b_filings",
+    "value_ratio",
+    "inv_concentration",
+    "filing_completeness",
+    "mismatch_severity_score"
+  ],
+  "feature_importance": {
+    "total_mismatches": 0.119,
+    "mismatch_rate": 0.0806,
+    "max_invoice_value": 0.0778,
+    "invoice_stddev": 0.0753,
+    "medium_mismatches": 0.0635,
+    "mismatch_severity_score": 0.0606,
+    "betweenness_centrality": 0.059,
+    "avg_invoice_value": 0.0574,
+    "critical_mismatches": 0.0548,
+    "pagerank": 0.0529
+  }
+}

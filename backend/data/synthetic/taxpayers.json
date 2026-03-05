@@ -1,0 +1,727 @@
+[
+  {
+    "pan": "QAHFE7680N",
+    "legal_name": "Bharat Electronics Ltd",
+    "registration_date": "2017-10-31",
+    "business_type": "Public Limited",
+    "state": "Punjab",
+    "state_code": "03",
+    "aggregate_turnover": 47300772.31,
+    "compliance_rating": 23.1,
+    "gstins": [
+      "03QAHFE7680NZZM"
+    ]
+  },
+  {
+    "pan": "LHWCW4227D",
+    "legal_name": "Tata Steel Industries",
+    "registration_date": "2021-10-04",
+    "business_type": "Public Limited",
+    "state": "Haryana",
+    "state_code": "06",
+    "aggregate_turnover": 48809830.23,
+    "compliance_rating": 87.8,
+    "gstins": [
+      "06LHWCW4227D3ZC"
+    ]
+  },
+  {
+    "pan": "NZJPJ8685W",
+    "legal_name": "Reliance Trading Corp",
+    "registration_date": "2018-01-04",
+    "business_type": "Proprietorship",
+    "state": "Uttarakhand",
+    "state_code": "05",
+    "aggregate_turnover": 330801027.62,
+    "compliance_rating": 81.8,
+    "gstins": [
+      "05NZJPJ8685W7ZH",
+      "33NZJPJ8685WOZ1"
+    ]
+  },
+  {
+    "pan": "JRSBT6524I",
+    "legal_name": "Mahindra Components",
+    "registration_date": "2021-02-18",
+    "business_type": "Partnership",
+    "state": "Mizoram",
+    "state_code": "15",
+    "aggregate_turnover": 421504534.13,
+    "compliance_rating": 82.1,
+    "gstins": [
+      "15JRSBT6524ILZ6",
+      "05JRSBT6524IEZE"
+    ]
+  },
+  {
+    "pan": "OSFJM8611X",
+    "legal_name": "Infosys Technologies",
+    "registration_date": "2020-06-11",
+    "business_type": "Public Limited",
+    "state": "Andhra Pradesh",
+    "state_code": "37",
+    "aggregate_turnover": 373633398.92,
+    "compliance_rating": 54.3,
+    "gstins": [
+      "37OSFJM8611XFZ8"
+    ]
+  },
+  {
+    "pan": "DMTBE6740M",
+    "legal_name": "Wipro Ltd",
+    "registration_date": "2023-06-07",
+    "business_type": "Proprietorship",
+    "state": "Kerala",
+    "state_code": "32",
+    "aggregate_turnover": 126081352.93,
+    "compliance_rating": 64.3,
+    "gstins": [
+      "32DMTBE6740M8Z7"
+    ]
+  },
+  {
+    "pan": "NGQBJ4498I",
+    "legal_name": "Adani Enterprises",
+    "registration_date": "2019-07-02",
+    "business_type": "LLP",
+    "state": "Andaman & Nicobar",
+    "state_code": "35",
+    "aggregate_turnover": 254086996.46,
+    "compliance_rating": 28.5,
+    "gstins": [
+      "35NGQBJ4498IXZA",
+      "10NGQBJ4498IOZV"
+    ]
+  },
+  {
+    "pan": "OUNAT3098Z",
+    "legal_name": "Hindustan Unilever",
+    "registration_date": "2020-03-07",
+    "business_type": "Proprietorship",
+    "state": "Jharkhand",
+    "state_code": "20",
+    "aggregate_turnover": 29433620.66,
+    "compliance_rating": 90.2,
+    "gstins": [
+      "20OUNAT3098ZWZV"
+    ]
+  },
+  {
+    "pan": "ZNDJR1569R",
+    "legal_name": "ITC Limited",
+    "registration_date": "2020-12-28",
+    "business_type": "Public Limited",
+    "state": "Nagaland",
+    "state_code": "13",
+    "aggregate_turnover": 199796653.85,
+    "compliance_rating": 16.2,
+    "gstins": [
+      "13ZNDJR1569RGZM"
+    ]
+  },
+  {
+    "pan": "OPAAH0035I",
+    "legal_name": "Larsen & Toubro Eng",
+    "registration_date": "2019-11-25",
+    "business_type": "Public Limited",
+    "state": "Puducherry",
+    "state_code": "34",
+    "aggregate_turnover": 269847348.73,
+    "compliance_rating": 77.9,
+    "gstins": [
+      "34OPAAH0035IGZK"
+    ]
+  },
+  {
+    "pan": "UECLL4476U",
+    "legal_name": "Bajaj Auto Parts",
+    "registration_date": "2018-03-06",
+    "business_type": "Proprietorship",
+    "state": "Delhi",
+    "state_code": "07",
+    "aggregate_turnover": 201609330.41,
+    "compliance_rating": 47.1,
+    "gstins": [
+      "07UECLL4476UDZZ"
+    ]
+  },
+  {
+    "pan": "DEMBO8806R",
+    "legal_name": "Sun Pharma Labs",
+    "registration_date": "2018-07-18",
+    "business_type": "Partnership",
+    "state": "Jammu & Kashmir",
+    "state_code": "01",
+    "aggregate_turnover": 463220308.01,
+    "compliance_rating": 87.9,
+    "gstins": [
+      "01DEMBO8806RVZQ"
+    ]
+  },
+  {
+    "pan": "KBJLI9726X",
+    "legal_name": "Cipla Healthcare",
+    "registration_date": "2019-03-27",
+    "business_type": "Proprietorship",
+    "state": "Puducherry",
+    "state_code": "34",
+    "aggregate_turnover": 95353984.7,
+    "compliance_rating": 37.4,
+    "gstins": [
+      "34KBJLI9726XZZJ"
+    ]
+  },
+  {
+    "pan": "IBMPF0580C",
+    "legal_name": "JSW Steel Works",
+    "registration_date": "2022-01-09",
+    "business_type": "Partnership",
+    "state": "Tripura",
+    "state_code": "16",
+    "aggregate_turnover": 60383363.67,
+    "compliance_rating": 91.2,
+    "gstins": [
+      "16IBMPF0580C3ZS"
+    ]
+  },
+  {
+    "pan": "KPNGG6321U",
+    "legal_name": "Grasim Industries",
+    "registration_date": "2022-08-16",
+    "business_type": "Proprietorship",
+    "state": "Jharkhand",
+    "state_code": "20",
+    "aggregate_turnover": 158430509.54,
+    "compliance_rating": 80.1,
+    "gstins": [
+      "20KPNGG6321U7ZL"
+    ]
+  },
+  {
+    "pan": "FGYBH3187T",
+    "legal_name": "UltraTech Cement",
+    "registration_date": "2017-08-02",
+    "business_type": "Proprietorship",
+    "state": "Telangana",
+    "state_code": "36",
+    "aggregate_turnover": 334097670.25,
+    "compliance_rating": 64.4,
+    "gstins": [
+      "36FGYBH3187T9ZK",
+      "07FGYBH3187TAZK"
+    ]
+  },
+  {
+    "pan": "PSFGQ4980N",
+    "legal_name": "Asian Paints Co",
+    "registration_date": "2017-12-28",
+    "business_type": "LLP",
+    "state": "Assam",
+    "state_code": "18",
+    "aggregate_turnover": 2271071.7,
+    "compliance_rating": 24.1,
+    "gstins": [
+      "18PSFGQ4980NTZ8"
+    ]
+  },
+  {
+    "pan": "LABCR0354B",
+    "legal_name": "Titan Company Ltd",
+    "registration_date": "2021-08-02",
+    "business_type": "Proprietorship",
+    "state": "Jharkhand",
+    "state_code": "20",
+    "aggregate_turnover": 449541253.63,
+    "compliance_rating": 83.7,
+    "gstins": [
+      "20LABCR0354BEZN",
+      "07LABCR0354BNZ2"
+    ]
+  },
+  {
+    "pan": "WKQCH8988A",
+    "legal_name": "Maruti Suzuki Comp",
+    "registration_date": "2021-03-22",
+    "business_type": "Partnership",
+    "state": "Arunachal Pradesh",
+    "state_code": "12",
+    "aggregate_turnover": 391302054.83,
+    "compliance_rating": 52.9,
+    "gstins": [
+      "12WKQCH8988A7ZW"
+    ]
+  },
+  {
+    "pan": "BMFJL3720G",
+    "legal_name": "Hero MotoCorp Parts",
+    "registration_date": "2021-03-06",
+    "business_type": "LLP",
+    "state": "Maharashtra",
+    "state_code": "27",
+    "aggregate_turnover": 139662228.98,
+    "compliance_rating": 25.6,
+    "gstins": [
+      "27BMFJL3720GXZO"
+    ]
+  },
+  {
+    "pan": "ZNYBI1921N",
+    "legal_name": "Godrej Consumer",
+    "registration_date": "2021-01-05",
+    "business_type": "Proprietorship",
+    "state": "Madhya Pradesh",
+    "state_code": "23",
+    "aggregate_turnover": 218478744.99,
+    "compliance_rating": 98.7,
+    "gstins": [
+      "23ZNYBI1921NDZD"
+    ]
+  },
+  {
+    "pan": "SAYPV7763C",
+    "legal_name": "Dabur India Ltd",
+    "registration_date": "2021-01-06",
+    "business_type": "LLP",
+    "state": "Chhattisgarh",
+    "state_code": "22",
+    "aggregate_turnover": 331862044.39,
+    "compliance_rating": 30.0,
+    "gstins": [
+      "22SAYPV7763CRZW"
+    ]
+  },
+  {
+    "pan": "SOELV7154A",
+    "legal_name": "Havells India",
+    "registration_date": "2020-09-18",
+    "business_type": "Public Limited",
+    "state": "Jharkhand",
+    "state_code": "20",
+    "aggregate_turnover": 105486251.1,
+    "compliance_rating": 82.9,
+    "gstins": [
+      "20SOELV7154AUZ7"
+    ]
+  },
+  {
+    "pan": "RNUCV0563Y",
+    "legal_name": "Voltas Limited",
+    "registration_date": "2020-12-23",
+    "business_type": "Proprietorship",
+    "state": "Tripura",
+    "state_code": "16",
+    "aggregate_turnover": 112708012.67,
+    "compliance_rating": 35.9,
+    "gstins": [
+      "16RNUCV0563YVZX"
+    ]
+  },
+  {
+    "pan": "TLXTG7331W",
+    "legal_name": "Blue Star Cooling",
+    "registration_date": "2018-09-10",
+    "business_type": "Public Limited",
+    "state": "Jammu & Kashmir",
+    "state_code": "01",
+    "aggregate_turnover": 389320993.18,
+    "compliance_rating": 29.1,
+    "gstins": [
+      "01TLXTG7331WGZ2"
+    ]
+  },
+  {
+    "pan": "DDMPR5986X",
+    "legal_name": "Crompton Greaves",
+    "registration_date": "2022-04-13",
+    "business_type": "Partnership",
+    "state": "Andaman & Nicobar",
+    "state_code": "35",
+    "aggregate_turnover": 415369300.28,
+    "compliance_rating": 63.8,
+    "gstins": [
+      "35DDMPR5986XVZY"
+    ]
+  },
+  {
+    "pan": "TVHPP6202I",
+    "legal_name": "Amara Raja Batt",
+    "registration_date": "2021-01-30",
+    "business_type": "Partnership",
+    "state": "Chhattisgarh",
+    "state_code": "22",
+    "aggregate_turnover": 446566902.98,
+    "compliance_rating": 26.4,
+    "gstins": [
+      "22TVHPP6202IAZZ"
+    ]
+  },
+  {
+    "pan": "BKOLB2495W",
+    "legal_name": "Exide Industries",
+    "registration_date": "2023-12-15",
+    "business_type": "LLP",
+    "state": "Himachal Pradesh",
+    "state_code": "02",
+    "aggregate_turnover": 190500323.95,
+    "compliance_rating": 20.5,
+    "gstins": [
+      "02BKOLB2495WPZY"
+    ]
+  },
+  {
+    "pan": "YKTPZ6224A",
+    "legal_name": "Berger Paints",
+    "registration_date": "2021-04-07",
+    "business_type": "Partnership",
+    "state": "Dadra & Nagar Haveli",
+    "state_code": "26",
+    "aggregate_turnover": 334602373.5,
+    "compliance_rating": 83.9,
+    "gstins": [
+      "26YKTPZ6224A9ZY",
+      "02YKTPZ6224AQZR"
+    ]
+  },
+  {
+    "pan": "RCLJF0323Y",
+    "legal_name": "Pidilite Industries",
+    "registration_date": "2020-08-13",
+    "business_type": "LLP",
+    "state": "Dadra & Nagar Haveli",
+    "state_code": "26",
+    "aggregate_turnover": 376128906.87,
+    "compliance_rating": 86.6,
+    "gstins": [
+      "26RCLJF0323YVZ3",
+      "04RCLJF0323YNZH"
+    ]
+  },
+  {
+    "pan": "BYBAH1011V",
+    "legal_name": "Coromandel Intl",
+    "registration_date": "2023-10-28",
+    "business_type": "LLP",
+    "state": "Rajasthan",
+    "state_code": "08",
+    "aggregate_turnover": 473904632.6,
+    "compliance_rating": 57.2,
+    "gstins": [
+      "08BYBAH1011VBZU"
+    ]
+  },
+  {
+    "pan": "ZSUCJ1036M",
+    "legal_name": "Aarti Industries",
+    "registration_date": "2019-09-21",
+    "business_type": "Partnership",
+    "state": "Maharashtra",
+    "state_code": "27",
+    "aggregate_turnover": 38460240.68,
+    "compliance_rating": 75.2,
+    "gstins": [
+      "27ZSUCJ1036MKZT"
+    ]
+  },
+  {
+    "pan": "PDZAL5606A",
+    "legal_name": "SRF Limited",
+    "registration_date": "2022-12-29",
+    "business_type": "Private Limited",
+    "state": "Karnataka",
+    "state_code": "29",
+    "aggregate_turnover": 53216665.89,
+    "compliance_rating": 24.1,
+    "gstins": [
+      "29PDZAL5606ASZ0"
+    ]
+  },
+  {
+    "pan": "NQQPY4472H",
+    "legal_name": "Deepak Nitrite",
+    "registration_date": "2020-08-16",
+    "business_type": "Private Limited",
+    "state": "Haryana",
+    "state_code": "06",
+    "aggregate_turnover": 440874776.41,
+    "compliance_rating": 39.5,
+    "gstins": [
+      "06NQQPY4472HPZ3"
+    ]
+  },
+  {
+    "pan": "MIMHZ2258R",
+    "legal_name": "Navin Fluorine",
+    "registration_date": "2023-04-17",
+    "business_type": "Private Limited",
+    "state": "Jammu & Kashmir",
+    "state_code": "01",
+    "aggregate_turnover": 474057257.6,
+    "compliance_rating": 26.8,
+    "gstins": [
+      "01MIMHZ2258RGZ6"
+    ]
+  },
+  {
+    "pan": "QMUBJ2635P",
+    "legal_name": "Gujarat Gas Ltd",
+    "registration_date": "2021-05-09",
+    "business_type": "LLP",
+    "state": "Telangana",
+    "state_code": "36",
+    "aggregate_turnover": 213039154.45,
+    "compliance_rating": 79.7,
+    "gstins": [
+      "36QMUBJ2635PUZU"
+    ]
+  },
+  {
+    "pan": "GDFBX5712P",
+    "legal_name": "Thermax Limited",
+    "registration_date": "2023-05-19",
+    "business_type": "Partnership",
+    "state": "Assam",
+    "state_code": "18",
+    "aggregate_turnover": 298596974.89,
+    "compliance_rating": 98.4,
+    "gstins": [
+      "18GDFBX5712POZS"
+    ]
+  },
+  {
+    "pan": "ANHAR2967D",
+    "legal_name": "Kirloskar Brothers",
+    "registration_date": "2023-12-08",
+    "business_type": "LLP",
+    "state": "Jammu & Kashmir",
+    "state_code": "01",
+    "aggregate_turnover": 142527493.91,
+    "compliance_rating": 58.3,
+    "gstins": [
+      "01ANHAR2967D4ZW"
+    ]
+  },
+  {
+    "pan": "WCBJC5618J",
+    "legal_name": "Cummins India",
+    "registration_date": "2020-04-12",
+    "business_type": "Public Limited",
+    "state": "Haryana",
+    "state_code": "06",
+    "aggregate_turnover": 59666555.32,
+    "compliance_rating": 81.2,
+    "gstins": [
+      "06WCBJC5618JFZ7"
+    ]
+  },
+  {
+    "pan": "JXHTN3667Y",
+    "legal_name": "ABB India Ltd",
+    "registration_date": "2019-11-12",
+    "business_type": "Partnership",
+    "state": "Manipur",
+    "state_code": "14",
+    "aggregate_turnover": 132690739.58,
+    "compliance_rating": 26.5,
+    "gstins": [
+      "14JXHTN3667Y5ZQ"
+    ]
+  },
+  {
+    "pan": "KRMAH2280H",
+    "legal_name": "Siemens India Ltd",
+    "registration_date": "2019-09-19",
+    "business_type": "LLP",
+    "state": "Meghalaya",
+    "state_code": "17",
+    "aggregate_turnover": 212856913.57,
+    "compliance_rating": 24.4,
+    "gstins": [
+      "17KRMAH2280H5Z7",
+      "21KRMAH2280HJZ4"
+    ]
+  },
+  {
+    "pan": "MHKGQ5458X",
+    "legal_name": "Schneider Elec IN",
+    "registration_date": "2020-04-21",
+    "business_type": "Public Limited",
+    "state": "Odisha",
+    "state_code": "21",
+    "aggregate_turnover": 13419513.75,
+    "compliance_rating": 38.3,
+    "gstins": [
+      "21MHKGQ5458X2ZE"
+    ]
+  },
+  {
+    "pan": "RHBCP5429N",
+    "legal_name": "Honeywell Auto IN",
+    "registration_date": "2018-07-09",
+    "business_type": "LLP",
+    "state": "Puducherry",
+    "state_code": "34",
+    "aggregate_turnover": 235270192.28,
+    "compliance_rating": 52.7,
+    "gstins": [
+      "34RHBCP5429NBZ0"
+    ]
+  },
+  {
+    "pan": "SHYPB4339M",
+    "legal_name": "Bosch Limited",
+    "registration_date": "2017-07-05",
+    "business_type": "Private Limited",
+    "state": "Andaman & Nicobar",
+    "state_code": "35",
+    "aggregate_turnover": 329001363.05,
+    "compliance_rating": 63.4,
+    "gstins": [
+      "35SHYPB4339MYZD"
+    ]
+  },
+  {
+    "pan": "TQTFI5946D",
+    "legal_name": "SKF India Ltd",
+    "registration_date": "2020-03-07",
+    "business_type": "Proprietorship",
+    "state": "Himachal Pradesh",
+    "state_code": "02",
+    "aggregate_turnover": 355036521.14,
+    "compliance_rating": 44.9,
+    "gstins": [
+      "02TQTFI5946D6ZP"
+    ]
+  },
+  {
+    "pan": "VCYCP9274P",
+    "legal_name": "Timken India Ltd",
+    "registration_date": "2020-03-25",
+    "business_type": "Partnership",
+    "state": "Tamil Nadu",
+    "state_code": "33",
+    "aggregate_turnover": 228664843.13,
+    "compliance_rating": 31.6,
+    "gstins": [
+      "33VCYCP9274PXZK",
+      "09VCYCP9274P5Z3"
+    ]
+  },
+  {
+    "pan": "UKYPI8225V",
+    "legal_name": "Schaeffler India",
+    "registration_date": "2019-03-01",
+    "business_type": "LLP",
+    "state": "Puducherry",
+    "state_code": "34",
+    "aggregate_turnover": 223550422.83,
+    "compliance_rating": 58.7,
+    "gstins": [
+      "34UKYPI8225VZZF"
+    ]
+  },
+  {
+    "pan": "YWZFS3843P",
+    "legal_name": "ZF Commercial IN",
+    "registration_date": "2021-10-29",
+    "business_type": "Partnership",
+    "state": "Dadra & Nagar Haveli",
+    "state_code": "26",
+    "aggregate_turnover": 494212793.97,
+    "compliance_rating": 83.4,
+    "gstins": [
+      "26YWZFS3843P3Z4"
+    ]
+  },
+  {
+    "pan": "ZICJD5474U",
+    "legal_name": "Valeo India Auto",
+    "registration_date": "2018-05-03",
+    "business_type": "Private Limited",
+    "state": "Bihar",
+    "state_code": "10",
+    "aggregate_turnover": 235010555.19,
+    "compliance_rating": 15.2,
+    "gstins": [
+      "10ZICJD5474UMZ1"
+    ]
+  },
+  {
+    "pan": "JISJR0069H",
+    "legal_name": "Continental IN",
+    "registration_date": "2022-05-13",
+    "business_type": "Proprietorship",
+    "state": "Haryana",
+    "state_code": "06",
+    "aggregate_turnover": 489179695.25,
+    "compliance_rating": 80.8,
+    "gstins": [
+      "06JISJR0069HKZG"
+    ]
+  },
+  {
+    "pan": "BUHHN1557F",
+    "legal_name": "Finolex Cables",
+    "registration_date": "2018-05-20",
+    "business_type": "Partnership",
+    "state": "Arunachal Pradesh",
+    "state_code": "12",
+    "aggregate_turnover": 304941147.55,
+    "compliance_rating": 50.6,
+    "gstins": [
+      "12BUHHN1557FAZ2"
+    ]
+  },
+  {
+    "pan": "QLRJJ6143S",
+    "legal_name": "Polycab India",
+    "registration_date": "2022-04-03",
+    "business_type": "LLP",
+    "state": "Jharkhand",
+    "state_code": "20",
+    "aggregate_turnover": 345311599.47,
+    "compliance_rating": 56.5,
+    "gstins": [
+      "20QLRJJ6143SPZR"
+    ]
+  },
+  {
+    "pan": "CJJGW2962S",
+    "legal_name": "KEI Industries",
+    "registration_date": "2023-01-25",
+    "business_type": "Partnership",
+    "state": "Chandigarh",
+    "state_code": "04",
+    "aggregate_turnover": 416503030.39,
+    "compliance_rating": 92.2,
+    "gstins": [
+      "04CJJGW2962SNZ4"
+    ]
+  },
+  {
+    "pan": "EGTCU0607B",
+    "legal_name": "Bharat Electronics Ltd 2",
+    "registration_date": "2018-12-21",
+    "business_type": "Private Limited",
+    "state": "Gujarat",
+    "state_code": "24",
+    "aggregate_turnover": 45521621.19,
+    "compliance_rating": 43.6,
+    "gstins": [
+      "24EGTCU0607B9ZY"
+    ]
+  },
+  {
+    "pan": "WJNGF2848X",
+    "legal_name": "Tata Steel Industries 2",
+    "registration_date": "2018-10-15",
+    "business_type": "Partnership",
+    "state": "Chhattisgarh",
+    "state_code": "22",
+    "aggregate_turnover": 234431528.73,
+    "compliance_rating": 26.0,
+    "gstins": [
+      "22WJNGF2848XQZL",
+      "26WJNGF2848X6ZX"
+    ]
+  }
+]
