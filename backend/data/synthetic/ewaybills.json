@@ -1,0 +1,5942 @@
+[
+  {
+    "ewb_number": "218910883301",
+    "generation_date": "2024-12-14T00:00:00",
+    "validity": "2024-12-29T00:00:00",
+    "transporter_id": "21SLXHT1165WPZ8",
+    "vehicle_number": "GJ68EH9282",
+    "distance_km": 1517.5,
+    "invoice_uid": "ebe64b01daa6b4e1",
+    "total_value": 5578016.7
+  },
+  {
+    "ewb_number": "166814103555",
+    "generation_date": "2024-09-21T00:00:00",
+    "validity": "2024-09-28T00:00:00",
+    "transporter_id": "14RKWLX0231QAZW",
+    "vehicle_number": "TN29BF7022",
+    "distance_km": 296.1,
+    "invoice_uid": "08c5bab15d1c62eb",
+    "total_value": 2353217.58
+  },
+  {
+    "ewb_number": "475610548583",
+    "generation_date": "2025-03-03T00:00:00",
+    "validity": "2025-03-06T00:00:00",
+    "transporter_id": "06JSUTT0016VIZU",
+    "vehicle_number": "TN85GH8242",
+    "distance_km": 1041.3,
+    "invoice_uid": "7b33cf1d9ca1c236",
+    "total_value": 171969.6
+  },
+  {
+    "ewb_number": "685748530791",
+    "generation_date": "2024-07-22T00:00:00",
+    "validity": "2024-07-25T00:00:00",
+    "transporter_id": "30NVUBM8009KQZY",
+    "vehicle_number": "TN38BG1341",
+    "distance_km": 2415.8,
+    "invoice_uid": "6d0684a7983f1509",
+    "total_value": 5808247.74
+  },
+  {
+    "ewb_number": "900371878921",
+    "generation_date": "2024-11-10T00:00:00",
+    "validity": "2024-11-13T00:00:00",
+    "transporter_id": "32GDFTE7617PTZ7",
+    "vehicle_number": "GJ83FF3473",
+    "distance_km": 1105.0,
+    "invoice_uid": "a82af200b6d0bfc0",
+    "total_value": 2102991.06
+  },
+  {
+    "ewb_number": "730543358089",
+    "generation_date": "2024-11-23T00:00:00",
+    "validity": "2024-11-26T00:00:00",
+    "transporter_id": "12IMDAO1837Q3ZD",
+    "vehicle_number": "DL91HH9586",
+    "distance_km": 1311.6,
+    "invoice_uid": "9bbbcd9c3f831ff0",
+    "total_value": 223018.37
+  },
+  {
+    "ewb_number": "753388872137",
+    "generation_date": "2025-02-18T00:00:00",
+    "validity": "2025-02-19T00:00:00",
+    "transporter_id": "30IJUCV7999CXZ1",
+    "vehicle_number": "KA03FE3953",
+    "distance_km": 2378.4,
+    "invoice_uid": "4d199014e645ea19",
+    "total_value": 426336.43
+  },
+  {
+    "ewb_number": "589495655793",
+    "generation_date": "2024-08-30T00:00:00",
+    "validity": "2024-09-06T00:00:00",
+    "transporter_id": "31TUGFJ9791VUZS",
+    "vehicle_number": "KA49GC4271",
+    "distance_km": 2005.1,
+    "invoice_uid": "15d3850139811a46",
+    "total_value": 2843613.77
+  },
+  {
+    "ewb_number": "510177997256",
+    "generation_date": "2024-12-21T00:00:00",
+    "validity": "2024-12-24T00:00:00",
+    "transporter_id": "33KCFHD8671J9ZH",
+    "vehicle_number": "TN58AB1311",
+    "distance_km": 647.3,
+    "invoice_uid": "91715b0a4dde2088",
+    "total_value": 1597153.61
+  },
+  {
+    "ewb_number": "699259862247",
+    "generation_date": "2024-08-26T00:00:00",
+    "validity": "2024-08-27T00:00:00",
+    "transporter_id": "07KMQHI7302VMZS",
+    "vehicle_number": "DL06FF3868",
+    "distance_km": 2077.7,
+    "invoice_uid": "9702d1aed48c534a",
+    "total_value": 1777616.69
+  },
+  {
+    "ewb_number": "862340388025",
+    "generation_date": "2024-08-29T00:00:00",
+    "validity": "2024-09-13T00:00:00",
+    "transporter_id": "21JUGBX4491J7ZL",
+    "vehicle_number": "MH42EE8305",
+    "distance_km": 1510.5,
+    "invoice_uid": "5aee7c49fb7cc59e",
+    "total_value": 259585.33
+  },
+  {
+    "ewb_number": "522462219932",
+    "generation_date": "2024-11-09T00:00:00",
+    "validity": "2024-11-10T00:00:00",
+    "transporter_id": "18PRYHO7553UGZR",
+    "vehicle_number": "MH04CH9482",
+    "distance_km": 973.6,
+    "invoice_uid": "fc20446cd580db18",
+    "total_value": 3773294.35
+  },
+  {
+    "ewb_number": "253725751531",
+    "generation_date": "2024-12-08T00:00:00",
+    "validity": "2024-12-11T00:00:00",
+    "transporter_id": "27UAOHO8560JVZ2",
+    "vehicle_number": "GJ53GB3053",
+    "distance_km": 2431.2,
+    "invoice_uid": "6fdba1df5db34b62",
+    "total_value": 724596.07
+  },
+  {
+    "ewb_number": "787732369667",
+    "generation_date": "2024-06-06T00:00:00",
+    "validity": "2024-06-13T00:00:00",
+    "transporter_id": "03PCQTS1676S2ZY",
+    "vehicle_number": "MH06ED7825",
+    "distance_km": 1549.1,
+    "invoice_uid": "07758cefc267baf5",
+    "total_value": 2967482.96
+  },
+  {
+    "ewb_number": "255683626158",
+    "generation_date": "2025-03-17T00:00:00",
+    "validity": "2025-03-18T00:00:00",
+    "transporter_id": "21BYWLH9989XDZH",
+    "vehicle_number": "DL64HH6055",
+    "distance_km": 1248.5,
+    "invoice_uid": "49387b0cc3c1a6d0",
+    "total_value": 1755688.87
+  },
+  {
+    "ewb_number": "545662371308",
+    "generation_date": "2024-12-10T00:00:00",
+    "validity": "2024-12-17T00:00:00",
+    "transporter_id": "08BBOHR2345T9ZV",
+    "vehicle_number": "MH51FF6990",
+    "distance_km": 1889.9,
+    "invoice_uid": "73a221d32664a413",
+    "total_value": 5205941.75
+  },
+  {
+    "ewb_number": "794444859626",
+    "generation_date": "2025-02-05T00:00:00",
+    "validity": "2025-02-06T00:00:00",
+    "transporter_id": "26PGRTS2045XAZA",
+    "vehicle_number": "DL05BD1310",
+    "distance_km": 1108.2,
+    "invoice_uid": "2633f043ec2fa7ce",
+    "total_value": 825722.88
+  },
+  {
+    "ewb_number": "416844780876",
+    "generation_date": "2024-06-10T00:00:00",
+    "validity": "2024-06-13T00:00:00",
+    "transporter_id": "23RMMPZ7255MAZF",
+    "vehicle_number": "KA06EB6674",
+    "distance_km": 2310.8,
+    "invoice_uid": "11247b600cccd456",
+    "total_value": 1224251.39
+  },
+  {
+    "ewb_number": "819007192634",
+    "generation_date": "2025-01-13T00:00:00",
+    "validity": "2025-01-28T00:00:00",
+    "transporter_id": "03MFZHJ6905RCZE",
+    "vehicle_number": "TN23AG9116",
+    "distance_km": 473.9,
+    "invoice_uid": "e8e081e945ca09c5",
+    "total_value": 810928.45
+  },
+  {
+    "ewb_number": "571703329527",
+    "generation_date": "2024-04-20T00:00:00",
+    "validity": "2024-04-27T00:00:00",
+    "transporter_id": "18CRECP3222YMZ1",
+    "vehicle_number": "KA75AE6890",
+    "distance_km": 1735.0,
+    "invoice_uid": "655c560809f892fe",
+    "total_value": 1492662.66
+  },
+  {
+    "ewb_number": "722414826633",
+    "generation_date": "2024-05-31T00:00:00",
+    "validity": "2024-06-01T00:00:00",
+    "transporter_id": "34BONTR1351G6ZJ",
+    "vehicle_number": "GJ58AH3161",
+    "distance_km": 1288.0,
+    "invoice_uid": "f2d1d79a77129171",
+    "total_value": 2371474.04
+  },
+  {
+    "ewb_number": "136387268746",
+    "generation_date": "2024-08-09T00:00:00",
+    "validity": "2024-08-16T00:00:00",
+    "transporter_id": "06KTTLL9389MZZF",
+    "vehicle_number": "DL84FB3924",
+    "distance_km": 2482.2,
+    "invoice_uid": "e05938204dae3f58",
+    "total_value": 2382639.19
+  },
+  {
+    "ewb_number": "324371953252",
+    "generation_date": "2024-10-12T00:00:00",
+    "validity": "2024-10-13T00:00:00",
+    "transporter_id": "04CAPAH7422Y9ZD",
+    "vehicle_number": "GJ38DF6253",
+    "distance_km": 599.9,
+    "invoice_uid": "4bb880433cb4dc89",
+    "total_value": 1461208.96
+  },
+  {
+    "ewb_number": "610266923198",
+    "generation_date": "2024-09-01T00:00:00",
+    "validity": "2024-09-02T00:00:00",
+    "transporter_id": "06OZOCM2269LZZ7",
+    "vehicle_number": "DL07EG1647",
+    "distance_km": 2185.3,
+    "invoice_uid": "81a44bb886734869",
+    "total_value": 360758.13
+  },
+  {
+    "ewb_number": "496260389877",
+    "generation_date": "2024-04-08T00:00:00",
+    "validity": "2024-04-23T00:00:00",
+    "transporter_id": "02MUSHG3452EHZL",
+    "vehicle_number": "GJ75GE3497",
+    "distance_km": 498.5,
+    "invoice_uid": "a0c8ff5b4a163414",
+    "total_value": 5529316.76
+  },
+  {
+    "ewb_number": "166027394237",
+    "generation_date": "2024-12-07T00:00:00",
+    "validity": "2024-12-22T00:00:00",
+    "transporter_id": "30RANLA0752QCZ7",
+    "vehicle_number": "MH13CD4144",
+    "distance_km": 1553.3,
+    "invoice_uid": "cf84e78b2e13f4aa",
+    "total_value": 2719527.31
+  },
+  {
+    "ewb_number": "148408984648",
+    "generation_date": "2024-07-25T00:00:00",
+    "validity": "2024-07-26T00:00:00",
+    "transporter_id": "27RHOAF9395Y5ZZ",
+    "vehicle_number": "KA21DG9856",
+    "distance_km": 836.0,
+    "invoice_uid": "d695809afb9477e4",
+    "total_value": 3140310.69
+  },
+  {
+    "ewb_number": "946476610740",
+    "generation_date": "2024-05-21T00:00:00",
+    "validity": "2024-05-28T00:00:00",
+    "transporter_id": "06USCCM7673D1ZW",
+    "vehicle_number": "KA57FE2674",
+    "distance_km": 339.9,
+    "invoice_uid": "f3f3062d252a31af",
+    "total_value": 1370555.7
+  },
+  {
+    "ewb_number": "961073216850",
+    "generation_date": "2024-05-18T00:00:00",
+    "validity": "2024-05-19T00:00:00",
+    "transporter_id": "22JYSJT6410MPZB",
+    "vehicle_number": "KA57FG3230",
+    "distance_km": 758.1,
+    "invoice_uid": "545d962a66e6eb8b",
+    "total_value": 3528932.72
+  },
+  {
+    "ewb_number": "375917379943",
+    "generation_date": "2024-09-11T00:00:00",
+    "validity": "2024-09-14T00:00:00",
+    "transporter_id": "37SUBTP5598N3ZX",
+    "vehicle_number": "KA90BB5067",
+    "distance_km": 1647.4,
+    "invoice_uid": "45e56c864fa14b69",
+    "total_value": 4703535.3
+  },
+  {
+    "ewb_number": "194324902957",
+    "generation_date": "2024-09-17T00:00:00",
+    "validity": "2024-09-18T00:00:00",
+    "transporter_id": "31VSJHO7530XLZ6",
+    "vehicle_number": "MH39AB1370",
+    "distance_km": 2124.5,
+    "invoice_uid": "f5a61f64a6850496",
+    "total_value": 626127.84
+  },
+  {
+    "ewb_number": "458053354681",
+    "generation_date": "2025-01-12T00:00:00",
+    "validity": "2025-01-15T00:00:00",
+    "transporter_id": "32LGWPU3331LCZ9",
+    "vehicle_number": "KA79BC6131",
+    "distance_km": 303.5,
+    "invoice_uid": "679b339ddcee416d",
+    "total_value": 5654978.49
+  },
+  {
+    "ewb_number": "282487574878",
+    "generation_date": "2024-10-14T00:00:00",
+    "validity": "2024-10-15T00:00:00",
+    "transporter_id": "34OUFAI2275YXZD",
+    "vehicle_number": "MH74BE9898",
+    "distance_km": 2060.0,
+    "invoice_uid": "0a6ef7a5bc8fb5c5",
+    "total_value": 582156.23
+  },
+  {
+    "ewb_number": "326709201530",
+    "generation_date": "2024-04-17T00:00:00",
+    "validity": "2024-04-20T00:00:00",
+    "transporter_id": "07UONTR1925Q9Z5",
+    "vehicle_number": "TN08EC3174",
+    "distance_km": 631.7,
+    "invoice_uid": "31cfcfb3d003c33e",
+    "total_value": 1551479.71
+  },
+  {
+    "ewb_number": "458578420659",
+    "generation_date": "2025-01-21T00:00:00",
+    "validity": "2025-01-22T00:00:00",
+    "transporter_id": "30WWCJU6305GEZ6",
+    "vehicle_number": "TN35FE6533",
+    "distance_km": 1372.8,
+    "invoice_uid": "dd61e573ec993fc0",
+    "total_value": 3704534.82
+  },
+  {
+    "ewb_number": "819103071273",
+    "generation_date": "2025-02-15T00:00:00",
+    "validity": "2025-02-16T00:00:00",
+    "transporter_id": "30SAMCS2606D9Z5",
+    "vehicle_number": "TN10DG2463",
+    "distance_km": 1829.6,
+    "invoice_uid": "e1b226742075f507",
+    "total_value": 97220.77
+  },
+  {
+    "ewb_number": "901396117733",
+    "generation_date": "2025-03-13T00:00:00",
+    "validity": "2025-03-28T00:00:00",
+    "transporter_id": "02JLUFI6267JKZH",
+    "vehicle_number": "DL67DG5842",
+    "distance_km": 1619.0,
+    "invoice_uid": "c5733124e487ce0d",
+    "total_value": 384148.39
+  },
+  {
+    "ewb_number": "698569888727",
+    "generation_date": "2024-10-15T00:00:00",
+    "validity": "2024-10-18T00:00:00",
+    "transporter_id": "27TYUAS0200ZXZR",
+    "vehicle_number": "KA81GG7590",
+    "distance_km": 215.2,
+    "invoice_uid": "e27722664960c41c",
+    "total_value": 1350907.82
+  },
+  {
+    "ewb_number": "508738993541",
+    "generation_date": "2024-06-19T00:00:00",
+    "validity": "2024-06-22T00:00:00",
+    "transporter_id": "05TWTBY8345IWZZ",
+    "vehicle_number": "TN66FA9185",
+    "distance_km": 2149.8,
+    "invoice_uid": "f399ba4a88983262",
+    "total_value": 1928621.18
+  },
+  {
+    "ewb_number": "614867756918",
+    "generation_date": "2024-04-24T00:00:00",
+    "validity": "2024-05-01T00:00:00",
+    "transporter_id": "32UICJA3277HOZV",
+    "vehicle_number": "GJ64DD3466",
+    "distance_km": 25.9,
+    "invoice_uid": "448d11aa181744a5",
+    "total_value": 2148211.84
+  },
+  {
+    "ewb_number": "604111014485",
+    "generation_date": "2024-09-19T00:00:00",
+    "validity": "2024-09-20T00:00:00",
+    "transporter_id": "17PNQLC5061JLZ2",
+    "vehicle_number": "TN90FF8417",
+    "distance_km": 687.2,
+    "invoice_uid": "fe4716ff8b6ea910",
+    "total_value": 3794886.84
+  },
+  {
+    "ewb_number": "664342572778",
+    "generation_date": "2024-09-08T00:00:00",
+    "validity": "2024-09-09T00:00:00",
+    "transporter_id": "09RGZAM8550D8ZY",
+    "vehicle_number": "MH08DC4246",
+    "distance_km": 2060.9,
+    "invoice_uid": "1a2ed247ec54027c",
+    "total_value": 713384.28
+  },
+  {
+    "ewb_number": "401451518634",
+    "generation_date": "2024-05-04T00:00:00",
+    "validity": "2024-05-11T00:00:00",
+    "transporter_id": "18LDPTH6484CPZ3",
+    "vehicle_number": "DL54DD9907",
+    "distance_km": 1989.2,
+    "invoice_uid": "b84274ed7346a963",
+    "total_value": 5324841.93
+  },
+  {
+    "ewb_number": "743243689144",
+    "generation_date": "2025-01-04T00:00:00",
+    "validity": "2025-01-07T00:00:00",
+    "transporter_id": "26ZCRGR8909HNZ3",
+    "vehicle_number": "DL23DF6878",
+    "distance_km": 2285.8,
+    "invoice_uid": "12040cfcd98ab4ef",
+    "total_value": 2030575.34
+  },
+  {
+    "ewb_number": "245197577458",
+    "generation_date": "2024-09-06T00:00:00",
+    "validity": "2024-09-13T00:00:00",
+    "transporter_id": "24SXVHB0597Q5ZK",
+    "vehicle_number": "KA91GB6514",
+    "distance_km": 761.4,
+    "invoice_uid": "55342f16454b19a1",
+    "total_value": 2894176.16
+  },
+  {
+    "ewb_number": "136797058268",
+    "generation_date": "2025-03-29T00:00:00",
+    "validity": "2025-04-01T00:00:00",
+    "transporter_id": "23PXZFU5917HLZB",
+    "vehicle_number": "DL82BF8317",
+    "distance_km": 38.4,
+    "invoice_uid": "234c90319633bd95",
+    "total_value": 4092367.95
+  },
+  {
+    "ewb_number": "473980843051",
+    "generation_date": "2024-10-15T00:00:00",
+    "validity": "2024-10-18T00:00:00",
+    "transporter_id": "11XEBBK5640USZN",
+    "vehicle_number": "DL07BF4367",
+    "distance_km": 2436.3,
+    "invoice_uid": "bb1e126bb6a9780f",
+    "total_value": 4322564.07
+  },
+  {
+    "ewb_number": "303450030993",
+    "generation_date": "2025-01-07T00:00:00",
+    "validity": "2025-01-22T00:00:00",
+    "transporter_id": "37BLGGS0760LRZH",
+    "vehicle_number": "GJ30AG9561",
+    "distance_km": 1052.4,
+    "invoice_uid": "68fe9c3859d2713d",
+    "total_value": 907179.37
+  },
+  {
+    "ewb_number": "525575542335",
+    "generation_date": "2024-04-18T00:00:00",
+    "validity": "2024-05-03T00:00:00",
+    "transporter_id": "10OWNAZ7571E7ZG",
+    "vehicle_number": "MH73BE9775",
+    "distance_km": 2201.5,
+    "invoice_uid": "0773be787dc9736e",
+    "total_value": 3370703.58
+  },
+  {
+    "ewb_number": "247007957701",
+    "generation_date": "2025-02-06T00:00:00",
+    "validity": "2025-02-13T00:00:00",
+    "transporter_id": "34ZLVGX4612NYZ5",
+    "vehicle_number": "KA08CB6097",
+    "distance_km": 1776.8,
+    "invoice_uid": "b41ea860f961ba92",
+    "total_value": 222183.25
+  },
+  {
+    "ewb_number": "521024693954",
+    "generation_date": "2024-04-30T00:00:00",
+    "validity": "2024-05-01T00:00:00",
+    "transporter_id": "01EOZFU2265YVZ6",
+    "vehicle_number": "DL83CA4666",
+    "distance_km": 638.5,
+    "invoice_uid": "74117ab486a1f32c",
+    "total_value": 196260.14
+  },
+  {
+    "ewb_number": "264017757655",
+    "generation_date": "2024-10-10T00:00:00",
+    "validity": "2024-10-13T00:00:00",
+    "transporter_id": "17XUUTM6676JRZ1",
+    "vehicle_number": "TN50AD6622",
+    "distance_km": 1819.1,
+    "invoice_uid": "68dd77a0b6d4a43d",
+    "total_value": 2410307.65
+  },
+  {
+    "ewb_number": "741069220481",
+    "generation_date": "2025-03-03T00:00:00",
+    "validity": "2025-03-10T00:00:00",
+    "transporter_id": "26MDBTS9085VYZT",
+    "vehicle_number": "KA53AC3250",
+    "distance_km": 2480.9,
+    "invoice_uid": "8e5c2ed53338f135",
+    "total_value": 1069667.82
+  },
+  {
+    "ewb_number": "628132061606",
+    "generation_date": "2024-05-12T00:00:00",
+    "validity": "2024-05-27T00:00:00",
+    "transporter_id": "16ANSAK7500XFZE",
+    "vehicle_number": "KA40CB7284",
+    "distance_km": 1263.3,
+    "invoice_uid": "12ae9f93d606d5bc",
+    "total_value": 1963301.24
+  },
+  {
+    "ewb_number": "826055461255",
+    "generation_date": "2025-03-18T00:00:00",
+    "validity": "2025-03-19T00:00:00",
+    "transporter_id": "01QARLO3541WKZ6",
+    "vehicle_number": "TN85BE3247",
+    "distance_km": 1052.9,
+    "invoice_uid": "0aa2ee1ea64e9cd4",
+    "total_value": 1920040.04
+  },
+  {
+    "ewb_number": "359117969489",
+    "generation_date": "2024-05-29T00:00:00",
+    "validity": "2024-05-30T00:00:00",
+    "transporter_id": "07ACCTV4970XHZO",
+    "vehicle_number": "DL59EE8606",
+    "distance_km": 134.7,
+    "invoice_uid": "ccf28242b5cfe9cb",
+    "total_value": 2787901.29
+  },
+  {
+    "ewb_number": "539807990517",
+    "generation_date": "2025-03-13T00:00:00",
+    "validity": "2025-03-28T00:00:00",
+    "transporter_id": "07HKWLU8117FRZT",
+    "vehicle_number": "GJ62HC7221",
+    "distance_km": 1950.1,
+    "invoice_uid": "a3dd69c1c9857810",
+    "total_value": 2748409.56
+  },
+  {
+    "ewb_number": "845879957720",
+    "generation_date": "2024-10-28T00:00:00",
+    "validity": "2024-11-12T00:00:00",
+    "transporter_id": "11DVXTB0954P5ZS",
+    "vehicle_number": "TN42DF5557",
+    "distance_km": 135.4,
+    "invoice_uid": "340a3e82326dace5",
+    "total_value": 272362.47
+  },
+  {
+    "ewb_number": "601842522128",
+    "generation_date": "2025-01-19T00:00:00",
+    "validity": "2025-01-26T00:00:00",
+    "transporter_id": "19OQMHW4060LYZ8",
+    "vehicle_number": "KA90BA3689",
+    "distance_km": 1236.1,
+    "invoice_uid": "ed6c2a9bab0711ef",
+    "total_value": 520393.32
+  },
+  {
+    "ewb_number": "649600571250",
+    "generation_date": "2024-07-10T00:00:00",
+    "validity": "2024-07-11T00:00:00",
+    "transporter_id": "09NBYTP9796F7ZM",
+    "vehicle_number": "TN85FG7859",
+    "distance_km": 2449.0,
+    "invoice_uid": "ef3faf7a126ba56c",
+    "total_value": 713437.78
+  },
+  {
+    "ewb_number": "489814560511",
+    "generation_date": "2024-09-23T00:00:00",
+    "validity": "2024-10-08T00:00:00",
+    "transporter_id": "10PYSPJ8401M4ZQ",
+    "vehicle_number": "MH26EC5695",
+    "distance_km": 1711.6,
+    "invoice_uid": "6ecc0ad9e0b74fb4",
+    "total_value": 2921560.63
+  },
+  {
+    "ewb_number": "348377887798",
+    "generation_date": "2024-11-18T00:00:00",
+    "validity": "2024-11-25T00:00:00",
+    "transporter_id": "35TOPFJ4909X8ZN",
+    "vehicle_number": "TN06GE5329",
+    "distance_km": 333.9,
+    "invoice_uid": "cf56ab4e80100b59",
+    "total_value": 3450639.43
+  },
+  {
+    "ewb_number": "826765820664",
+    "generation_date": "2024-06-18T00:00:00",
+    "validity": "2024-06-25T00:00:00",
+    "transporter_id": "23IHYTQ4576DTZM",
+    "vehicle_number": "DL83DA6258",
+    "distance_km": 959.6,
+    "invoice_uid": "aa7e19f2cb08a1f8",
+    "total_value": 3820550.12
+  },
+  {
+    "ewb_number": "794368802109",
+    "generation_date": "2024-12-21T00:00:00",
+    "validity": "2024-12-24T00:00:00",
+    "transporter_id": "10WLCPW8748C2ZH",
+    "vehicle_number": "TN92FA2433",
+    "distance_km": 192.4,
+    "invoice_uid": "7d7ad211cba631d4",
+    "total_value": 2700632.55
+  },
+  {
+    "ewb_number": "919290612257",
+    "generation_date": "2024-10-16T00:00:00",
+    "validity": "2024-10-17T00:00:00",
+    "transporter_id": "26SBYBJ7307OQZF",
+    "vehicle_number": "MH61CD3234",
+    "distance_km": 1869.4,
+    "invoice_uid": "d51661efe56727e9",
+    "total_value": 3718718.21
+  },
+  {
+    "ewb_number": "328941905237",
+    "generation_date": "2025-03-13T00:00:00",
+    "validity": "2025-03-20T00:00:00",
+    "transporter_id": "04FXWCF1621VUZM",
+    "vehicle_number": "GJ10EB5107",
+    "distance_km": 254.5,
+    "invoice_uid": "276c9d06247cebd4",
+    "total_value": 5026350.89
+  },
+  {
+    "ewb_number": "627756501036",
+    "generation_date": "2024-06-05T00:00:00",
+    "validity": "2024-06-20T00:00:00",
+    "transporter_id": "13LUMBF6028RHZ9",
+    "vehicle_number": "MH94BA9309",
+    "distance_km": 1582.7,
+    "invoice_uid": "e4a1454bc1a93aef",
+    "total_value": 591327.78
+  },
+  {
+    "ewb_number": "364839187492",
+    "generation_date": "2024-04-19T00:00:00",
+    "validity": "2024-04-22T00:00:00",
+    "transporter_id": "03TDETS6974LFZU",
+    "vehicle_number": "TN30BE7052",
+    "distance_km": 592.7,
+    "invoice_uid": "d98f61f1fb1d3fa9",
+    "total_value": 1538508.77
+  },
+  {
+    "ewb_number": "544599431418",
+    "generation_date": "2024-04-24T00:00:00",
+    "validity": "2024-05-01T00:00:00",
+    "transporter_id": "18VIUTA5110UEZH",
+    "vehicle_number": "DL24CF2938",
+    "distance_km": 1656.2,
+    "invoice_uid": "12c54d20f3c7a356",
+    "total_value": 5148116.74
+  },
+  {
+    "ewb_number": "802500332998",
+    "generation_date": "2025-01-28T00:00:00",
+    "validity": "2025-01-29T00:00:00",
+    "transporter_id": "10WSVBG4981NCZ1",
+    "vehicle_number": "GJ85EC6614",
+    "distance_km": 2306.7,
+    "invoice_uid": "ff30c83968eea2e0",
+    "total_value": 3819245.71
+  },
+  {
+    "ewb_number": "244565990477",
+    "generation_date": "2024-12-24T00:00:00",
+    "validity": "2024-12-25T00:00:00",
+    "transporter_id": "33XUQPN3052ZPZ8",
+    "vehicle_number": "KA76BG3193",
+    "distance_km": 643.7,
+    "invoice_uid": "d363c397e89c9355",
+    "total_value": 4038142.65
+  },
+  {
+    "ewb_number": "501857198741",
+    "generation_date": "2024-04-03T00:00:00",
+    "validity": "2024-04-10T00:00:00",
+    "transporter_id": "23ZKFPZ5154JQZE",
+    "vehicle_number": "DL85BD8317",
+    "distance_km": 1959.9,
+    "invoice_uid": "2941cff53f641dd3",
+    "total_value": 2890357.74
+  },
+  {
+    "ewb_number": "169098038123",
+    "generation_date": "2024-09-21T00:00:00",
+    "validity": "2024-09-28T00:00:00",
+    "transporter_id": "12FCALM6575YWZX",
+    "vehicle_number": "TN02DE4190",
+    "distance_km": 93.7,
+    "invoice_uid": "9bcf10c89aae163d",
+    "total_value": 3623205.12
+  },
+  {
+    "ewb_number": "547428367474",
+    "generation_date": "2024-08-01T00:00:00",
+    "validity": "2024-08-02T00:00:00",
+    "transporter_id": "31ONIBZ5257IPZB",
+    "vehicle_number": "GJ62DF8517",
+    "distance_km": 1707.2,
+    "invoice_uid": "8f7f15b519be6dc5",
+    "total_value": 4878253.86
+  },
+  {
+    "ewb_number": "924406594835",
+    "generation_date": "2024-08-11T00:00:00",
+    "validity": "2024-08-14T00:00:00",
+    "transporter_id": "07MFTGG2883Y8Z2",
+    "vehicle_number": "MH87HA9871",
+    "distance_km": 2395.4,
+    "invoice_uid": "4494c11249348516",
+    "total_value": 2009682.74
+  },
+  {
+    "ewb_number": "865021156073",
+    "generation_date": "2025-01-20T00:00:00",
+    "validity": "2025-02-04T00:00:00",
+    "transporter_id": "16IARLS1381IIZR",
+    "vehicle_number": "TN79FF4013",
+    "distance_km": 1251.9,
+    "invoice_uid": "09cb75fa3fd3045a",
+    "total_value": 2896352.42
+  },
+  {
+    "ewb_number": "635948923988",
+    "generation_date": "2024-07-02T00:00:00",
+    "validity": "2024-07-09T00:00:00",
+    "transporter_id": "31GWBBW1228DMZ2",
+    "vehicle_number": "KA47FE6638",
+    "distance_km": 59.4,
+    "invoice_uid": "2377f531483c4b8d",
+    "total_value": 689392.92
+  },
+  {
+    "ewb_number": "420632249821",
+    "generation_date": "2024-08-24T00:00:00",
+    "validity": "2024-08-31T00:00:00",
+    "transporter_id": "09PKXHX5941AGZ5",
+    "vehicle_number": "KA96BD3734",
+    "distance_km": 998.6,
+    "invoice_uid": "a79f22c89c9d39ad",
+    "total_value": 1707432.66
+  },
+  {
+    "ewb_number": "587687288462",
+    "generation_date": "2024-08-13T00:00:00",
+    "validity": "2024-08-16T00:00:00",
+    "transporter_id": "37ZSETO6655UKZ5",
+    "vehicle_number": "KA62DB8239",
+    "distance_km": 776.6,
+    "invoice_uid": "b1999af9c94edcfb",
+    "total_value": 917115.52
+  },
+  {
+    "ewb_number": "939737446040",
+    "generation_date": "2024-08-25T00:00:00",
+    "validity": "2024-09-01T00:00:00",
+    "transporter_id": "31HTVLG8126TIZE",
+    "vehicle_number": "GJ63DF1317",
+    "distance_km": 388.9,
+    "invoice_uid": "cdf15daceb84a726",
+    "total_value": 3157632.02
+  },
+  {
+    "ewb_number": "512308113485",
+    "generation_date": "2024-08-16T00:00:00",
+    "validity": "2024-08-31T00:00:00",
+    "transporter_id": "26SACCB2351I1ZG",
+    "vehicle_number": "MH99DG8257",
+    "distance_km": 625.4,
+    "invoice_uid": "4005cfbafdf613e1",
+    "total_value": 4005416.26
+  },
+  {
+    "ewb_number": "495990502725",
+    "generation_date": "2025-03-07T00:00:00",
+    "validity": "2025-03-08T00:00:00",
+    "transporter_id": "01WFCLK0753H3ZL",
+    "vehicle_number": "GJ89HC7084",
+    "distance_km": 1929.3,
+    "invoice_uid": "ce044be3533a8146",
+    "total_value": 2790292.78
+  },
+  {
+    "ewb_number": "723585338913",
+    "generation_date": "2024-06-18T00:00:00",
+    "validity": "2024-06-21T00:00:00",
+    "transporter_id": "24OIMTR1548RUZ2",
+    "vehicle_number": "MH82GC1306",
+    "distance_km": 1553.1,
+    "invoice_uid": "6efc6f3e62463131",
+    "total_value": 4669896.92
+  },
+  {
+    "ewb_number": "639696662278",
+    "generation_date": "2024-12-25T00:00:00",
+    "validity": "2025-01-01T00:00:00",
+    "transporter_id": "04BFSAG6984UOZE",
+    "vehicle_number": "GJ96GF1955",
+    "distance_km": 2060.9,
+    "invoice_uid": "ec575b5dc458423b",
+    "total_value": 4518107.59
+  },
+  {
+    "ewb_number": "833161871368",
+    "generation_date": "2024-12-22T00:00:00",
+    "validity": "2025-01-06T00:00:00",
+    "transporter_id": "21WEELQ3194LLZD",
+    "vehicle_number": "KA53GF4943",
+    "distance_km": 1412.2,
+    "invoice_uid": "9cd0f6f42438e212",
+    "total_value": 567867.31
+  },
+  {
+    "ewb_number": "139059665795",
+    "generation_date": "2024-10-21T00:00:00",
+    "validity": "2024-11-05T00:00:00",
+    "transporter_id": "05JDJTH2803GLZZ",
+    "vehicle_number": "TN23HB5921",
+    "distance_km": 103.1,
+    "invoice_uid": "83aae8adfba51ff2",
+    "total_value": 3631840.08
+  },
+  {
+    "ewb_number": "651159545038",
+    "generation_date": "2024-09-19T00:00:00",
+    "validity": "2024-09-22T00:00:00",
+    "transporter_id": "10DRZJY5522M9Z1",
+    "vehicle_number": "KA11HA9980",
+    "distance_km": 1004.0,
+    "invoice_uid": "d87fcb8568530b9f",
+    "total_value": 4619036.86
+  },
+  {
+    "ewb_number": "438313205080",
+    "generation_date": "2024-10-20T00:00:00",
+    "validity": "2024-10-23T00:00:00",
+    "transporter_id": "10ZQZJT1081L6ZT",
+    "vehicle_number": "MH95AD3419",
+    "distance_km": 2173.2,
+    "invoice_uid": "6e08f1221ef52536",
+    "total_value": 1030365.42
+  },
+  {
+    "ewb_number": "611329107635",
+    "generation_date": "2024-11-17T00:00:00",
+    "validity": "2024-11-18T00:00:00",
+    "transporter_id": "35BRRHD0862M7ZQ",
+    "vehicle_number": "KA63BC4258",
+    "distance_km": 1256.6,
+    "invoice_uid": "33fef3cb6e8cfdc3",
+    "total_value": 135367.04
+  },
+  {
+    "ewb_number": "533350068253",
+    "generation_date": "2024-12-07T00:00:00",
+    "validity": "2024-12-10T00:00:00",
+    "transporter_id": "22CJYTU6454JTZB",
+    "vehicle_number": "GJ17DC9869",
+    "distance_km": 1713.3,
+    "invoice_uid": "d28441ff70f57356",
+    "total_value": 4392206.87
+  },
+  {
+    "ewb_number": "955351142474",
+    "generation_date": "2025-01-15T00:00:00",
+    "validity": "2025-01-18T00:00:00",
+    "transporter_id": "02CETTT2522VNZR",
+    "vehicle_number": "MH89HC9230",
+    "distance_km": 2116.9,
+    "invoice_uid": "0d50980e8c02627c",
+    "total_value": 1874033.0
+  },
+  {
+    "ewb_number": "374395096441",
+    "generation_date": "2024-07-08T00:00:00",
+    "validity": "2024-07-23T00:00:00",
+    "transporter_id": "03KBTLX3675QYZI",
+    "vehicle_number": "MH58HA5025",
+    "distance_km": 1301.6,
+    "invoice_uid": "030dd4c0df288a89",
+    "total_value": 191296.34
+  },
+  {
+    "ewb_number": "552659774783",
+    "generation_date": "2024-08-28T00:00:00",
+    "validity": "2024-09-04T00:00:00",
+    "transporter_id": "08LEPFO0367F6ZF",
+    "vehicle_number": "MH91HF2397",
+    "distance_km": 1314.3,
+    "invoice_uid": "3af4454ffa555018",
+    "total_value": 2349145.68
+  },
+  {
+    "ewb_number": "788435070318",
+    "generation_date": "2024-06-27T00:00:00",
+    "validity": "2024-06-30T00:00:00",
+    "transporter_id": "34DDFTY2485AGZU",
+    "vehicle_number": "DL76HH7719",
+    "distance_km": 1110.3,
+    "invoice_uid": "e262c3e351732940",
+    "total_value": 3619702.27
+  },
+  {
+    "ewb_number": "942213564352",
+    "generation_date": "2024-07-04T00:00:00",
+    "validity": "2024-07-11T00:00:00",
+    "transporter_id": "36IXVLR0418KRZ6",
+    "vehicle_number": "GJ27DA2790",
+    "distance_km": 1432.7,
+    "invoice_uid": "15e2876efb91e2ab",
+    "total_value": 309416.39
+  },
+  {
+    "ewb_number": "420870938190",
+    "generation_date": "2025-03-19T00:00:00",
+    "validity": "2025-03-22T00:00:00",
+    "transporter_id": "23AAQBX8794KEZY",
+    "vehicle_number": "MH82DE5168",
+    "distance_km": 1977.6,
+    "invoice_uid": "c68b271ca7ed8b0c",
+    "total_value": 5510038.89
+  },
+  {
+    "ewb_number": "674817402205",
+    "generation_date": "2024-10-20T00:00:00",
+    "validity": "2024-10-27T00:00:00",
+    "transporter_id": "10OROAG5397CIZX",
+    "vehicle_number": "MH44GC7382",
+    "distance_km": 476.6,
+    "invoice_uid": "e877e2627b930b5d",
+    "total_value": 3234368.26
+  },
+  {
+    "ewb_number": "441551381352",
+    "generation_date": "2024-05-15T00:00:00",
+    "validity": "2024-05-22T00:00:00",
+    "transporter_id": "08DWVPV9203Q1Z5",
+    "vehicle_number": "KA06BF8649",
+    "distance_km": 2224.1,
+    "invoice_uid": "c434f51bf1130aed",
+    "total_value": 5174732.6
+  },
+  {
+    "ewb_number": "178045031757",
+    "generation_date": "2024-07-17T00:00:00",
+    "validity": "2024-07-24T00:00:00",
+    "transporter_id": "27PILCA4610NCZ9",
+    "vehicle_number": "GJ76HF6119",
+    "distance_km": 837.5,
+    "invoice_uid": "f19ce30bc8c98897",
+    "total_value": 1294614.34
+  },
+  {
+    "ewb_number": "460272181409",
+    "generation_date": "2025-03-24T00:00:00",
+    "validity": "2025-04-08T00:00:00",
+    "transporter_id": "07MBCJO8235QQZC",
+    "vehicle_number": "MH42BE9728",
+    "distance_km": 1157.8,
+    "invoice_uid": "5173e50ce2ac28dd",
+    "total_value": 574916.91
+  },
+  {
+    "ewb_number": "588861866578",
+    "generation_date": "2024-07-16T00:00:00",
+    "validity": "2024-07-19T00:00:00",
+    "transporter_id": "09IKPTY8360G1ZU",
+    "vehicle_number": "DL85CH9704",
+    "distance_km": 735.8,
+    "invoice_uid": "e706fbefbb1167eb",
+    "total_value": 2264126.91
+  },
+  {
+    "ewb_number": "519668872268",
+    "generation_date": "2025-03-14T00:00:00",
+    "validity": "2025-03-29T00:00:00",
+    "transporter_id": "19JORJE1398E9ZI",
+    "vehicle_number": "DL02BA3359",
+    "distance_km": 1806.1,
+    "invoice_uid": "81a7d38609aff343",
+    "total_value": 5878514.7
+  },
+  {
+    "ewb_number": "630773212852",
+    "generation_date": "2025-03-23T00:00:00",
+    "validity": "2025-03-24T00:00:00",
+    "transporter_id": "05DTZGO5562UZZR",
+    "vehicle_number": "GJ40AF9765",
+    "distance_km": 1948.5,
+    "invoice_uid": "de71b6585300fc83",
+    "total_value": 5488917.2
+  },
+  {
+    "ewb_number": "242816471483",
+    "generation_date": "2024-06-25T00:00:00",
+    "validity": "2024-07-02T00:00:00",
+    "transporter_id": "17HGTTF9763FGZ0",
+    "vehicle_number": "TN24AF2382",
+    "distance_km": 2418.7,
+    "invoice_uid": "285b35e9389cea33",
+    "total_value": 3649338.8
+  },
+  {
+    "ewb_number": "922384301451",
+    "generation_date": "2024-11-12T00:00:00",
+    "validity": "2024-11-15T00:00:00",
+    "transporter_id": "21JSMCQ8094VYZ2",
+    "vehicle_number": "MH13FG5466",
+    "distance_km": 844.1,
+    "invoice_uid": "46a02a911c86b714",
+    "total_value": 1244986.0
+  },
+  {
+    "ewb_number": "213925142557",
+    "generation_date": "2025-03-11T00:00:00",
+    "validity": "2025-03-26T00:00:00",
+    "transporter_id": "08JSGAA6058G8Z9",
+    "vehicle_number": "MH78CG4027",
+    "distance_km": 2241.0,
+    "invoice_uid": "b18e17112dbe67ca",
+    "total_value": 4045351.73
+  },
+  {
+    "ewb_number": "168702118928",
+    "generation_date": "2024-08-20T00:00:00",
+    "validity": "2024-08-27T00:00:00",
+    "transporter_id": "30YGLJG6141YEZ3",
+    "vehicle_number": "GJ83BH5243",
+    "distance_km": 267.2,
+    "invoice_uid": "43e882ab6fbd1b82",
+    "total_value": 4084469.98
+  },
+  {
+    "ewb_number": "723290823647",
+    "generation_date": "2025-03-01T00:00:00",
+    "validity": "2025-03-08T00:00:00",
+    "transporter_id": "19IHBBL5904YDZN",
+    "vehicle_number": "DL71AG4129",
+    "distance_km": 754.2,
+    "invoice_uid": "6b1c965eebe66d02",
+    "total_value": 4664535.72
+  },
+  {
+    "ewb_number": "138725221664",
+    "generation_date": "2024-07-07T00:00:00",
+    "validity": "2024-07-14T00:00:00",
+    "transporter_id": "10BUBBG8646RFZP",
+    "vehicle_number": "MH05CH1312",
+    "distance_km": 1183.3,
+    "invoice_uid": "a2079b8831f5bd50",
+    "total_value": 200990.43
+  },
+  {
+    "ewb_number": "980739351543",
+    "generation_date": "2024-06-28T00:00:00",
+    "validity": "2024-07-01T00:00:00",
+    "transporter_id": "14LVZLK1653Z3Z3",
+    "vehicle_number": "GJ23FB2978",
+    "distance_km": 692.0,
+    "invoice_uid": "14b5838d010d312a",
+    "total_value": 4749577.44
+  },
+  {
+    "ewb_number": "363762666132",
+    "generation_date": "2024-06-24T00:00:00",
+    "validity": "2024-06-27T00:00:00",
+    "transporter_id": "16PAEJT9673ADZ3",
+    "vehicle_number": "MH68BF9842",
+    "distance_km": 1273.8,
+    "invoice_uid": "cdd48a6f6de364c4",
+    "total_value": 1438395.69
+  },
+  {
+    "ewb_number": "316548240737",
+    "generation_date": "2024-06-30T00:00:00",
+    "validity": "2024-07-07T00:00:00",
+    "transporter_id": "34FCFFX4180S4Z3",
+    "vehicle_number": "TN19DH3917",
+    "distance_km": 974.5,
+    "invoice_uid": "70028fb38ef10da5",
+    "total_value": 3954230.78
+  },
+  {
+    "ewb_number": "551342970503",
+    "generation_date": "2025-03-21T00:00:00",
+    "validity": "2025-04-05T00:00:00",
+    "transporter_id": "15WFMJI0482NAZM",
+    "vehicle_number": "GJ01GA1656",
+    "distance_km": 2478.3,
+    "invoice_uid": "e6848406bb506153",
+    "total_value": 314158.9
+  },
+  {
+    "ewb_number": "968377729665",
+    "generation_date": "2025-03-23T00:00:00",
+    "validity": "2025-03-30T00:00:00",
+    "transporter_id": "37QSABM8304IEZP",
+    "vehicle_number": "MH80FA9433",
+    "distance_km": 2363.9,
+    "invoice_uid": "799d4d85a745995b",
+    "total_value": 2534284.93
+  },
+  {
+    "ewb_number": "651844142553",
+    "generation_date": "2024-10-05T00:00:00",
+    "validity": "2024-10-06T00:00:00",
+    "transporter_id": "13MNVGO6798CUZR",
+    "vehicle_number": "MH11GC5724",
+    "distance_km": 2396.1,
+    "invoice_uid": "418b0cb7006c312d",
+    "total_value": 3824633.84
+  },
+  {
+    "ewb_number": "432679607266",
+    "generation_date": "2025-02-16T00:00:00",
+    "validity": "2025-02-19T00:00:00",
+    "transporter_id": "32XHUFP3281JBZJ",
+    "vehicle_number": "GJ21EC3873",
+    "distance_km": 2099.9,
+    "invoice_uid": "98b6a1147917b51c",
+    "total_value": 1466554.04
+  },
+  {
+    "ewb_number": "684813903664",
+    "generation_date": "2025-01-20T00:00:00",
+    "validity": "2025-01-27T00:00:00",
+    "transporter_id": "22DAYCO9195QJZI",
+    "vehicle_number": "TN38CH6549",
+    "distance_km": 1726.0,
+    "invoice_uid": "fccd1514875f5286",
+    "total_value": 2469602.58
+  },
+  {
+    "ewb_number": "408237326486",
+    "generation_date": "2025-01-08T00:00:00",
+    "validity": "2025-01-11T00:00:00",
+    "transporter_id": "24ANLBQ3465BQZ6",
+    "vehicle_number": "DL92GF7326",
+    "distance_km": 938.3,
+    "invoice_uid": "f8cd8bf652adaacd",
+    "total_value": 1726035.27
+  },
+  {
+    "ewb_number": "752663639612",
+    "generation_date": "2024-10-30T00:00:00",
+    "validity": "2024-11-14T00:00:00",
+    "transporter_id": "26CKXLF5771FJZE",
+    "vehicle_number": "GJ63AE5979",
+    "distance_km": 1240.3,
+    "invoice_uid": "080e70adf067514c",
+    "total_value": 1703780.12
+  },
+  {
+    "ewb_number": "387197358866",
+    "generation_date": "2025-02-22T00:00:00",
+    "validity": "2025-03-09T00:00:00",
+    "transporter_id": "09ZVJTA8103WNZD",
+    "vehicle_number": "DL07EF7873",
+    "distance_km": 1594.3,
+    "invoice_uid": "6ede7016a9948f6d",
+    "total_value": 733677.32
+  },
+  {
+    "ewb_number": "475431657665",
+    "generation_date": "2024-07-09T00:00:00",
+    "validity": "2024-07-12T00:00:00",
+    "transporter_id": "08CEFFZ8685RRZS",
+    "vehicle_number": "TN10BC1284",
+    "distance_km": 1204.0,
+    "invoice_uid": "5ee187b187d86378",
+    "total_value": 4511945.01
+  },
+  {
+    "ewb_number": "230863712223",
+    "generation_date": "2025-03-30T00:00:00",
+    "validity": "2025-04-06T00:00:00",
+    "transporter_id": "23BHABZ1652V2ZC",
+    "vehicle_number": "MH19EF6770",
+    "distance_km": 409.8,
+    "invoice_uid": "9213d0e4ba0e90be",
+    "total_value": 185304.23
+  },
+  {
+    "ewb_number": "866078125404",
+    "generation_date": "2025-01-22T00:00:00",
+    "validity": "2025-01-25T00:00:00",
+    "transporter_id": "08LYEHM4547KUZE",
+    "vehicle_number": "MH67CH6918",
+    "distance_km": 1764.8,
+    "invoice_uid": "b1827999ad7284a1",
+    "total_value": 2644664.86
+  },
+  {
+    "ewb_number": "169444137436",
+    "generation_date": "2025-02-02T00:00:00",
+    "validity": "2025-02-09T00:00:00",
+    "transporter_id": "18ZIPLD2447YQZ1",
+    "vehicle_number": "KA61GH9379",
+    "distance_km": 704.4,
+    "invoice_uid": "8dac6e8dc711aada",
+    "total_value": 4397498.55
+  },
+  {
+    "ewb_number": "845626010374",
+    "generation_date": "2024-12-11T00:00:00",
+    "validity": "2024-12-18T00:00:00",
+    "transporter_id": "34DQCBV7772VWZF",
+    "vehicle_number": "GJ34FA1517",
+    "distance_km": 2476.9,
+    "invoice_uid": "ef5b6e78056be2ab",
+    "total_value": 3707827.6
+  },
+  {
+    "ewb_number": "708425404676",
+    "generation_date": "2024-10-10T00:00:00",
+    "validity": "2024-10-25T00:00:00",
+    "transporter_id": "21MWNLI4963J4Z3",
+    "vehicle_number": "MH76AC7003",
+    "distance_km": 878.7,
+    "invoice_uid": "1d7f8706791f5417",
+    "total_value": 2712609.42
+  },
+  {
+    "ewb_number": "602671709293",
+    "generation_date": "2024-11-06T00:00:00",
+    "validity": "2024-11-21T00:00:00",
+    "transporter_id": "34OXGJS0353D7ZJ",
+    "vehicle_number": "DL44HF3730",
+    "distance_km": 1540.9,
+    "invoice_uid": "1237c79d989df5b5",
+    "total_value": 5207722.45
+  },
+  {
+    "ewb_number": "329467672533",
+    "generation_date": "2024-04-25T00:00:00",
+    "validity": "2024-05-02T00:00:00",
+    "transporter_id": "32UQHGN6342QCZ1",
+    "vehicle_number": "MH81CH4489",
+    "distance_km": 1655.4,
+    "invoice_uid": "e476422885c03ce8",
+    "total_value": 6375862.07
+  },
+  {
+    "ewb_number": "278868391226",
+    "generation_date": "2025-02-21T00:00:00",
+    "validity": "2025-02-28T00:00:00",
+    "transporter_id": "30RGGCG0734N3ZW",
+    "vehicle_number": "DL21EC1477",
+    "distance_km": 653.4,
+    "invoice_uid": "93ccff128a21cf4d",
+    "total_value": 4772932.98
+  },
+  {
+    "ewb_number": "988084092528",
+    "generation_date": "2024-04-11T00:00:00",
+    "validity": "2024-04-18T00:00:00",
+    "transporter_id": "17IPKFN2122N4ZY",
+    "vehicle_number": "TN69FB6185",
+    "distance_km": 1368.9,
+    "invoice_uid": "863966796dad6669",
+    "total_value": 4512963.45
+  },
+  {
+    "ewb_number": "110258404917",
+    "generation_date": "2024-09-05T00:00:00",
+    "validity": "2024-09-20T00:00:00",
+    "transporter_id": "29YXHFJ2896Z3ZS",
+    "vehicle_number": "KA11HH7765",
+    "distance_km": 2317.0,
+    "invoice_uid": "a9565b8e5048960a",
+    "total_value": 3227342.54
+  },
+  {
+    "ewb_number": "807772038648",
+    "generation_date": "2024-11-02T00:00:00",
+    "validity": "2024-11-05T00:00:00",
+    "transporter_id": "09AFHTC1277URZU",
+    "vehicle_number": "KA58HC5270",
+    "distance_km": 442.0,
+    "invoice_uid": "1b2539a7efed8670",
+    "total_value": 4302785.91
+  },
+  {
+    "ewb_number": "195130309562",
+    "generation_date": "2024-10-19T00:00:00",
+    "validity": "2024-10-26T00:00:00",
+    "transporter_id": "14EOAPN7984HDZ7",
+    "vehicle_number": "KA37HG3133",
+    "distance_km": 1084.0,
+    "invoice_uid": "5a30f9a8677a3c92",
+    "total_value": 5574132.4
+  },
+  {
+    "ewb_number": "203392986603",
+    "generation_date": "2024-06-14T00:00:00",
+    "validity": "2024-06-15T00:00:00",
+    "transporter_id": "01BYMHT9957BHZ3",
+    "vehicle_number": "GJ80GE7466",
+    "distance_km": 1681.4,
+    "invoice_uid": "2d4e5cffe47bd469",
+    "total_value": 1451674.61
+  },
+  {
+    "ewb_number": "498348868136",
+    "generation_date": "2024-11-26T00:00:00",
+    "validity": "2024-12-11T00:00:00",
+    "transporter_id": "10HWPGQ3839YTZW",
+    "vehicle_number": "MH25CA4766",
+    "distance_km": 466.0,
+    "invoice_uid": "40f8f84483fab28a",
+    "total_value": 503048.29
+  },
+  {
+    "ewb_number": "661566701883",
+    "generation_date": "2024-09-30T00:00:00",
+    "validity": "2024-10-07T00:00:00",
+    "transporter_id": "07ORFAQ7192PMZR",
+    "vehicle_number": "MH37BG7120",
+    "distance_km": 1479.9,
+    "invoice_uid": "64429cbf9c44b343",
+    "total_value": 2863284.6
+  },
+  {
+    "ewb_number": "977561336589",
+    "generation_date": "2024-05-12T00:00:00",
+    "validity": "2024-05-13T00:00:00",
+    "transporter_id": "14TOPBM2273ABZ7",
+    "vehicle_number": "TN52EC2975",
+    "distance_km": 753.4,
+    "invoice_uid": "1a3f5aa8ee94e8ba",
+    "total_value": 4901325.21
+  },
+  {
+    "ewb_number": "645163066271",
+    "generation_date": "2025-03-17T00:00:00",
+    "validity": "2025-03-18T00:00:00",
+    "transporter_id": "30HLXJJ1198QJZY",
+    "vehicle_number": "GJ07BA9411",
+    "distance_km": 278.0,
+    "invoice_uid": "b1f19f3d434aeccb",
+    "total_value": 775616.43
+  },
+  {
+    "ewb_number": "842477936253",
+    "generation_date": "2024-12-14T00:00:00",
+    "validity": "2024-12-15T00:00:00",
+    "transporter_id": "34LAKAF6446XKZT",
+    "vehicle_number": "GJ79FG5958",
+    "distance_km": 228.2,
+    "invoice_uid": "3b657ce25abf9556",
+    "total_value": 570563.52
+  },
+  {
+    "ewb_number": "636715721385",
+    "generation_date": "2025-02-15T00:00:00",
+    "validity": "2025-03-02T00:00:00",
+    "transporter_id": "30ALGGS8331WRZ3",
+    "vehicle_number": "TN95EA8987",
+    "distance_km": 1005.2,
+    "invoice_uid": "1e0e4da88b8109d7",
+    "total_value": 1127349.99
+  },
+  {
+    "ewb_number": "895829067579",
+    "generation_date": "2025-01-21T00:00:00",
+    "validity": "2025-02-05T00:00:00",
+    "transporter_id": "06YVRHZ4912WVZ3",
+    "vehicle_number": "DL23DC9063",
+    "distance_km": 261.3,
+    "invoice_uid": "6093aa8952b983a6",
+    "total_value": 3569075.47
+  },
+  {
+    "ewb_number": "859579604165",
+    "generation_date": "2024-08-12T00:00:00",
+    "validity": "2024-08-13T00:00:00",
+    "transporter_id": "03SYLJY1167DXZB",
+    "vehicle_number": "MH22BD6925",
+    "distance_km": 401.0,
+    "invoice_uid": "3554741eeae69058",
+    "total_value": 3554210.48
+  },
+  {
+    "ewb_number": "606368334557",
+    "generation_date": "2024-06-10T00:00:00",
+    "validity": "2024-06-17T00:00:00",
+    "transporter_id": "27YLUPC0391B3ZK",
+    "vehicle_number": "DL74AE7869",
+    "distance_km": 1011.0,
+    "invoice_uid": "783dc2d71686c758",
+    "total_value": 4752302.08
+  },
+  {
+    "ewb_number": "707788001544",
+    "generation_date": "2024-12-27T00:00:00",
+    "validity": "2025-01-03T00:00:00",
+    "transporter_id": "35NTEAZ5283N8Z3",
+    "vehicle_number": "MH48EF3028",
+    "distance_km": 128.9,
+    "invoice_uid": "502cde7f66fa0968",
+    "total_value": 5430752.36
+  },
+  {
+    "ewb_number": "199136208208",
+    "generation_date": "2025-01-23T00:00:00",
+    "validity": "2025-01-24T00:00:00",
+    "transporter_id": "34LDFBL6457ISZ3",
+    "vehicle_number": "TN89HG3668",
+    "distance_km": 369.4,
+    "invoice_uid": "ff976bde8ceb8018",
+    "total_value": 3752197.01
+  },
+  {
+    "ewb_number": "420283290822",
+    "generation_date": "2024-07-18T00:00:00",
+    "validity": "2024-07-19T00:00:00",
+    "transporter_id": "04NDHHJ2017NKZA",
+    "vehicle_number": "KA28CH1034",
+    "distance_km": 314.6,
+    "invoice_uid": "4381809686b65117",
+    "total_value": 2793419.25
+  },
+  {
+    "ewb_number": "128807241720",
+    "generation_date": "2024-09-20T00:00:00",
+    "validity": "2024-09-27T00:00:00",
+    "transporter_id": "33ODOFT5795YXZ5",
+    "vehicle_number": "MH16CA5504",
+    "distance_km": 1969.0,
+    "invoice_uid": "aae82957cc4bec51",
+    "total_value": 2804461.76
+  },
+  {
+    "ewb_number": "211582331730",
+    "generation_date": "2025-01-27T00:00:00",
+    "validity": "2025-01-30T00:00:00",
+    "transporter_id": "02HETCJ9609F4ZT",
+    "vehicle_number": "KA50BF3334",
+    "distance_km": 1037.9,
+    "invoice_uid": "fefa29423ac35d61",
+    "total_value": 2580767.42
+  },
+  {
+    "ewb_number": "508633354870",
+    "generation_date": "2024-12-17T00:00:00",
+    "validity": "2024-12-20T00:00:00",
+    "transporter_id": "11UNLPO0896U1ZJ",
+    "vehicle_number": "MH62EE7228",
+    "distance_km": 2498.1,
+    "invoice_uid": "b9ddd62078076210",
+    "total_value": 2272512.85
+  },
+  {
+    "ewb_number": "386195875423",
+    "generation_date": "2024-06-22T00:00:00",
+    "validity": "2024-07-07T00:00:00",
+    "transporter_id": "33HRIFO9391A1Z3",
+    "vehicle_number": "MH87CG9011",
+    "distance_km": 1908.5,
+    "invoice_uid": "9556cfd3b4e0c8a0",
+    "total_value": 3322696.88
+  },
+  {
+    "ewb_number": "340558383651",
+    "generation_date": "2024-06-03T00:00:00",
+    "validity": "2024-06-04T00:00:00",
+    "transporter_id": "24TRSFC8682P3ZV",
+    "vehicle_number": "KA64DA4212",
+    "distance_km": 2460.8,
+    "invoice_uid": "3e37b221fd9e0fd8",
+    "total_value": 5103234.25
+  },
+  {
+    "ewb_number": "234320960114",
+    "generation_date": "2025-01-27T00:00:00",
+    "validity": "2025-02-11T00:00:00",
+    "transporter_id": "22MNBFB2440G6Z0",
+    "vehicle_number": "GJ04DG2219",
+    "distance_km": 2293.3,
+    "invoice_uid": "3f5d305248054e77",
+    "total_value": 4177735.77
+  },
+  {
+    "ewb_number": "138296996655",
+    "generation_date": "2024-08-07T00:00:00",
+    "validity": "2024-08-22T00:00:00",
+    "transporter_id": "07IWBCB9436C4ZC",
+    "vehicle_number": "GJ07EG7581",
+    "distance_km": 248.6,
+    "invoice_uid": "096b6c7ef80f854d",
+    "total_value": 637312.61
+  },
+  {
+    "ewb_number": "113325950616",
+    "generation_date": "2024-10-14T00:00:00",
+    "validity": "2024-10-15T00:00:00",
+    "transporter_id": "16PVXCU5346F9ZZ",
+    "vehicle_number": "MH08CE8140",
+    "distance_km": 1287.7,
+    "invoice_uid": "7b08bc6ffbfa1e8d",
+    "total_value": 4691713.3
+  },
+  {
+    "ewb_number": "176387126423",
+    "generation_date": "2024-10-06T00:00:00",
+    "validity": "2024-10-13T00:00:00",
+    "transporter_id": "29EMRJT6853JMZL",
+    "vehicle_number": "DL14HA9125",
+    "distance_km": 556.3,
+    "invoice_uid": "88b98a265e8eff16",
+    "total_value": 2588885.27
+  },
+  {
+    "ewb_number": "341266122586",
+    "generation_date": "2024-09-17T00:00:00",
+    "validity": "2024-09-24T00:00:00",
+    "transporter_id": "09SIOCG0890VPZS",
+    "vehicle_number": "MH44DE8474",
+    "distance_km": 608.0,
+    "invoice_uid": "f0fff73b59fd5f24",
+    "total_value": 1212304.26
+  },
+  {
+    "ewb_number": "241187822109",
+    "generation_date": "2025-03-31T00:00:00",
+    "validity": "2025-04-15T00:00:00",
+    "transporter_id": "34FCMTC1387LYZ5",
+    "vehicle_number": "TN23FF9609",
+    "distance_km": 1739.3,
+    "invoice_uid": "2254fbe57f418220",
+    "total_value": 623015.5
+  },
+  {
+    "ewb_number": "192558915963",
+    "generation_date": "2024-10-23T00:00:00",
+    "validity": "2024-10-26T00:00:00",
+    "transporter_id": "29THNFS0534NOZ3",
+    "vehicle_number": "TN41EG1404",
+    "distance_km": 457.1,
+    "invoice_uid": "0436f6c91e054d48",
+    "total_value": 3411488.4
+  },
+  {
+    "ewb_number": "931419570647",
+    "generation_date": "2024-08-20T00:00:00",
+    "validity": "2024-08-21T00:00:00",
+    "transporter_id": "32MNTCM2722SUZY",
+    "vehicle_number": "KA11FD8025",
+    "distance_km": 1927.6,
+    "invoice_uid": "7dfc97e3666d3078",
+    "total_value": 581677.63
+  },
+  {
+    "ewb_number": "520821634882",
+    "generation_date": "2025-03-04T00:00:00",
+    "validity": "2025-03-07T00:00:00",
+    "transporter_id": "07YBKJD3963FCZ3",
+    "vehicle_number": "MH89HA4058",
+    "distance_km": 505.5,
+    "invoice_uid": "243f0dd579652131",
+    "total_value": 1784759.96
+  },
+  {
+    "ewb_number": "888137128931",
+    "generation_date": "2024-08-28T00:00:00",
+    "validity": "2024-09-12T00:00:00",
+    "transporter_id": "32HADBM6235PUZA",
+    "vehicle_number": "GJ06BE8476",
+    "distance_km": 873.5,
+    "invoice_uid": "90ecf1a1e772be3b",
+    "total_value": 413976.07
+  },
+  {
+    "ewb_number": "864790841401",
+    "generation_date": "2024-06-29T00:00:00",
+    "validity": "2024-07-02T00:00:00",
+    "transporter_id": "11XKTBL0173OHZK",
+    "vehicle_number": "DL65AH1437",
+    "distance_km": 192.3,
+    "invoice_uid": "53c4a1f1e87f44ed",
+    "total_value": 1470781.44
+  },
+  {
+    "ewb_number": "834772633940",
+    "generation_date": "2024-04-20T00:00:00",
+    "validity": "2024-04-21T00:00:00",
+    "transporter_id": "36RDJFW0626U7ZK",
+    "vehicle_number": "TN89EH1858",
+    "distance_km": 1499.5,
+    "invoice_uid": "9930d093c53b0adc",
+    "total_value": 1253778.06
+  },
+  {
+    "ewb_number": "283498232147",
+    "generation_date": "2024-05-17T00:00:00",
+    "validity": "2024-05-18T00:00:00",
+    "transporter_id": "15KCIPU1259DEZ0",
+    "vehicle_number": "MH46FC1245",
+    "distance_km": 1011.3,
+    "invoice_uid": "27fbccef2e8d9257",
+    "total_value": 2108991.97
+  },
+  {
+    "ewb_number": "659988021131",
+    "generation_date": "2025-02-14T00:00:00",
+    "validity": "2025-02-17T00:00:00",
+    "transporter_id": "06NSAAT7124H4Z5",
+    "vehicle_number": "DL48HE4309",
+    "distance_km": 387.7,
+    "invoice_uid": "ef4436e01a685488",
+    "total_value": 231683.31
+  },
+  {
+    "ewb_number": "672869119921",
+    "generation_date": "2024-04-21T00:00:00",
+    "validity": "2024-04-28T00:00:00",
+    "transporter_id": "06EQBJC9099ECZR",
+    "vehicle_number": "GJ71DD9313",
+    "distance_km": 204.6,
+    "invoice_uid": "bc4180f9f693089a",
+    "total_value": 4671746.35
+  },
+  {
+    "ewb_number": "772185113181",
+    "generation_date": "2024-11-04T00:00:00",
+    "validity": "2024-11-19T00:00:00",
+    "transporter_id": "37TVUAY3879TAZQ",
+    "vehicle_number": "GJ94CE7233",
+    "distance_km": 1164.5,
+    "invoice_uid": "1a5d583c5a223393",
+    "total_value": 3574987.38
+  },
+  {
+    "ewb_number": "224607040256",
+    "generation_date": "2024-08-05T00:00:00",
+    "validity": "2024-08-06T00:00:00",
+    "transporter_id": "20QXKTC5148IXZ6",
+    "vehicle_number": "GJ85GE7743",
+    "distance_km": 1883.6,
+    "invoice_uid": "d72534ff07cc7f0c",
+    "total_value": 2819197.08
+  },
+  {
+    "ewb_number": "633426436395",
+    "generation_date": "2025-01-19T00:00:00",
+    "validity": "2025-01-22T00:00:00",
+    "transporter_id": "31NCOFF2781N7ZE",
+    "vehicle_number": "DL11EB7188",
+    "distance_km": 320.5,
+    "invoice_uid": "7035c9a5241771ff",
+    "total_value": 4274892.17
+  },
+  {
+    "ewb_number": "636579405628",
+    "generation_date": "2024-05-02T00:00:00",
+    "validity": "2024-05-17T00:00:00",
+    "transporter_id": "23TPIHK8963BMZ9",
+    "vehicle_number": "MH01HG3275",
+    "distance_km": 73.9,
+    "invoice_uid": "f4a1e09561b4e55d",
+    "total_value": 4435905.18
+  },
+  {
+    "ewb_number": "628777813376",
+    "generation_date": "2025-03-25T00:00:00",
+    "validity": "2025-03-28T00:00:00",
+    "transporter_id": "18GEYBD4719MFZ1",
+    "vehicle_number": "KA86HB3224",
+    "distance_km": 2307.6,
+    "invoice_uid": "319b448634ab7dd6",
+    "total_value": 4112252.97
+  },
+  {
+    "ewb_number": "690944807034",
+    "generation_date": "2024-09-23T00:00:00",
+    "validity": "2024-09-26T00:00:00",
+    "transporter_id": "07WZIHZ6756HQZQ",
+    "vehicle_number": "MH69HF3370",
+    "distance_km": 2042.2,
+    "invoice_uid": "0ba494dd31689b51",
+    "total_value": 5370092.04
+  },
+  {
+    "ewb_number": "125731420582",
+    "generation_date": "2025-03-07T00:00:00",
+    "validity": "2025-03-22T00:00:00",
+    "transporter_id": "27IRZLM0729W7Z8",
+    "vehicle_number": "DL42AE8496",
+    "distance_km": 1640.0,
+    "invoice_uid": "c60931d9531ae8b2",
+    "total_value": 3144542.79
+  },
+  {
+    "ewb_number": "857214286067",
+    "generation_date": "2024-07-10T00:00:00",
+    "validity": "2024-07-13T00:00:00",
+    "transporter_id": "24QJRBY4836O1ZH",
+    "vehicle_number": "MH15BB9015",
+    "distance_km": 1607.1,
+    "invoice_uid": "5385f9a34d9ec967",
+    "total_value": 1811766.66
+  },
+  {
+    "ewb_number": "927870013978",
+    "generation_date": "2025-03-22T00:00:00",
+    "validity": "2025-03-25T00:00:00",
+    "transporter_id": "14ZXETW1581EBZA",
+    "vehicle_number": "MH72EA2386",
+    "distance_km": 2450.0,
+    "invoice_uid": "2af2c799d157037b",
+    "total_value": 4448555.14
+  },
+  {
+    "ewb_number": "493383713178",
+    "generation_date": "2024-09-01T00:00:00",
+    "validity": "2024-09-08T00:00:00",
+    "transporter_id": "30DQBGI3940IAZH",
+    "vehicle_number": "GJ27BE4156",
+    "distance_km": 1789.0,
+    "invoice_uid": "657f1e89a0fa8a7e",
+    "total_value": 4967683.2
+  },
+  {
+    "ewb_number": "956130938006",
+    "generation_date": "2024-11-09T00:00:00",
+    "validity": "2024-11-16T00:00:00",
+    "transporter_id": "12DUHBM9297DYZ8",
+    "vehicle_number": "KA76HB9666",
+    "distance_km": 878.8,
+    "invoice_uid": "f01b4d794cf0055b",
+    "total_value": 154017.62
+  },
+  {
+    "ewb_number": "957737191645",
+    "generation_date": "2025-03-14T00:00:00",
+    "validity": "2025-03-17T00:00:00",
+    "transporter_id": "15RKLJL7524WKZH",
+    "vehicle_number": "MH40GF2476",
+    "distance_km": 1590.3,
+    "invoice_uid": "fbe1199332bf6102",
+    "total_value": 3255392.04
+  },
+  {
+    "ewb_number": "566923762122",
+    "generation_date": "2024-12-09T00:00:00",
+    "validity": "2024-12-16T00:00:00",
+    "transporter_id": "36GTYPV6696YFZT",
+    "vehicle_number": "DL10FC9416",
+    "distance_km": 889.7,
+    "invoice_uid": "aa8ac84eea11af1a",
+    "total_value": 4810869.49
+  },
+  {
+    "ewb_number": "105822876443",
+    "generation_date": "2025-03-14T00:00:00",
+    "validity": "2025-03-29T00:00:00",
+    "transporter_id": "10IJACM3140QRZ8",
+    "vehicle_number": "MH63AC5098",
+    "distance_km": 573.0,
+    "invoice_uid": "ce34971048b7d5d4",
+    "total_value": 4907384.35
+  },
+  {
+    "ewb_number": "317609692717",
+    "generation_date": "2024-11-11T00:00:00",
+    "validity": "2024-11-26T00:00:00",
+    "transporter_id": "27YZDJR4617YXZ0",
+    "vehicle_number": "TN17BB1346",
+    "distance_km": 324.0,
+    "invoice_uid": "0ff53460bb328f78",
+    "total_value": 955811.41
+  },
+  {
+    "ewb_number": "752211708634",
+    "generation_date": "2025-01-31T00:00:00",
+    "validity": "2025-02-03T00:00:00",
+    "transporter_id": "36FDAFE4600NKZQ",
+    "vehicle_number": "DL29FG8851",
+    "distance_km": 162.8,
+    "invoice_uid": "079853b7758b071c",
+    "total_value": 2172208.25
+  },
+  {
+    "ewb_number": "708523686092",
+    "generation_date": "2024-11-01T00:00:00",
+    "validity": "2024-11-04T00:00:00",
+    "transporter_id": "07ITJTQ6225C9Z2",
+    "vehicle_number": "GJ16AD4160",
+    "distance_km": 1764.6,
+    "invoice_uid": "86f6cc26648233b9",
+    "total_value": 1887863.8
+  },
+  {
+    "ewb_number": "757846977201",
+    "generation_date": "2024-11-29T00:00:00",
+    "validity": "2024-12-06T00:00:00",
+    "transporter_id": "37SDBTB7673VXZ4",
+    "vehicle_number": "MH22HG7393",
+    "distance_km": 1008.1,
+    "invoice_uid": "638c267065c73715",
+    "total_value": 3148539.97
+  },
+  {
+    "ewb_number": "764142315863",
+    "generation_date": "2024-07-22T00:00:00",
+    "validity": "2024-07-29T00:00:00",
+    "transporter_id": "01IYWGX1829UNZW",
+    "vehicle_number": "DL94EC5194",
+    "distance_km": 2429.3,
+    "invoice_uid": "656838bd60860998",
+    "total_value": 4533203.55
+  },
+  {
+    "ewb_number": "412018912686",
+    "generation_date": "2025-02-15T00:00:00",
+    "validity": "2025-02-16T00:00:00",
+    "transporter_id": "07IXVTG0029MYZS",
+    "vehicle_number": "DL94AB7191",
+    "distance_km": 966.1,
+    "invoice_uid": "282b7682095d051a",
+    "total_value": 3250709.01
+  },
+  {
+    "ewb_number": "279596054305",
+    "generation_date": "2024-06-13T00:00:00",
+    "validity": "2024-06-20T00:00:00",
+    "transporter_id": "35IEBGU5005DRZH",
+    "vehicle_number": "DL01DA4713",
+    "distance_km": 1073.6,
+    "invoice_uid": "57a061e7d28b1192",
+    "total_value": 80795.8
+  },
+  {
+    "ewb_number": "265805092390",
+    "generation_date": "2024-06-26T00:00:00",
+    "validity": "2024-06-29T00:00:00",
+    "transporter_id": "18LIELE8662DWZD",
+    "vehicle_number": "KA34BA3435",
+    "distance_km": 1946.7,
+    "invoice_uid": "f045887f9d291493",
+    "total_value": 1258194.29
+  },
+  {
+    "ewb_number": "690697479837",
+    "generation_date": "2024-11-05T00:00:00",
+    "validity": "2024-11-08T00:00:00",
+    "transporter_id": "14KPKTY6772A2Z3",
+    "vehicle_number": "KA72HC2804",
+    "distance_km": 158.3,
+    "invoice_uid": "16d65aeff17e26b4",
+    "total_value": 854549.43
+  },
+  {
+    "ewb_number": "130744119793",
+    "generation_date": "2024-07-17T00:00:00",
+    "validity": "2024-07-20T00:00:00",
+    "transporter_id": "20JCCTN1177WVZU",
+    "vehicle_number": "TN93FH1216",
+    "distance_km": 724.1,
+    "invoice_uid": "b2939c6812d0a170",
+    "total_value": 330721.5
+  },
+  {
+    "ewb_number": "919576418149",
+    "generation_date": "2024-10-20T00:00:00",
+    "validity": "2024-10-21T00:00:00",
+    "transporter_id": "07VMILM1861D5ZQ",
+    "vehicle_number": "KA78FA4924",
+    "distance_km": 712.7,
+    "invoice_uid": "addb946547640a95",
+    "total_value": 4011808.63
+  },
+  {
+    "ewb_number": "915599305148",
+    "generation_date": "2024-04-17T00:00:00",
+    "validity": "2024-04-18T00:00:00",
+    "transporter_id": "06NUALP5821O6Z1",
+    "vehicle_number": "DL28CC9218",
+    "distance_km": 1295.6,
+    "invoice_uid": "3d8e0263f24bbbf8",
+    "total_value": 1588953.65
+  },
+  {
+    "ewb_number": "116341175648",
+    "generation_date": "2024-06-07T00:00:00",
+    "validity": "2024-06-10T00:00:00",
+    "transporter_id": "24TIWBP0391INZG",
+    "vehicle_number": "MH10CH5226",
+    "distance_km": 2465.5,
+    "invoice_uid": "24952ee3ed34d223",
+    "total_value": 1862293.91
+  },
+  {
+    "ewb_number": "145881226911",
+    "generation_date": "2024-06-03T00:00:00",
+    "validity": "2024-06-04T00:00:00",
+    "transporter_id": "15TGVAE8213CPZ8",
+    "vehicle_number": "TN86BF8632",
+    "distance_km": 1176.5,
+    "invoice_uid": "b78af0453c1a204b",
+    "total_value": 2563897.06
+  },
+  {
+    "ewb_number": "575837533191",
+    "generation_date": "2024-10-21T00:00:00",
+    "validity": "2024-11-05T00:00:00",
+    "transporter_id": "20FFALI2112CTZ1",
+    "vehicle_number": "TN68DE4015",
+    "distance_km": 2078.1,
+    "invoice_uid": "29f3d3e15676956d",
+    "total_value": 1177823.53
+  },
+  {
+    "ewb_number": "225913012921",
+    "generation_date": "2024-11-01T00:00:00",
+    "validity": "2024-11-16T00:00:00",
+    "transporter_id": "29GSZCU4902GZZL",
+    "vehicle_number": "DL77GD6703",
+    "distance_km": 532.3,
+    "invoice_uid": "bc6593a56b29665b",
+    "total_value": 2806065.48
+  },
+  {
+    "ewb_number": "411961115154",
+    "generation_date": "2024-09-05T00:00:00",
+    "validity": "2024-09-06T00:00:00",
+    "transporter_id": "07ZUCAT9176RTZV",
+    "vehicle_number": "GJ75AE7891",
+    "distance_km": 537.6,
+    "invoice_uid": "3503b708a12e182a",
+    "total_value": 4832617.48
+  },
+  {
+    "ewb_number": "125836504909",
+    "generation_date": "2024-11-27T00:00:00",
+    "validity": "2024-11-30T00:00:00",
+    "transporter_id": "13UVNTK3992MQZH",
+    "vehicle_number": "MH74GC7396",
+    "distance_km": 2443.6,
+    "invoice_uid": "06b62ebb7cf3777a",
+    "total_value": 1964163.94
+  },
+  {
+    "ewb_number": "519067663543",
+    "generation_date": "2024-05-31T00:00:00",
+    "validity": "2024-06-01T00:00:00",
+    "transporter_id": "26TDLHF2825HHZ6",
+    "vehicle_number": "MH36BC1379",
+    "distance_km": 1599.6,
+    "invoice_uid": "c4da6f9873c14dc6",
+    "total_value": 4117703.3
+  },
+  {
+    "ewb_number": "629770402150",
+    "generation_date": "2024-08-13T00:00:00",
+    "validity": "2024-08-14T00:00:00",
+    "transporter_id": "08ETYFT0051LEZ3",
+    "vehicle_number": "MH42CD2367",
+    "distance_km": 1822.1,
+    "invoice_uid": "8202c0202071f096",
+    "total_value": 548455.66
+  },
+  {
+    "ewb_number": "565772700858",
+    "generation_date": "2024-05-18T00:00:00",
+    "validity": "2024-05-25T00:00:00",
+    "transporter_id": "03VQPLG5360FXZR",
+    "vehicle_number": "KA76GE9691",
+    "distance_km": 887.1,
+    "invoice_uid": "2c59eb8c27430a8f",
+    "total_value": 3717745.28
+  },
+  {
+    "ewb_number": "562337209666",
+    "generation_date": "2024-05-08T00:00:00",
+    "validity": "2024-05-23T00:00:00",
+    "transporter_id": "21IIFJP0214TPZN",
+    "vehicle_number": "DL74AE1292",
+    "distance_km": 1612.7,
+    "invoice_uid": "c1a93a07aa29ac77",
+    "total_value": 3876437.0
+  },
+  {
+    "ewb_number": "433818832660",
+    "generation_date": "2024-06-07T00:00:00",
+    "validity": "2024-06-14T00:00:00",
+    "transporter_id": "08IICHP6364UOZV",
+    "vehicle_number": "GJ14AD1783",
+    "distance_km": 2065.4,
+    "invoice_uid": "2027576835e65a45",
+    "total_value": 219484.68
+  },
+  {
+    "ewb_number": "857328701251",
+    "generation_date": "2024-10-06T00:00:00",
+    "validity": "2024-10-21T00:00:00",
+    "transporter_id": "31HEDJD1878N8ZF",
+    "vehicle_number": "GJ68DH9029",
+    "distance_km": 2441.1,
+    "invoice_uid": "7fd6597ea46afe31",
+    "total_value": 5838445.98
+  },
+  {
+    "ewb_number": "999658855464",
+    "generation_date": "2024-05-13T00:00:00",
+    "validity": "2024-05-28T00:00:00",
+    "transporter_id": "10ECFTY5873OXZP",
+    "vehicle_number": "MH17DF7317",
+    "distance_km": 2437.9,
+    "invoice_uid": "2e6e67276674c4a5",
+    "total_value": 2932668.54
+  },
+  {
+    "ewb_number": "131210482248",
+    "generation_date": "2024-05-06T00:00:00",
+    "validity": "2024-05-21T00:00:00",
+    "transporter_id": "04RLGPC3234KTZ8",
+    "vehicle_number": "KA48BA7267",
+    "distance_km": 1832.7,
+    "invoice_uid": "935e0880b84b4ea4",
+    "total_value": 2496935.25
+  },
+  {
+    "ewb_number": "345996225342",
+    "generation_date": "2024-11-08T00:00:00",
+    "validity": "2024-11-23T00:00:00",
+    "transporter_id": "19KCTGP2732T1ZP",
+    "vehicle_number": "MH24HE4909",
+    "distance_km": 433.9,
+    "invoice_uid": "156a6dd42b1fe5ac",
+    "total_value": 3814856.04
+  },
+  {
+    "ewb_number": "616459124717",
+    "generation_date": "2024-11-29T00:00:00",
+    "validity": "2024-11-30T00:00:00",
+    "transporter_id": "22BARGH5110JTZN",
+    "vehicle_number": "TN95FE8970",
+    "distance_km": 641.3,
+    "invoice_uid": "37042c4652a6d5aa",
+    "total_value": 1971705.31
+  },
+  {
+    "ewb_number": "218707457579",
+    "generation_date": "2024-08-17T00:00:00",
+    "validity": "2024-08-24T00:00:00",
+    "transporter_id": "29WRXJQ1933SIZP",
+    "vehicle_number": "KA25AF3014",
+    "distance_km": 1089.3,
+    "invoice_uid": "12e3c69f2f7b70ad",
+    "total_value": 4296792.41
+  },
+  {
+    "ewb_number": "832300484846",
+    "generation_date": "2024-08-27T00:00:00",
+    "validity": "2024-08-30T00:00:00",
+    "transporter_id": "16YSDFN5024LPZX",
+    "vehicle_number": "TN52BE5948",
+    "distance_km": 1496.6,
+    "invoice_uid": "c447aff1ff0e0db1",
+    "total_value": 3293552.4
+  },
+  {
+    "ewb_number": "132045970691",
+    "generation_date": "2024-06-09T00:00:00",
+    "validity": "2024-06-10T00:00:00",
+    "transporter_id": "19YKTTJ7536S4ZW",
+    "vehicle_number": "TN17GA8582",
+    "distance_km": 2020.6,
+    "invoice_uid": "e0c0742c9e141dae",
+    "total_value": 3270800.18
+  },
+  {
+    "ewb_number": "326351531051",
+    "generation_date": "2025-01-30T00:00:00",
+    "validity": "2025-02-02T00:00:00",
+    "transporter_id": "13OZDCJ6798T8ZJ",
+    "vehicle_number": "MH01CB9516",
+    "distance_km": 251.2,
+    "invoice_uid": "e71b5a720a7d7a19",
+    "total_value": 4603064.18
+  },
+  {
+    "ewb_number": "748364360645",
+    "generation_date": "2024-10-25T00:00:00",
+    "validity": "2024-11-09T00:00:00",
+    "transporter_id": "26JHKBO4404S1ZA",
+    "vehicle_number": "GJ39AH1698",
+    "distance_km": 2271.2,
+    "invoice_uid": "e7586f2851e35a59",
+    "total_value": 5797928.4
+  },
+  {
+    "ewb_number": "940890004266",
+    "generation_date": "2024-12-13T00:00:00",
+    "validity": "2024-12-20T00:00:00",
+    "transporter_id": "36YBVJM9617QHZN",
+    "vehicle_number": "DL90FF7615",
+    "distance_km": 178.2,
+    "invoice_uid": "15d84074d8a58a79",
+    "total_value": 1244534.09
+  },
+  {
+    "ewb_number": "375718509120",
+    "generation_date": "2024-07-28T00:00:00",
+    "validity": "2024-08-12T00:00:00",
+    "transporter_id": "07LHFCN8815UEZG",
+    "vehicle_number": "MH18AF7685",
+    "distance_km": 1425.1,
+    "invoice_uid": "058ded91eac8e9e0",
+    "total_value": 623103.26
+  },
+  {
+    "ewb_number": "229282436930",
+    "generation_date": "2024-07-16T00:00:00",
+    "validity": "2024-07-31T00:00:00",
+    "transporter_id": "19FPIFJ9270F5ZW",
+    "vehicle_number": "GJ74DE7540",
+    "distance_km": 1550.4,
+    "invoice_uid": "789aeb55eebd14b7",
+    "total_value": 4344953.68
+  },
+  {
+    "ewb_number": "758917734232",
+    "generation_date": "2024-07-14T00:00:00",
+    "validity": "2024-07-15T00:00:00",
+    "transporter_id": "15XMDAD0564J2ZK",
+    "vehicle_number": "MH04DG1296",
+    "distance_km": 1385.7,
+    "invoice_uid": "807e89bbae33e489",
+    "total_value": 4819114.25
+  },
+  {
+    "ewb_number": "922112856265",
+    "generation_date": "2024-11-11T00:00:00",
+    "validity": "2024-11-12T00:00:00",
+    "transporter_id": "16ZASAC0423TJZ0",
+    "vehicle_number": "DL78GH3005",
+    "distance_km": 1644.9,
+    "invoice_uid": "f0e1048b919db20b",
+    "total_value": 5024136.88
+  },
+  {
+    "ewb_number": "187101008404",
+    "generation_date": "2024-07-22T00:00:00",
+    "validity": "2024-07-25T00:00:00",
+    "transporter_id": "16XVNGX5177BTZ9",
+    "vehicle_number": "TN15AH1553",
+    "distance_km": 683.0,
+    "invoice_uid": "d4465be915d7efef",
+    "total_value": 4207828.27
+  },
+  {
+    "ewb_number": "902225212923",
+    "generation_date": "2024-04-10T00:00:00",
+    "validity": "2024-04-11T00:00:00",
+    "transporter_id": "26UOYGR4555FUZF",
+    "vehicle_number": "DL17AE5495",
+    "distance_km": 223.0,
+    "invoice_uid": "b5dcebaff7e6787d",
+    "total_value": 2270239.28
+  },
+  {
+    "ewb_number": "161884512557",
+    "generation_date": "2025-03-01T00:00:00",
+    "validity": "2025-03-02T00:00:00",
+    "transporter_id": "15HPIBO1728ECZD",
+    "vehicle_number": "DL80AD2875",
+    "distance_km": 1640.0,
+    "invoice_uid": "1fc1c7a349b246af",
+    "total_value": 73966.22
+  },
+  {
+    "ewb_number": "457358638930",
+    "generation_date": "2025-03-14T00:00:00",
+    "validity": "2025-03-21T00:00:00",
+    "transporter_id": "24VRBLJ1373NVZK",
+    "vehicle_number": "KA80AC7034",
+    "distance_km": 121.1,
+    "invoice_uid": "da3891e8a2e6a126",
+    "total_value": 2837799.65
+  },
+  {
+    "ewb_number": "618003558802",
+    "generation_date": "2025-02-06T00:00:00",
+    "validity": "2025-02-21T00:00:00",
+    "transporter_id": "08IFOFK2734XGZB",
+    "vehicle_number": "TN94GF2305",
+    "distance_km": 886.4,
+    "invoice_uid": "efeb2e54ca658908",
+    "total_value": 4767628.38
+  },
+  {
+    "ewb_number": "389560792103",
+    "generation_date": "2025-01-17T00:00:00",
+    "validity": "2025-02-01T00:00:00",
+    "transporter_id": "30TDALA6918MNZX",
+    "vehicle_number": "DL52DE2950",
+    "distance_km": 848.7,
+    "invoice_uid": "710deaf65ba2da31",
+    "total_value": 5184098.1
+  },
+  {
+    "ewb_number": "950166305392",
+    "generation_date": "2024-04-24T00:00:00",
+    "validity": "2024-04-25T00:00:00",
+    "transporter_id": "12GMBPQ5843KAZJ",
+    "vehicle_number": "MH95DG9505",
+    "distance_km": 702.9,
+    "invoice_uid": "18bf58ebb9ac7a22",
+    "total_value": 3878703.54
+  },
+  {
+    "ewb_number": "636899538428",
+    "generation_date": "2024-08-26T00:00:00",
+    "validity": "2024-08-27T00:00:00",
+    "transporter_id": "08JHYLX4149WTZQ",
+    "vehicle_number": "TN64EB3241",
+    "distance_km": 2482.8,
+    "invoice_uid": "7ee9490174b320a0",
+    "total_value": 2871756.55
+  },
+  {
+    "ewb_number": "877098603350",
+    "generation_date": "2024-05-11T00:00:00",
+    "validity": "2024-05-18T00:00:00",
+    "transporter_id": "13EOVAU6258HHZJ",
+    "vehicle_number": "TN20HC9138",
+    "distance_km": 713.7,
+    "invoice_uid": "1d05006386ff1357",
+    "total_value": 4291755.1
+  },
+  {
+    "ewb_number": "973983848429",
+    "generation_date": "2025-02-07T00:00:00",
+    "validity": "2025-02-22T00:00:00",
+    "transporter_id": "21POHFD9874OGZ6",
+    "vehicle_number": "TN15CH6224",
+    "distance_km": 1654.9,
+    "invoice_uid": "0a07dd138c25c379",
+    "total_value": 4189286.22
+  },
+  {
+    "ewb_number": "590951314883",
+    "generation_date": "2024-07-30T00:00:00",
+    "validity": "2024-08-14T00:00:00",
+    "transporter_id": "26FWNBT6159A6ZR",
+    "vehicle_number": "KA46BA9497",
+    "distance_km": 534.1,
+    "invoice_uid": "5b44525661ad03ad",
+    "total_value": 1455360.25
+  },
+  {
+    "ewb_number": "431928342906",
+    "generation_date": "2024-10-09T00:00:00",
+    "validity": "2024-10-10T00:00:00",
+    "transporter_id": "18FUGGX1761X6ZK",
+    "vehicle_number": "MH10GA1241",
+    "distance_km": 1859.2,
+    "invoice_uid": "30f2d1a2772220dd",
+    "total_value": 2646480.64
+  },
+  {
+    "ewb_number": "407352138613",
+    "generation_date": "2025-02-05T00:00:00",
+    "validity": "2025-02-20T00:00:00",
+    "transporter_id": "07HSNLA9797WTZH",
+    "vehicle_number": "DL74AG4802",
+    "distance_km": 1123.2,
+    "invoice_uid": "cea0f839914c9672",
+    "total_value": 5022814.75
+  },
+  {
+    "ewb_number": "647804132372",
+    "generation_date": "2025-01-13T00:00:00",
+    "validity": "2025-01-20T00:00:00",
+    "transporter_id": "05YGLJQ5779NPZF",
+    "vehicle_number": "DL97AC9518",
+    "distance_km": 1872.9,
+    "invoice_uid": "3bcaba8260dd2d40",
+    "total_value": 1226257.66
+  },
+  {
+    "ewb_number": "464798211985",
+    "generation_date": "2025-01-06T00:00:00",
+    "validity": "2025-01-09T00:00:00",
+    "transporter_id": "13ESMHN1490WDZU",
+    "vehicle_number": "MH69HF2551",
+    "distance_km": 162.2,
+    "invoice_uid": "cb494946e326e4ef",
+    "total_value": 2357202.09
+  },
+  {
+    "ewb_number": "388528710004",
+    "generation_date": "2025-02-16T00:00:00",
+    "validity": "2025-02-17T00:00:00",
+    "transporter_id": "33DNQLK5869XEZB",
+    "vehicle_number": "DL01DD2496",
+    "distance_km": 2324.6,
+    "invoice_uid": "2bbf14b6b184526f",
+    "total_value": 4639469.61
+  },
+  {
+    "ewb_number": "622724340244",
+    "generation_date": "2024-12-18T00:00:00",
+    "validity": "2024-12-25T00:00:00",
+    "transporter_id": "31INNTG9987NWZS",
+    "vehicle_number": "KA88BG6704",
+    "distance_km": 453.3,
+    "invoice_uid": "4fd9859cd7a4652e",
+    "total_value": 2510571.88
+  },
+  {
+    "ewb_number": "441820076425",
+    "generation_date": "2024-11-04T00:00:00",
+    "validity": "2024-11-11T00:00:00",
+    "transporter_id": "17CJGAT2663WIZE",
+    "vehicle_number": "MH74AH8446",
+    "distance_km": 1230.8,
+    "invoice_uid": "183afa318e8a8e90",
+    "total_value": 3640599.72
+  },
+  {
+    "ewb_number": "777123520968",
+    "generation_date": "2024-06-30T00:00:00",
+    "validity": "2024-07-01T00:00:00",
+    "transporter_id": "04IRXCS7306N5ZC",
+    "vehicle_number": "DL98CE2375",
+    "distance_km": 439.7,
+    "invoice_uid": "5eb4873172297865",
+    "total_value": 464845.11
+  },
+  {
+    "ewb_number": "807299039391",
+    "generation_date": "2024-08-19T00:00:00",
+    "validity": "2024-08-22T00:00:00",
+    "transporter_id": "18TTILW2254GDZQ",
+    "vehicle_number": "DL38EH5334",
+    "distance_km": 240.1,
+    "invoice_uid": "5f6ea0121058d1ba",
+    "total_value": 2069806.38
+  },
+  {
+    "ewb_number": "514738231675",
+    "generation_date": "2025-01-17T00:00:00",
+    "validity": "2025-01-18T00:00:00",
+    "transporter_id": "20ICJAF4361LBZ5",
+    "vehicle_number": "TN70CA8192",
+    "distance_km": 2025.0,
+    "invoice_uid": "5802430cd7dba207",
+    "total_value": 5863165.63
+  },
+  {
+    "ewb_number": "439690675628",
+    "generation_date": "2025-03-14T00:00:00",
+    "validity": "2025-03-17T00:00:00",
+    "transporter_id": "14ULEAV1830HSZS",
+    "vehicle_number": "MH93DC7131",
+    "distance_km": 22.3,
+    "invoice_uid": "3951f08db4069783",
+    "total_value": 1771848.26
+  },
+  {
+    "ewb_number": "351880836437",
+    "generation_date": "2024-05-20T00:00:00",
+    "validity": "2024-05-23T00:00:00",
+    "transporter_id": "33MBHBK3113V3ZR",
+    "vehicle_number": "KA54CC7524",
+    "distance_km": 1709.0,
+    "invoice_uid": "778a18687e76c800",
+    "total_value": 759192.49
+  },
+  {
+    "ewb_number": "687741227959",
+    "generation_date": "2025-03-18T00:00:00",
+    "validity": "2025-03-25T00:00:00",
+    "transporter_id": "13CELLV0097IXZG",
+    "vehicle_number": "GJ94HG1795",
+    "distance_km": 1167.3,
+    "invoice_uid": "75b12bcc478681b9",
+    "total_value": 3673249.61
+  },
+  {
+    "ewb_number": "904693237725",
+    "generation_date": "2025-03-12T00:00:00",
+    "validity": "2025-03-13T00:00:00",
+    "transporter_id": "32NKEPD1148LGZQ",
+    "vehicle_number": "GJ73HA2253",
+    "distance_km": 823.2,
+    "invoice_uid": "a249c749a5090a46",
+    "total_value": 4946378.48
+  },
+  {
+    "ewb_number": "836593604664",
+    "generation_date": "2025-02-21T00:00:00",
+    "validity": "2025-02-22T00:00:00",
+    "transporter_id": "32PXRGA4041ILZA",
+    "vehicle_number": "MH29DA6318",
+    "distance_km": 560.4,
+    "invoice_uid": "4d1e82d3704d6afc",
+    "total_value": 2726062.86
+  },
+  {
+    "ewb_number": "506001505076",
+    "generation_date": "2024-10-17T00:00:00",
+    "validity": "2024-10-24T00:00:00",
+    "transporter_id": "02HIRAE6134YJZN",
+    "vehicle_number": "GJ96HD7148",
+    "distance_km": 2303.7,
+    "invoice_uid": "2b0c176a257e34af",
+    "total_value": 5486331.66
+  },
+  {
+    "ewb_number": "690567901690",
+    "generation_date": "2025-01-18T00:00:00",
+    "validity": "2025-02-02T00:00:00",
+    "transporter_id": "32FKTGO1840KCZY",
+    "vehicle_number": "MH50GG7722",
+    "distance_km": 480.3,
+    "invoice_uid": "157e72df7e298d61",
+    "total_value": 1153174.31
+  },
+  {
+    "ewb_number": "603204292325",
+    "generation_date": "2024-04-12T00:00:00",
+    "validity": "2024-04-19T00:00:00",
+    "transporter_id": "16SGMFK1005OTZN",
+    "vehicle_number": "DL23HB6427",
+    "distance_km": 2181.5,
+    "invoice_uid": "c28a664cb8eb78f2",
+    "total_value": 3933794.01
+  },
+  {
+    "ewb_number": "539647340492",
+    "generation_date": "2024-04-17T00:00:00",
+    "validity": "2024-05-02T00:00:00",
+    "transporter_id": "22LDDGY8711NAZ2",
+    "vehicle_number": "DL62DE2591",
+    "distance_km": 831.8,
+    "invoice_uid": "e1cd6feff4a86d38",
+    "total_value": 5115826.88
+  },
+  {
+    "ewb_number": "987957572601",
+    "generation_date": "2024-11-17T00:00:00",
+    "validity": "2024-11-20T00:00:00",
+    "transporter_id": "35DHJFA8510LYZY",
+    "vehicle_number": "TN62CF3553",
+    "distance_km": 1472.0,
+    "invoice_uid": "6a6d9b6fd11d68d0",
+    "total_value": 3353073.51
+  },
+  {
+    "ewb_number": "923946427847",
+    "generation_date": "2024-12-04T00:00:00",
+    "validity": "2024-12-07T00:00:00",
+    "transporter_id": "06TJABK5298R4ZO",
+    "vehicle_number": "TN73DD5195",
+    "distance_km": 1995.2,
+    "invoice_uid": "4d1fdd0d7c9bb783",
+    "total_value": 85135.52
+  },
+  {
+    "ewb_number": "740997843970",
+    "generation_date": "2024-04-21T00:00:00",
+    "validity": "2024-05-06T00:00:00",
+    "transporter_id": "07MNUHZ6110GZZP",
+    "vehicle_number": "GJ28HE1157",
+    "distance_km": 1458.5,
+    "invoice_uid": "c0b68d9892b1b946",
+    "total_value": 1568870.1
+  },
+  {
+    "ewb_number": "717091634913",
+    "generation_date": "2025-02-24T00:00:00",
+    "validity": "2025-03-03T00:00:00",
+    "transporter_id": "05QCTCP0854FSZZ",
+    "vehicle_number": "KA13HF9824",
+    "distance_km": 2058.2,
+    "invoice_uid": "ea5ee12ba0d18229",
+    "total_value": 3475216.55
+  },
+  {
+    "ewb_number": "755641749875",
+    "generation_date": "2024-12-28T00:00:00",
+    "validity": "2025-01-12T00:00:00",
+    "transporter_id": "31UHYJJ3378KKZ0",
+    "vehicle_number": "TN73GG1092",
+    "distance_km": 1907.9,
+    "invoice_uid": "5a0fde142c958c2e",
+    "total_value": 608269.55
+  },
+  {
+    "ewb_number": "339648328683",
+    "generation_date": "2025-03-27T00:00:00",
+    "validity": "2025-04-11T00:00:00",
+    "transporter_id": "26WCGHX4749BWZE",
+    "vehicle_number": "DL36GA2661",
+    "distance_km": 149.7,
+    "invoice_uid": "b680202b5578bb51",
+    "total_value": 1231727.19
+  },
+  {
+    "ewb_number": "682211483454",
+    "generation_date": "2024-05-08T00:00:00",
+    "validity": "2024-05-15T00:00:00",
+    "transporter_id": "15RDUHL9481OUZM",
+    "vehicle_number": "KA43DE5183",
+    "distance_km": 1513.0,
+    "invoice_uid": "6cabc729670aaf58",
+    "total_value": 6253973.26
+  },
+  {
+    "ewb_number": "732574149663",
+    "generation_date": "2024-04-25T00:00:00",
+    "validity": "2024-05-02T00:00:00",
+    "transporter_id": "32QTOPY1158SDZX",
+    "vehicle_number": "MH99GE8630",
+    "distance_km": 1133.7,
+    "invoice_uid": "7904a7edab1367b8",
+    "total_value": 356798.37
+  },
+  {
+    "ewb_number": "269981302555",
+    "generation_date": "2024-07-03T00:00:00",
+    "validity": "2024-07-06T00:00:00",
+    "transporter_id": "21UFEAR6875CLZ8",
+    "vehicle_number": "DL85DD5963",
+    "distance_km": 416.6,
+    "invoice_uid": "f32aeec814639230",
+    "total_value": 1784694.23
+  },
+  {
+    "ewb_number": "654802816141",
+    "generation_date": "2024-09-29T00:00:00",
+    "validity": "2024-09-30T00:00:00",
+    "transporter_id": "35EFYTL7319ZOZV",
+    "vehicle_number": "TN33BH1264",
+    "distance_km": 28.1,
+    "invoice_uid": "719069515ec9861b",
+    "total_value": 687423.52
+  },
+  {
+    "ewb_number": "811803337007",
+    "generation_date": "2024-10-02T00:00:00",
+    "validity": "2024-10-09T00:00:00",
+    "transporter_id": "14BWEAE5140TJZN",
+    "vehicle_number": "KA80GC7868",
+    "distance_km": 439.3,
+    "invoice_uid": "4c9ac1551a2d45ba",
+    "total_value": 5354030.9
+  },
+  {
+    "ewb_number": "208053528462",
+    "generation_date": "2024-05-27T00:00:00",
+    "validity": "2024-05-28T00:00:00",
+    "transporter_id": "09JFKBD9448O1Z7",
+    "vehicle_number": "KA61HE3100",
+    "distance_km": 814.0,
+    "invoice_uid": "cf41e242edfc1c42",
+    "total_value": 178027.37
+  },
+  {
+    "ewb_number": "909942220664",
+    "generation_date": "2024-07-22T00:00:00",
+    "validity": "2024-07-23T00:00:00",
+    "transporter_id": "21TUQFF0682M1ZI",
+    "vehicle_number": "GJ62HF4076",
+    "distance_km": 1575.5,
+    "invoice_uid": "357ac5c3ee19c3b2",
+    "total_value": 766891.74
+  },
+  {
+    "ewb_number": "806206502451",
+    "generation_date": "2025-02-13T00:00:00",
+    "validity": "2025-02-14T00:00:00",
+    "transporter_id": "30ZDFJD1713O6ZH",
+    "vehicle_number": "GJ24GD3321",
+    "distance_km": 2101.6,
+    "invoice_uid": "7187dfec71a74de5",
+    "total_value": 3221224.49
+  },
+  {
+    "ewb_number": "322729681910",
+    "generation_date": "2024-12-28T00:00:00",
+    "validity": "2025-01-04T00:00:00",
+    "transporter_id": "01BZKLQ9841J5Z1",
+    "vehicle_number": "KA91ED2094",
+    "distance_km": 157.5,
+    "invoice_uid": "ddb9a812ff4c4569",
+    "total_value": 278396.35
+  },
+  {
+    "ewb_number": "790509013345",
+    "generation_date": "2024-11-01T00:00:00",
+    "validity": "2024-11-16T00:00:00",
+    "transporter_id": "22GLVPX6187XIZO",
+    "vehicle_number": "MH49EB8643",
+    "distance_km": 1070.5,
+    "invoice_uid": "40d88270329651d6",
+    "total_value": 3489838.92
+  },
+  {
+    "ewb_number": "740992705579",
+    "generation_date": "2025-02-03T00:00:00",
+    "validity": "2025-02-18T00:00:00",
+    "transporter_id": "26FLGJR6568V3ZW",
+    "vehicle_number": "GJ14BB2924",
+    "distance_km": 2417.2,
+    "invoice_uid": "e8f5e132026ea31b",
+    "total_value": 5104161.11
+  },
+  {
+    "ewb_number": "154905615530",
+    "generation_date": "2025-02-26T00:00:00",
+    "validity": "2025-03-05T00:00:00",
+    "transporter_id": "23LZGCG5867YCZF",
+    "vehicle_number": "TN12FF9818",
+    "distance_km": 1852.2,
+    "invoice_uid": "9c5909afe17af45f",
+    "total_value": 5028349.26
+  },
+  {
+    "ewb_number": "118566111883",
+    "generation_date": "2024-05-17T00:00:00",
+    "validity": "2024-05-18T00:00:00",
+    "transporter_id": "06EINPJ7536G6ZS",
+    "vehicle_number": "GJ85GE3388",
+    "distance_km": 1792.6,
+    "invoice_uid": "dfdc4a9892b79a7b",
+    "total_value": 1847064.38
+  },
+  {
+    "ewb_number": "773697967247",
+    "generation_date": "2024-07-25T00:00:00",
+    "validity": "2024-08-09T00:00:00",
+    "transporter_id": "17VKOTG4856MOZ2",
+    "vehicle_number": "KA56FF4845",
+    "distance_km": 807.2,
+    "invoice_uid": "665299b63449133d",
+    "total_value": 4874395.96
+  },
+  {
+    "ewb_number": "122210741273",
+    "generation_date": "2024-09-08T00:00:00",
+    "validity": "2024-09-23T00:00:00",
+    "transporter_id": "02OBJCC6075XWZI",
+    "vehicle_number": "TN91CG4525",
+    "distance_km": 1657.9,
+    "invoice_uid": "8fe026379b5e4690",
+    "total_value": 4520835.86
+  },
+  {
+    "ewb_number": "301157969056",
+    "generation_date": "2025-01-02T00:00:00",
+    "validity": "2025-01-03T00:00:00",
+    "transporter_id": "26QMDBD9593NVZY",
+    "vehicle_number": "DL44CB6098",
+    "distance_km": 894.3,
+    "invoice_uid": "5f2bc24f12b19a13",
+    "total_value": 1651627.43
+  },
+  {
+    "ewb_number": "714103057386",
+    "generation_date": "2024-10-23T00:00:00",
+    "validity": "2024-10-24T00:00:00",
+    "transporter_id": "24RCAPA0309S5ZB",
+    "vehicle_number": "DL25HC9768",
+    "distance_km": 553.8,
+    "invoice_uid": "61939f3180eb7d4e",
+    "total_value": 1338089.77
+  },
+  {
+    "ewb_number": "669470170437",
+    "generation_date": "2024-11-12T00:00:00",
+    "validity": "2024-11-15T00:00:00",
+    "transporter_id": "08XMPTK9953O5ZX",
+    "vehicle_number": "KA32FC4923",
+    "distance_km": 2401.4,
+    "invoice_uid": "2d717c0cd9a0c469",
+    "total_value": 2993820.85
+  },
+  {
+    "ewb_number": "646774666704",
+    "generation_date": "2025-03-04T00:00:00",
+    "validity": "2025-03-11T00:00:00",
+    "transporter_id": "12USNAG9359RLZM",
+    "vehicle_number": "MH69AA5963",
+    "distance_km": 968.4,
+    "invoice_uid": "c6ea315819484c47",
+    "total_value": 519543.22
+  },
+  {
+    "ewb_number": "297501502572",
+    "generation_date": "2024-10-07T00:00:00",
+    "validity": "2024-10-22T00:00:00",
+    "transporter_id": "20VJVAE1268NEZV",
+    "vehicle_number": "KA53AG7777",
+    "distance_km": 949.1,
+    "invoice_uid": "4c3ef4bde072623f",
+    "total_value": 4781069.83
+  },
+  {
+    "ewb_number": "851427365638",
+    "generation_date": "2025-02-02T00:00:00",
+    "validity": "2025-02-17T00:00:00",
+    "transporter_id": "34HHWGD7382CDZ6",
+    "vehicle_number": "DL67AH8844",
+    "distance_km": 282.3,
+    "invoice_uid": "621a9df98780acdd",
+    "total_value": 3133058.95
+  },
+  {
+    "ewb_number": "451005816415",
+    "generation_date": "2024-11-10T00:00:00",
+    "validity": "2024-11-11T00:00:00",
+    "transporter_id": "19OYIGF3263EXZS",
+    "vehicle_number": "MH29CD6503",
+    "distance_km": 1648.5,
+    "invoice_uid": "d121d8be726c3b98",
+    "total_value": 2189063.55
+  },
+  {
+    "ewb_number": "790468289425",
+    "generation_date": "2024-06-22T00:00:00",
+    "validity": "2024-06-23T00:00:00",
+    "transporter_id": "16OBQJS6264XWZ8",
+    "vehicle_number": "GJ33FH8850",
+    "distance_km": 2299.4,
+    "invoice_uid": "c113cd6d11a91b6c",
+    "total_value": 3064398.02
+  },
+  {
+    "ewb_number": "608474490281",
+    "generation_date": "2024-10-16T00:00:00",
+    "validity": "2024-10-23T00:00:00",
+    "transporter_id": "24IRDPG2759XUZZ",
+    "vehicle_number": "GJ98GF6028",
+    "distance_km": 541.6,
+    "invoice_uid": "8fb691ac65c285a0",
+    "total_value": 5203570.5
+  },
+  {
+    "ewb_number": "445687679799",
+    "generation_date": "2024-07-12T00:00:00",
+    "validity": "2024-07-13T00:00:00",
+    "transporter_id": "10RUCAB3093XEZD",
+    "vehicle_number": "KA09FF8317",
+    "distance_km": 1193.0,
+    "invoice_uid": "f60efbc9d72a3b8e",
+    "total_value": 1993112.14
+  },
+  {
+    "ewb_number": "858431848153",
+    "generation_date": "2025-01-13T00:00:00",
+    "validity": "2025-01-20T00:00:00",
+    "transporter_id": "05YPEAP9589LCZW",
+    "vehicle_number": "DL80EG3449",
+    "distance_km": 286.3,
+    "invoice_uid": "1d98399943267e8e",
+    "total_value": 5314937.67
+  },
+  {
+    "ewb_number": "921510577574",
+    "generation_date": "2025-02-19T00:00:00",
+    "validity": "2025-03-06T00:00:00",
+    "transporter_id": "26RIATA7039M3ZJ",
+    "vehicle_number": "KA90GF7009",
+    "distance_km": 2009.8,
+    "invoice_uid": "48bf3666f2ec8b20",
+    "total_value": 1871942.37
+  },
+  {
+    "ewb_number": "894610375744",
+    "generation_date": "2024-09-25T00:00:00",
+    "validity": "2024-09-26T00:00:00",
+    "transporter_id": "07TIXBE5996K8ZC",
+    "vehicle_number": "MH91CD2329",
+    "distance_km": 472.1,
+    "invoice_uid": "80186e369071b1cd",
+    "total_value": 3259585.81
+  },
+  {
+    "ewb_number": "106475025668",
+    "generation_date": "2024-04-26T00:00:00",
+    "validity": "2024-04-27T00:00:00",
+    "transporter_id": "21EFDPS9670FFZU",
+    "vehicle_number": "DL51EG9301",
+    "distance_km": 1605.1,
+    "invoice_uid": "fd90b42d9b0a8703",
+    "total_value": 2031873.73
+  },
+  {
+    "ewb_number": "917581867825",
+    "generation_date": "2024-06-22T00:00:00",
+    "validity": "2024-07-07T00:00:00",
+    "transporter_id": "32JHMPX1503OLZ7",
+    "vehicle_number": "TN60HH3501",
+    "distance_km": 363.8,
+    "invoice_uid": "cd4378160b6086d6",
+    "total_value": 324488.05
+  },
+  {
+    "ewb_number": "122324194131",
+    "generation_date": "2024-06-11T00:00:00",
+    "validity": "2024-06-26T00:00:00",
+    "transporter_id": "34KHYPI2474F4ZP",
+    "vehicle_number": "KA14BF8810",
+    "distance_km": 1523.5,
+    "invoice_uid": "d59a93a9acaf945c",
+    "total_value": 1683725.1
+  },
+  {
+    "ewb_number": "356359218189",
+    "generation_date": "2024-09-07T00:00:00",
+    "validity": "2024-09-14T00:00:00",
+    "transporter_id": "15QXMGR3769KGZD",
+    "vehicle_number": "DL63HA6135",
+    "distance_km": 1282.3,
+    "invoice_uid": "32acde79c4382718",
+    "total_value": 2531758.62
+  },
+  {
+    "ewb_number": "630946659683",
+    "generation_date": "2024-08-15T00:00:00",
+    "validity": "2024-08-18T00:00:00",
+    "transporter_id": "08UYMHT8281TJZC",
+    "vehicle_number": "MH95DE5066",
+    "distance_km": 1978.9,
+    "invoice_uid": "6c70fcca58e90a68",
+    "total_value": 2360373.9
+  },
+  {
+    "ewb_number": "873943574861",
+    "generation_date": "2024-04-13T00:00:00",
+    "validity": "2024-04-28T00:00:00",
+    "transporter_id": "26HPIAD0341X2Z3",
+    "vehicle_number": "TN83FG3916",
+    "distance_km": 823.3,
+    "invoice_uid": "ae0f599453423e55",
+    "total_value": 3258523.2
+  },
+  {
+    "ewb_number": "929323221273",
+    "generation_date": "2025-01-15T00:00:00",
+    "validity": "2025-01-22T00:00:00",
+    "transporter_id": "10ZIKBP4047W6ZJ",
+    "vehicle_number": "DL58CB5272",
+    "distance_km": 576.2,
+    "invoice_uid": "f357f770246567bc",
+    "total_value": 207761.39
+  },
+  {
+    "ewb_number": "350005049593",
+    "generation_date": "2024-04-22T00:00:00",
+    "validity": "2024-05-07T00:00:00",
+    "transporter_id": "19ASPHQ8125UIZD",
+    "vehicle_number": "GJ48GC4302",
+    "distance_km": 1887.9,
+    "invoice_uid": "7c10aa465ca29b01",
+    "total_value": 1150574.8
+  },
+  {
+    "ewb_number": "934083261488",
+    "generation_date": "2024-04-15T00:00:00",
+    "validity": "2024-04-22T00:00:00",
+    "transporter_id": "14VRXGL4628IXZC",
+    "vehicle_number": "MH40AD3964",
+    "distance_km": 2152.3,
+    "invoice_uid": "c875a253b26d343a",
+    "total_value": 3560338.39
+  },
+  {
+    "ewb_number": "404714130413",
+    "generation_date": "2024-06-24T00:00:00",
+    "validity": "2024-06-25T00:00:00",
+    "transporter_id": "05HJOCD0214LIZL",
+    "vehicle_number": "TN84AE1573",
+    "distance_km": 2247.3,
+    "invoice_uid": "b321f1dc880095e3",
+    "total_value": 2833649.27
+  },
+  {
+    "ewb_number": "290749909706",
+    "generation_date": "2024-11-30T00:00:00",
+    "validity": "2024-12-01T00:00:00",
+    "transporter_id": "13OBBGW2480IGZC",
+    "vehicle_number": "TN01AG9004",
+    "distance_km": 1982.0,
+    "invoice_uid": "4e74500191085e96",
+    "total_value": 85792.89
+  },
+  {
+    "ewb_number": "695607642206",
+    "generation_date": "2024-05-16T00:00:00",
+    "validity": "2024-05-31T00:00:00",
+    "transporter_id": "11JLPCK9645V3ZG",
+    "vehicle_number": "KA65CF9850",
+    "distance_km": 1585.4,
+    "invoice_uid": "b0952e0302a1b4c3",
+    "total_value": 2167799.79
+  },
+  {
+    "ewb_number": "352285138852",
+    "generation_date": "2024-07-15T00:00:00",
+    "validity": "2024-07-22T00:00:00",
+    "transporter_id": "29MIVHR9582L7ZR",
+    "vehicle_number": "DL82HC4085",
+    "distance_km": 1793.3,
+    "invoice_uid": "2afe6f1cac0665b7",
+    "total_value": 483369.57
+  },
+  {
+    "ewb_number": "850657495527",
+    "generation_date": "2024-06-13T00:00:00",
+    "validity": "2024-06-14T00:00:00",
+    "transporter_id": "20BLDHV4633GSZ0",
+    "vehicle_number": "GJ76HA9050",
+    "distance_km": 2442.8,
+    "invoice_uid": "145d2c0397ada14b",
+    "total_value": 3648741.63
+  },
+  {
+    "ewb_number": "952777034184",
+    "generation_date": "2025-01-01T00:00:00",
+    "validity": "2025-01-16T00:00:00",
+    "transporter_id": "12FKACS8794QUZ2",
+    "vehicle_number": "KA90GA5148",
+    "distance_km": 1468.3,
+    "invoice_uid": "bb78a633e518de8e",
+    "total_value": 2367775.93
+  },
+  {
+    "ewb_number": "515634562309",
+    "generation_date": "2025-02-02T00:00:00",
+    "validity": "2025-02-03T00:00:00",
+    "transporter_id": "11HFWTP2479D9ZL",
+    "vehicle_number": "DL95AH9128",
+    "distance_km": 923.0,
+    "invoice_uid": "dae9fee9ac6b3b6f",
+    "total_value": 2731816.04
+  },
+  {
+    "ewb_number": "390156688219",
+    "generation_date": "2024-04-18T00:00:00",
+    "validity": "2024-05-03T00:00:00",
+    "transporter_id": "27BUELD5211W1ZE",
+    "vehicle_number": "KA08AB9594",
+    "distance_km": 1668.1,
+    "invoice_uid": "846d94eb872edeae",
+    "total_value": 2574782.81
+  },
+  {
+    "ewb_number": "790801556117",
+    "generation_date": "2024-07-19T00:00:00",
+    "validity": "2024-07-26T00:00:00",
+    "transporter_id": "27YVKLB8706LTZ1",
+    "vehicle_number": "GJ29CH9348",
+    "distance_km": 2223.0,
+    "invoice_uid": "a68ff60b4ddb05c1",
+    "total_value": 3918210.91
+  },
+  {
+    "ewb_number": "438955927610",
+    "generation_date": "2024-05-09T00:00:00",
+    "validity": "2024-05-24T00:00:00",
+    "transporter_id": "33NKWTW5657EMZA",
+    "vehicle_number": "MH89HF9728",
+    "distance_km": 1297.3,
+    "invoice_uid": "70aa8d9dd13f7c3c",
+    "total_value": 3539420.74
+  },
+  {
+    "ewb_number": "895072366150",
+    "generation_date": "2024-09-13T00:00:00",
+    "validity": "2024-09-20T00:00:00",
+    "transporter_id": "18QFUHF8833WUZ9",
+    "vehicle_number": "GJ44CE2180",
+    "distance_km": 638.8,
+    "invoice_uid": "31e87a6ee32d8b5b",
+    "total_value": 1673273.69
+  },
+  {
+    "ewb_number": "959540732998",
+    "generation_date": "2024-08-09T00:00:00",
+    "validity": "2024-08-10T00:00:00",
+    "transporter_id": "16YRFTB0362NFZN",
+    "vehicle_number": "DL80EF4872",
+    "distance_km": 387.7,
+    "invoice_uid": "a0e32f296397e0b0",
+    "total_value": 2683730.72
+  },
+  {
+    "ewb_number": "771988464049",
+    "generation_date": "2025-01-03T00:00:00",
+    "validity": "2025-01-06T00:00:00",
+    "transporter_id": "14XXHAH6488OFZM",
+    "vehicle_number": "MH11GH8250",
+    "distance_km": 384.5,
+    "invoice_uid": "9d587d8ed731e6a4",
+    "total_value": 104058.8
+  },
+  {
+    "ewb_number": "545766366167",
+    "generation_date": "2025-01-03T00:00:00",
+    "validity": "2025-01-06T00:00:00",
+    "transporter_id": "16FJHGH3896S5ZK",
+    "vehicle_number": "TN92AG6655",
+    "distance_km": 905.2,
+    "invoice_uid": "731232ee04dc3235",
+    "total_value": 1211197.67
+  },
+  {
+    "ewb_number": "186974767606",
+    "generation_date": "2024-07-27T00:00:00",
+    "validity": "2024-08-03T00:00:00",
+    "transporter_id": "04LHWGF2352CCZK",
+    "vehicle_number": "KA71HG3751",
+    "distance_km": 598.3,
+    "invoice_uid": "259ea02ffdcc0f43",
+    "total_value": 2163656.46
+  },
+  {
+    "ewb_number": "247720270584",
+    "generation_date": "2024-05-22T00:00:00",
+    "validity": "2024-05-25T00:00:00",
+    "transporter_id": "16BEDTL5221DBZI",
+    "vehicle_number": "GJ97AB7183",
+    "distance_km": 348.4,
+    "invoice_uid": "d66301fd1eb475f6",
+    "total_value": 4822225.18
+  },
+  {
+    "ewb_number": "120402432004",
+    "generation_date": "2024-12-25T00:00:00",
+    "validity": "2024-12-28T00:00:00",
+    "transporter_id": "02LQDTZ7173EFZT",
+    "vehicle_number": "TN33HG8640",
+    "distance_km": 1785.1,
+    "invoice_uid": "59d2be4674f9773e",
+    "total_value": 5676463.62
+  },
+  {
+    "ewb_number": "884880953994",
+    "generation_date": "2024-10-09T00:00:00",
+    "validity": "2024-10-16T00:00:00",
+    "transporter_id": "19BNQHA4363KOZF",
+    "vehicle_number": "MH67BH8987",
+    "distance_km": 1089.2,
+    "invoice_uid": "50aa09ee487e9494",
+    "total_value": 1841096.25
+  },
+  {
+    "ewb_number": "560396843660",
+    "generation_date": "2025-03-05T00:00:00",
+    "validity": "2025-03-08T00:00:00",
+    "transporter_id": "17KVDPS2900BVZX",
+    "vehicle_number": "MH29HC9085",
+    "distance_km": 294.5,
+    "invoice_uid": "f1170270866edd5e",
+    "total_value": 4315870.9
+  },
+  {
+    "ewb_number": "428958815917",
+    "generation_date": "2025-03-07T00:00:00",
+    "validity": "2025-03-14T00:00:00",
+    "transporter_id": "29CDFFH4105LQZE",
+    "vehicle_number": "TN73FE2329",
+    "distance_km": 613.8,
+    "invoice_uid": "2b42e92902835375",
+    "total_value": 3371544.41
+  },
+  {
+    "ewb_number": "745947381800",
+    "generation_date": "2024-10-25T00:00:00",
+    "validity": "2024-10-28T00:00:00",
+    "transporter_id": "07KWHTZ1133C6Z1",
+    "vehicle_number": "MH95AC9853",
+    "distance_km": 1077.1,
+    "invoice_uid": "ecdcdce43f7343f4",
+    "total_value": 909869.29
+  },
+  {
+    "ewb_number": "288074653754",
+    "generation_date": "2024-04-02T00:00:00",
+    "validity": "2024-04-17T00:00:00",
+    "transporter_id": "17VMGGT8061OBZW",
+    "vehicle_number": "GJ13HD5648",
+    "distance_km": 89.8,
+    "invoice_uid": "d03d48aaef184578",
+    "total_value": 1048651.58
+  },
+  {
+    "ewb_number": "259419385522",
+    "generation_date": "2024-11-18T00:00:00",
+    "validity": "2024-11-19T00:00:00",
+    "transporter_id": "08ZDSGY3324NKZY",
+    "vehicle_number": "DL61AF3564",
+    "distance_km": 983.1,
+    "invoice_uid": "bd132bc2166bb1a0",
+    "total_value": 4996499.76
+  },
+  {
+    "ewb_number": "409053230634",
+    "generation_date": "2025-03-04T00:00:00",
+    "validity": "2025-03-07T00:00:00",
+    "transporter_id": "35SKUHW3631YDZA",
+    "vehicle_number": "DL19FE9697",
+    "distance_km": 982.8,
+    "invoice_uid": "a3d67cd56c73978b",
+    "total_value": 4624231.42
+  },
+  {
+    "ewb_number": "381662081479",
+    "generation_date": "2025-01-28T00:00:00",
+    "validity": "2025-02-12T00:00:00",
+    "transporter_id": "37GNBJH3498IZZY",
+    "vehicle_number": "TN03EA9136",
+    "distance_km": 2472.3,
+    "invoice_uid": "104eefb6ce2c7b8e",
+    "total_value": 1712977.96
+  },
+  {
+    "ewb_number": "325169885597",
+    "generation_date": "2024-09-16T00:00:00",
+    "validity": "2024-09-19T00:00:00",
+    "transporter_id": "16JTHPW5098A5Z1",
+    "vehicle_number": "KA23BH6530",
+    "distance_km": 312.4,
+    "invoice_uid": "634ede041828c597",
+    "total_value": 3216410.03
+  },
+  {
+    "ewb_number": "932900304049",
+    "generation_date": "2024-06-02T00:00:00",
+    "validity": "2024-06-09T00:00:00",
+    "transporter_id": "33AWULD8741T5ZN",
+    "vehicle_number": "DL85HH7345",
+    "distance_km": 812.3,
+    "invoice_uid": "976d91b772e646c8",
+    "total_value": 3941582.19
+  },
+  {
+    "ewb_number": "160587275055",
+    "generation_date": "2025-03-07T00:00:00",
+    "validity": "2025-03-14T00:00:00",
+    "transporter_id": "05RZSLE2899LWZI",
+    "vehicle_number": "KA95EG1372",
+    "distance_km": 75.1,
+    "invoice_uid": "dc8b1ad76601c7ac",
+    "total_value": 3406132.18
+  },
+  {
+    "ewb_number": "885169744987",
+    "generation_date": "2024-05-29T00:00:00",
+    "validity": "2024-06-05T00:00:00",
+    "transporter_id": "18XRCLY9380K4ZD",
+    "vehicle_number": "DL09BA2750",
+    "distance_km": 2229.6,
+    "invoice_uid": "08217ae8faa4e298",
+    "total_value": 5458007.31
+  },
+  {
+    "ewb_number": "661276840846",
+    "generation_date": "2025-01-13T00:00:00",
+    "validity": "2025-01-16T00:00:00",
+    "transporter_id": "30ZANGS7715BEZC",
+    "vehicle_number": "GJ86GD9647",
+    "distance_km": 738.8,
+    "invoice_uid": "34ae1cd5886d15bb",
+    "total_value": 484935.61
+  },
+  {
+    "ewb_number": "150443876130",
+    "generation_date": "2024-11-02T00:00:00",
+    "validity": "2024-11-03T00:00:00",
+    "transporter_id": "07RDFBS0216NMZ6",
+    "vehicle_number": "DL58CC3019",
+    "distance_km": 2173.3,
+    "invoice_uid": "b5bbcee39c4cd9a9",
+    "total_value": 3825606.89
+  },
+  {
+    "ewb_number": "417317795594",
+    "generation_date": "2024-10-17T00:00:00",
+    "validity": "2024-10-20T00:00:00",
+    "transporter_id": "31HETJZ7043HDZS",
+    "vehicle_number": "KA62GE3628",
+    "distance_km": 1206.1,
+    "invoice_uid": "ba310e2f30852583",
+    "total_value": 987856.23
+  },
+  {
+    "ewb_number": "733995559177",
+    "generation_date": "2025-01-08T00:00:00",
+    "validity": "2025-01-11T00:00:00",
+    "transporter_id": "13QZAAK7743PCZ4",
+    "vehicle_number": "MH94EG5115",
+    "distance_km": 1743.1,
+    "invoice_uid": "691492928ddcfcd6",
+    "total_value": 3787564.72
+  },
+  {
+    "ewb_number": "150966450856",
+    "generation_date": "2024-10-12T00:00:00",
+    "validity": "2024-10-15T00:00:00",
+    "transporter_id": "14MNTBV9572GOZY",
+    "vehicle_number": "MH05EA7703",
+    "distance_km": 309.5,
+    "invoice_uid": "01abaff3e724271d",
+    "total_value": 3685696.37
+  },
+  {
+    "ewb_number": "735332225771",
+    "generation_date": "2024-05-31T00:00:00",
+    "validity": "2024-06-07T00:00:00",
+    "transporter_id": "18ASYJR6006ADZI",
+    "vehicle_number": "DL21DA3939",
+    "distance_km": 497.7,
+    "invoice_uid": "35b52d8769e56a5a",
+    "total_value": 4228637.28
+  },
+  {
+    "ewb_number": "190660422077",
+    "generation_date": "2024-06-08T00:00:00",
+    "validity": "2024-06-11T00:00:00",
+    "transporter_id": "36FDCFW8255VMZ5",
+    "vehicle_number": "TN21DH7961",
+    "distance_km": 438.6,
+    "invoice_uid": "5d5fd647861e52ea",
+    "total_value": 619776.43
+  },
+  {
+    "ewb_number": "240870387084",
+    "generation_date": "2025-02-05T00:00:00",
+    "validity": "2025-02-08T00:00:00",
+    "transporter_id": "22XNPBH5050I9Z1",
+    "vehicle_number": "DL06GH4363",
+    "distance_km": 357.9,
+    "invoice_uid": "9dac8acad5322e18",
+    "total_value": 5464744.43
+  },
+  {
+    "ewb_number": "281773738822",
+    "generation_date": "2024-06-15T00:00:00",
+    "validity": "2024-06-16T00:00:00",
+    "transporter_id": "02CEYBO7537XAZK",
+    "vehicle_number": "KA41GB9257",
+    "distance_km": 1617.6,
+    "invoice_uid": "1c20fb32f87f5cf4",
+    "total_value": 2610509.14
+  },
+  {
+    "ewb_number": "517960935511",
+    "generation_date": "2024-06-15T00:00:00",
+    "validity": "2024-06-30T00:00:00",
+    "transporter_id": "06BLATB0223KOZX",
+    "vehicle_number": "GJ36CG7188",
+    "distance_km": 1411.9,
+    "invoice_uid": "ea6b1f834971ed7f",
+    "total_value": 3942438.63
+  },
+  {
+    "ewb_number": "712523362762",
+    "generation_date": "2024-09-06T00:00:00",
+    "validity": "2024-09-21T00:00:00",
+    "transporter_id": "04QUATY6991CIZ9",
+    "vehicle_number": "MH16GE9660",
+    "distance_km": 319.4,
+    "invoice_uid": "c1b1f6575d911a68",
+    "total_value": 4632578.99
+  },
+  {
+    "ewb_number": "889228069691",
+    "generation_date": "2025-02-24T00:00:00",
+    "validity": "2025-02-27T00:00:00",
+    "transporter_id": "19JSNFD3708MPZ1",
+    "vehicle_number": "DL46FE1693",
+    "distance_km": 474.6,
+    "invoice_uid": "f9e63dcca11a6c57",
+    "total_value": 3230652.23
+  },
+  {
+    "ewb_number": "167418920189",
+    "generation_date": "2025-01-04T00:00:00",
+    "validity": "2025-01-11T00:00:00",
+    "transporter_id": "36ARBGH2298GHZW",
+    "vehicle_number": "GJ41BG4635",
+    "distance_km": 2018.7,
+    "invoice_uid": "275330cb66b38a30",
+    "total_value": 1734448.57
+  },
+  {
+    "ewb_number": "184711189675",
+    "generation_date": "2024-11-25T00:00:00",
+    "validity": "2024-11-26T00:00:00",
+    "transporter_id": "36XPNHM0987X1ZB",
+    "vehicle_number": "MH24DA1481",
+    "distance_km": 1469.4,
+    "invoice_uid": "f786f583d5f4894d",
+    "total_value": 3049026.62
+  },
+  {
+    "ewb_number": "679265853845",
+    "generation_date": "2024-08-24T00:00:00",
+    "validity": "2024-08-31T00:00:00",
+    "transporter_id": "11CHGPP3019GBZG",
+    "vehicle_number": "DL78CB4934",
+    "distance_km": 1133.7,
+    "invoice_uid": "feaa367e3db0123d",
+    "total_value": 707274.34
+  },
+  {
+    "ewb_number": "314507193631",
+    "generation_date": "2024-12-31T00:00:00",
+    "validity": "2025-01-01T00:00:00",
+    "transporter_id": "21NFKTC8736CEZW",
+    "vehicle_number": "MH23DE6579",
+    "distance_km": 895.9,
+    "invoice_uid": "e6714a6198273845",
+    "total_value": 5550009.58
+  },
+  {
+    "ewb_number": "148994655826",
+    "generation_date": "2025-01-18T00:00:00",
+    "validity": "2025-01-21T00:00:00",
+    "transporter_id": "35GJSAD6466BOZ8",
+    "vehicle_number": "GJ75BE5681",
+    "distance_km": 1439.5,
+    "invoice_uid": "09158be3574a5729",
+    "total_value": 2718738.66
+  },
+  {
+    "ewb_number": "653072814985",
+    "generation_date": "2025-01-24T00:00:00",
+    "validity": "2025-01-31T00:00:00",
+    "transporter_id": "10OUWCG1882YSZ6",
+    "vehicle_number": "TN73AG1376",
+    "distance_km": 2475.2,
+    "invoice_uid": "4b398789cafc5383",
+    "total_value": 2377549.53
+  },
+  {
+    "ewb_number": "413450736238",
+    "generation_date": "2024-11-13T00:00:00",
+    "validity": "2024-11-14T00:00:00",
+    "transporter_id": "10XYXBE9540ZQZP",
+    "vehicle_number": "GJ98FC8113",
+    "distance_km": 1655.7,
+    "invoice_uid": "afcdf835946329b9",
+    "total_value": 4421027.54
+  },
+  {
+    "ewb_number": "661995455087",
+    "generation_date": "2024-07-20T00:00:00",
+    "validity": "2024-07-27T00:00:00",
+    "transporter_id": "27QBACP7065TPZF",
+    "vehicle_number": "MH08BG9255",
+    "distance_km": 513.1,
+    "invoice_uid": "a5ffcd65fb92ca0f",
+    "total_value": 2809408.51
+  },
+  {
+    "ewb_number": "801026755777",
+    "generation_date": "2024-08-29T00:00:00",
+    "validity": "2024-09-05T00:00:00",
+    "transporter_id": "27HXLTJ3098XRZ0",
+    "vehicle_number": "DL77CF1318",
+    "distance_km": 1393.1,
+    "invoice_uid": "9425a3c224bb15d8",
+    "total_value": 432754.19
+  },
+  {
+    "ewb_number": "217687740213",
+    "generation_date": "2025-03-25T00:00:00",
+    "validity": "2025-04-09T00:00:00",
+    "transporter_id": "30OCACV1601YGZ7",
+    "vehicle_number": "GJ86FC8663",
+    "distance_km": 1244.4,
+    "invoice_uid": "b8550aa13d5ff3c1",
+    "total_value": 395186.44
+  },
+  {
+    "ewb_number": "402499527727",
+    "generation_date": "2025-03-08T00:00:00",
+    "validity": "2025-03-15T00:00:00",
+    "transporter_id": "34ZGFGD3599XXZD",
+    "vehicle_number": "DL24BA3645",
+    "distance_km": 1601.3,
+    "invoice_uid": "b9116809e32c0ffb",
+    "total_value": 1751526.0
+  },
+  {
+    "ewb_number": "965405098401",
+    "generation_date": "2025-02-16T00:00:00",
+    "validity": "2025-03-03T00:00:00",
+    "transporter_id": "10KYDJW0849Q1Z0",
+    "vehicle_number": "KA98AG9857",
+    "distance_km": 367.6,
+    "invoice_uid": "ec9d648ec2a6111a",
+    "total_value": 1541352.26
+  },
+  {
+    "ewb_number": "573456661269",
+    "generation_date": "2024-10-19T00:00:00",
+    "validity": "2024-10-26T00:00:00",
+    "transporter_id": "37UWYCB8796HSZZ",
+    "vehicle_number": "GJ92EE3129",
+    "distance_km": 752.4,
+    "invoice_uid": "048d674a7d0d4aaa",
+    "total_value": 78903.23
+  },
+  {
+    "ewb_number": "596565147357",
+    "generation_date": "2025-02-15T00:00:00",
+    "validity": "2025-02-22T00:00:00",
+    "transporter_id": "30JCPJP6458SXZU",
+    "vehicle_number": "TN92CC6244",
+    "distance_km": 1295.1,
+    "invoice_uid": "3a66ea051885f54d",
+    "total_value": 2995037.04
+  },
+  {
+    "ewb_number": "511683273707",
+    "generation_date": "2024-07-05T00:00:00",
+    "validity": "2024-07-12T00:00:00",
+    "transporter_id": "16GYKTM1382U9ZX",
+    "vehicle_number": "GJ95EG4640",
+    "distance_km": 2167.1,
+    "invoice_uid": "cc5665e9c250731d",
+    "total_value": 2175962.36
+  },
+  {
+    "ewb_number": "218130847451",
+    "generation_date": "2025-03-17T00:00:00",
+    "validity": "2025-04-01T00:00:00",
+    "transporter_id": "34JAQPI9950KJZB",
+    "vehicle_number": "KA29AD6023",
+    "distance_km": 1574.0,
+    "invoice_uid": "6bdeb22ab037fe9a",
+    "total_value": 1195292.62
+  },
+  {
+    "ewb_number": "456861132844",
+    "generation_date": "2024-04-25T00:00:00",
+    "validity": "2024-05-02T00:00:00",
+    "transporter_id": "36LIIBG7388P7ZP",
+    "vehicle_number": "DL55HF1750",
+    "distance_km": 50.0,
+    "invoice_uid": "ddf32946693e107b",
+    "total_value": 3077665.88
+  },
+  {
+    "ewb_number": "627240585155",
+    "generation_date": "2024-05-15T00:00:00",
+    "validity": "2024-05-16T00:00:00",
+    "transporter_id": "30HDVPR8311KRZ8",
+    "vehicle_number": "MH42GH9829",
+    "distance_km": 1111.1,
+    "invoice_uid": "7d6b7006b223d505",
+    "total_value": 4075986.81
+  },
+  {
+    "ewb_number": "146739938625",
+    "generation_date": "2025-02-18T00:00:00",
+    "validity": "2025-02-19T00:00:00",
+    "transporter_id": "21EHQTU8026DLZD",
+    "vehicle_number": "MH27AF6569",
+    "distance_km": 1206.5,
+    "invoice_uid": "b8ec1e2d10e3c587",
+    "total_value": 4690823.83
+  },
+  {
+    "ewb_number": "499989172813",
+    "generation_date": "2024-09-03T00:00:00",
+    "validity": "2024-09-06T00:00:00",
+    "transporter_id": "09XHYBQ2878DDZD",
+    "vehicle_number": "MH17DC1116",
+    "distance_km": 1571.0,
+    "invoice_uid": "ebfc1d2ddfe641c4",
+    "total_value": 5447372.15
+  },
+  {
+    "ewb_number": "454181305933",
+    "generation_date": "2024-12-07T00:00:00",
+    "validity": "2024-12-14T00:00:00",
+    "transporter_id": "06TJQJE3893TXZ3",
+    "vehicle_number": "TN49DB7430",
+    "distance_km": 142.2,
+    "invoice_uid": "36e5c529d6fc5c1c",
+    "total_value": 1204285.83
+  },
+  {
+    "ewb_number": "554154113551",
+    "generation_date": "2024-11-27T00:00:00",
+    "validity": "2024-11-30T00:00:00",
+    "transporter_id": "21YTUTC6252FOZB",
+    "vehicle_number": "DL74DF6047",
+    "distance_km": 674.3,
+    "invoice_uid": "eec57f3e21e8dc8a",
+    "total_value": 374704.7
+  },
+  {
+    "ewb_number": "301875008130",
+    "generation_date": "2024-08-05T00:00:00",
+    "validity": "2024-08-08T00:00:00",
+    "transporter_id": "21LEITO7972W9ZM",
+    "vehicle_number": "GJ72DC3445",
+    "distance_km": 79.9,
+    "invoice_uid": "2c0944118b372537",
+    "total_value": 2855647.54
+  },
+  {
+    "ewb_number": "118047431965",
+    "generation_date": "2024-07-06T00:00:00",
+    "validity": "2024-07-13T00:00:00",
+    "transporter_id": "14ZGKBS8510F6ZC",
+    "vehicle_number": "MH20CF1393",
+    "distance_km": 240.3,
+    "invoice_uid": "90271506fd6491cd",
+    "total_value": 223312.52
+  },
+  {
+    "ewb_number": "766214564707",
+    "generation_date": "2024-04-03T00:00:00",
+    "validity": "2024-04-04T00:00:00",
+    "transporter_id": "36DJCCB1747VTZN",
+    "vehicle_number": "DL26DA5810",
+    "distance_km": 1434.0,
+    "invoice_uid": "0ed9a471314ce352",
+    "total_value": 2182431.77
+  },
+  {
+    "ewb_number": "473326842305",
+    "generation_date": "2024-12-23T00:00:00",
+    "validity": "2024-12-24T00:00:00",
+    "transporter_id": "23OIDTJ3081LPZ2",
+    "vehicle_number": "MH95AD6656",
+    "distance_km": 329.2,
+    "invoice_uid": "ef99feac39a1ad44",
+    "total_value": 838890.35
+  },
+  {
+    "ewb_number": "710876663667",
+    "generation_date": "2024-06-12T00:00:00",
+    "validity": "2024-06-27T00:00:00",
+    "transporter_id": "15HEQJX7045N9ZG",
+    "vehicle_number": "DL37BF6233",
+    "distance_km": 660.0,
+    "invoice_uid": "74aeeac954f6c52e",
+    "total_value": 1126417.88
+  },
+  {
+    "ewb_number": "625065254734",
+    "generation_date": "2025-03-26T00:00:00",
+    "validity": "2025-03-27T00:00:00",
+    "transporter_id": "03DVMAD0017DEZV",
+    "vehicle_number": "MH95GD2644",
+    "distance_km": 1128.8,
+    "invoice_uid": "018b6484691479d4",
+    "total_value": 210118.47
+  },
+  {
+    "ewb_number": "595676106116",
+    "generation_date": "2024-04-07T00:00:00",
+    "validity": "2024-04-08T00:00:00",
+    "transporter_id": "20GMFBB8299PDZX",
+    "vehicle_number": "TN23BD1406",
+    "distance_km": 53.4,
+    "invoice_uid": "2cfe4ecd0b8fe735",
+    "total_value": 575892.17
+  },
+  {
+    "ewb_number": "266744344580",
+    "generation_date": "2024-08-08T00:00:00",
+    "validity": "2024-08-09T00:00:00",
+    "transporter_id": "30JBGCW8002N7ZT",
+    "vehicle_number": "KA43AB2908",
+    "distance_km": 135.9,
+    "invoice_uid": "eef3ce64b8535ecc",
+    "total_value": 176280.85
+  },
+  {
+    "ewb_number": "960689972178",
+    "generation_date": "2024-07-30T00:00:00",
+    "validity": "2024-08-14T00:00:00",
+    "transporter_id": "07QQFTO6835JRZ1",
+    "vehicle_number": "TN13CD8945",
+    "distance_km": 723.8,
+    "invoice_uid": "6018c94fcbbe9299",
+    "total_value": 4533082.35
+  },
+  {
+    "ewb_number": "253159918029",
+    "generation_date": "2024-09-13T00:00:00",
+    "validity": "2024-09-14T00:00:00",
+    "transporter_id": "02FBLPF1486VHZH",
+    "vehicle_number": "MH70BD7051",
+    "distance_km": 1714.0,
+    "invoice_uid": "fbbfc544bbd69ce0",
+    "total_value": 1080754.51
+  },
+  {
+    "ewb_number": "685421712263",
+    "generation_date": "2024-06-15T00:00:00",
+    "validity": "2024-06-18T00:00:00",
+    "transporter_id": "24EDYHQ5954QTZU",
+    "vehicle_number": "MH70CA1420",
+    "distance_km": 656.2,
+    "invoice_uid": "24fdd60ac04d4f29",
+    "total_value": 468630.93
+  },
+  {
+    "ewb_number": "231912971238",
+    "generation_date": "2025-01-14T00:00:00",
+    "validity": "2025-01-21T00:00:00",
+    "transporter_id": "19XCPBL4452PFZJ",
+    "vehicle_number": "KA93GF2753",
+    "distance_km": 1949.8,
+    "invoice_uid": "d84acca61d9f4de4",
+    "total_value": 1573402.74
+  },
+  {
+    "ewb_number": "693887535861",
+    "generation_date": "2025-02-07T00:00:00",
+    "validity": "2025-02-10T00:00:00",
+    "transporter_id": "09AZYFI5556NHZD",
+    "vehicle_number": "TN62CH2116",
+    "distance_km": 1068.0,
+    "invoice_uid": "2f9177c3155ac40d",
+    "total_value": 2264738.19
+  },
+  {
+    "ewb_number": "383117160219",
+    "generation_date": "2024-08-06T00:00:00",
+    "validity": "2024-08-13T00:00:00",
+    "transporter_id": "08OCIAF3974I7ZN",
+    "vehicle_number": "TN41AD5737",
+    "distance_km": 691.3,
+    "invoice_uid": "40b7d16716522eb7",
+    "total_value": 3471556.71
+  },
+  {
+    "ewb_number": "541807388998",
+    "generation_date": "2024-12-04T00:00:00",
+    "validity": "2024-12-19T00:00:00",
+    "transporter_id": "12VDHJI4812KQZU",
+    "vehicle_number": "TN34GD7485",
+    "distance_km": 1744.2,
+    "invoice_uid": "aa1794df19689832",
+    "total_value": 4055338.29
+  },
+  {
+    "ewb_number": "226062706275",
+    "generation_date": "2024-09-22T00:00:00",
+    "validity": "2024-09-23T00:00:00",
+    "transporter_id": "16MKSFT5782KRZN",
+    "vehicle_number": "DL13EF7101",
+    "distance_km": 1502.7,
+    "invoice_uid": "e440b11f8af2b436",
+    "total_value": 1372174.82
+  },
+  {
+    "ewb_number": "638435085484",
+    "generation_date": "2024-12-28T00:00:00",
+    "validity": "2025-01-12T00:00:00",
+    "transporter_id": "30IXOGY3278A9ZG",
+    "vehicle_number": "DL48EG7246",
+    "distance_km": 1960.4,
+    "invoice_uid": "ac98e6d2038d2133",
+    "total_value": 1314430.47
+  },
+  {
+    "ewb_number": "305538131650",
+    "generation_date": "2025-03-25T00:00:00",
+    "validity": "2025-03-26T00:00:00",
+    "transporter_id": "21EHZJN9463E5ZY",
+    "vehicle_number": "TN04BB3897",
+    "distance_km": 709.5,
+    "invoice_uid": "b7a45050ab0bb1f0",
+    "total_value": 348042.01
+  },
+  {
+    "ewb_number": "284051124552",
+    "generation_date": "2024-12-21T00:00:00",
+    "validity": "2025-01-05T00:00:00",
+    "transporter_id": "30BSXAG5274HNZQ",
+    "vehicle_number": "GJ94GA8556",
+    "distance_km": 1389.7,
+    "invoice_uid": "2088ca620ac20895",
+    "total_value": 5860911.51
+  },
+  {
+    "ewb_number": "913202833742",
+    "generation_date": "2024-08-14T00:00:00",
+    "validity": "2024-08-17T00:00:00",
+    "transporter_id": "34WVBCG1747T6Z7",
+    "vehicle_number": "TN57GD4979",
+    "distance_km": 1664.6,
+    "invoice_uid": "b246f99b4a491b0f",
+    "total_value": 1032461.43
+  },
+  {
+    "ewb_number": "374716056227",
+    "generation_date": "2025-01-10T00:00:00",
+    "validity": "2025-01-11T00:00:00",
+    "transporter_id": "18GSFLT9935EFZV",
+    "vehicle_number": "KA30EA1585",
+    "distance_km": 2146.0,
+    "invoice_uid": "b141efa6b46dfc2d",
+    "total_value": 2239823.32
+  },
+  {
+    "ewb_number": "781193699068",
+    "generation_date": "2024-11-29T00:00:00",
+    "validity": "2024-12-02T00:00:00",
+    "transporter_id": "17LUCHH6159QZZ9",
+    "vehicle_number": "TN80GC1998",
+    "distance_km": 772.1,
+    "invoice_uid": "74e6e0970aaadf86",
+    "total_value": 1691815.64
+  },
+  {
+    "ewb_number": "529625937520",
+    "generation_date": "2024-11-17T00:00:00",
+    "validity": "2024-11-20T00:00:00",
+    "transporter_id": "08YOZPQ9752E3ZA",
+    "vehicle_number": "MH02CD3879",
+    "distance_km": 2223.5,
+    "invoice_uid": "039cddafc1706fef",
+    "total_value": 1422077.2
+  },
+  {
+    "ewb_number": "522507406246",
+    "generation_date": "2024-04-16T00:00:00",
+    "validity": "2024-04-17T00:00:00",
+    "transporter_id": "04HXGPJ9660QVZR",
+    "vehicle_number": "KA54CD6158",
+    "distance_km": 780.2,
+    "invoice_uid": "24dcec7e2cba43fd",
+    "total_value": 4963710.17
+  },
+  {
+    "ewb_number": "920134729159",
+    "generation_date": "2024-04-02T00:00:00",
+    "validity": "2024-04-17T00:00:00",
+    "transporter_id": "01LBAAN4832CQZ9",
+    "vehicle_number": "KA39BB4683",
+    "distance_km": 2467.1,
+    "invoice_uid": "53e15aa34cdd05fb",
+    "total_value": 4326992.62
+  },
+  {
+    "ewb_number": "355670617698",
+    "generation_date": "2024-12-24T00:00:00",
+    "validity": "2025-01-08T00:00:00",
+    "transporter_id": "24ONQBP5667C2Z2",
+    "vehicle_number": "KA76GC6947",
+    "distance_km": 1139.3,
+    "invoice_uid": "b0fb59d98692b69c",
+    "total_value": 89924.18
+  },
+  {
+    "ewb_number": "254337606799",
+    "generation_date": "2025-02-18T00:00:00",
+    "validity": "2025-02-19T00:00:00",
+    "transporter_id": "19UJNBO4207PPZ3",
+    "vehicle_number": "GJ24BB9877",
+    "distance_km": 1685.7,
+    "invoice_uid": "1998166b53e1c957",
+    "total_value": 3406640.92
+  },
+  {
+    "ewb_number": "906255581929",
+    "generation_date": "2025-02-06T00:00:00",
+    "validity": "2025-02-13T00:00:00",
+    "transporter_id": "35GDVHV2483Y9ZX",
+    "vehicle_number": "MH74CC7015",
+    "distance_km": 1247.4,
+    "invoice_uid": "59c5601ff268ed2f",
+    "total_value": 2115394.95
+  },
+  {
+    "ewb_number": "246415819383",
+    "generation_date": "2025-03-27T00:00:00",
+    "validity": "2025-04-11T00:00:00",
+    "transporter_id": "04BYOHA4035W6Z7",
+    "vehicle_number": "MH74FA3916",
+    "distance_km": 2111.2,
+    "invoice_uid": "2bf6b2cd339f7f18",
+    "total_value": 2624811.16
+  },
+  {
+    "ewb_number": "425125274138",
+    "generation_date": "2024-07-05T00:00:00",
+    "validity": "2024-07-08T00:00:00",
+    "transporter_id": "17VDOJN5584EIZE",
+    "vehicle_number": "TN99BG2443",
+    "distance_km": 2398.7,
+    "invoice_uid": "cf75ec8e737d677b",
+    "total_value": 478222.46
+  },
+  {
+    "ewb_number": "717507562319",
+    "generation_date": "2024-11-29T00:00:00",
+    "validity": "2024-12-14T00:00:00",
+    "transporter_id": "16FEMGG9774QMZ9",
+    "vehicle_number": "DL54AG5472",
+    "distance_km": 2447.7,
+    "invoice_uid": "66e4184fd4cc0b90",
+    "total_value": 4748393.92
+  },
+  {
+    "ewb_number": "157269061722",
+    "generation_date": "2024-08-07T00:00:00",
+    "validity": "2024-08-22T00:00:00",
+    "transporter_id": "14VYSLL4309FCZQ",
+    "vehicle_number": "MH77AF6317",
+    "distance_km": 276.8,
+    "invoice_uid": "e5b0ec6b2ea87648",
+    "total_value": 5958161.6
+  },
+  {
+    "ewb_number": "528130831934",
+    "generation_date": "2024-07-29T00:00:00",
+    "validity": "2024-07-30T00:00:00",
+    "transporter_id": "06REQLW6939ICZ0",
+    "vehicle_number": "MH11CC8171",
+    "distance_km": 2253.8,
+    "invoice_uid": "bd7e32cadce17923",
+    "total_value": 5325889.98
+  },
+  {
+    "ewb_number": "820686697400",
+    "generation_date": "2024-05-01T00:00:00",
+    "validity": "2024-05-08T00:00:00",
+    "transporter_id": "09LXIJJ0804GUZX",
+    "vehicle_number": "GJ71AF6999",
+    "distance_km": 1613.3,
+    "invoice_uid": "f4e437ebe8bc0a19",
+    "total_value": 790385.48
+  },
+  {
+    "ewb_number": "483443659962",
+    "generation_date": "2024-04-05T00:00:00",
+    "validity": "2024-04-08T00:00:00",
+    "transporter_id": "07YWLPT6705UFZB",
+    "vehicle_number": "KA79CF6670",
+    "distance_km": 1902.3,
+    "invoice_uid": "4341ca831ee850eb",
+    "total_value": 1699129.54
+  },
+  {
+    "ewb_number": "736972670050",
+    "generation_date": "2024-10-26T00:00:00",
+    "validity": "2024-11-02T00:00:00",
+    "transporter_id": "23WAKJM7830F1ZH",
+    "vehicle_number": "MH64DG6129",
+    "distance_km": 645.2,
+    "invoice_uid": "8c1e0b8e94af2c5e",
+    "total_value": 3359935.56
+  },
+  {
+    "ewb_number": "563394101936",
+    "generation_date": "2025-01-01T00:00:00",
+    "validity": "2025-01-02T00:00:00",
+    "transporter_id": "06JATPR9521DPZG",
+    "vehicle_number": "TN57DC1106",
+    "distance_km": 711.2,
+    "invoice_uid": "7100f95aa4722e8d",
+    "total_value": 1085207.64
+  },
+  {
+    "ewb_number": "755819614864",
+    "generation_date": "2025-01-15T00:00:00",
+    "validity": "2025-01-18T00:00:00",
+    "transporter_id": "11ALCHF2701W7ZG",
+    "vehicle_number": "GJ93CB6776",
+    "distance_km": 2268.2,
+    "invoice_uid": "2d4805c9bc0ec587",
+    "total_value": 518664.83
+  },
+  {
+    "ewb_number": "282409173098",
+    "generation_date": "2024-05-25T00:00:00",
+    "validity": "2024-05-26T00:00:00",
+    "transporter_id": "26JNSHH4768CAZP",
+    "vehicle_number": "GJ75HC9340",
+    "distance_km": 697.5,
+    "invoice_uid": "77e31459115be27d",
+    "total_value": 2818100.68
+  },
+  {
+    "ewb_number": "195571449160",
+    "generation_date": "2024-05-20T00:00:00",
+    "validity": "2024-05-27T00:00:00",
+    "transporter_id": "13HZRCX8709L1ZY",
+    "vehicle_number": "DL95AC1591",
+    "distance_km": 1588.8,
+    "invoice_uid": "298f789e1115d3f5",
+    "total_value": 815819.48
+  },
+  {
+    "ewb_number": "200946068591",
+    "generation_date": "2024-06-07T00:00:00",
+    "validity": "2024-06-22T00:00:00",
+    "transporter_id": "31IBGFA6837HUZJ",
+    "vehicle_number": "TN46GB9802",
+    "distance_km": 568.4,
+    "invoice_uid": "15a864e395e7c09d",
+    "total_value": 4015178.34
+  },
+  {
+    "ewb_number": "232881503468",
+    "generation_date": "2024-05-16T00:00:00",
+    "validity": "2024-05-31T00:00:00",
+    "transporter_id": "03MNJPL9493YPZM",
+    "vehicle_number": "DL90GC2378",
+    "distance_km": 1430.1,
+    "invoice_uid": "6991f788ed03ffdf",
+    "total_value": 4027928.25
+  },
+  {
+    "ewb_number": "288319323762",
+    "generation_date": "2025-03-02T00:00:00",
+    "validity": "2025-03-17T00:00:00",
+    "transporter_id": "22DWDGE2769XLZQ",
+    "vehicle_number": "KA87CB9432",
+    "distance_km": 2126.9,
+    "invoice_uid": "99e763a7df7956db",
+    "total_value": 2315707.15
+  },
+  {
+    "ewb_number": "503250027385",
+    "generation_date": "2025-02-22T00:00:00",
+    "validity": "2025-02-23T00:00:00",
+    "transporter_id": "36JGGFB8208VWZ9",
+    "vehicle_number": "TN04FE7058",
+    "distance_km": 2160.3,
+    "invoice_uid": "420892e42136d960",
+    "total_value": 4274019.09
+  },
+  {
+    "ewb_number": "988896203186",
+    "generation_date": "2024-09-17T00:00:00",
+    "validity": "2024-09-18T00:00:00",
+    "transporter_id": "20LXDCK2060KXZG",
+    "vehicle_number": "MH44CG3336",
+    "distance_km": 814.5,
+    "invoice_uid": "ff326c8d11118162",
+    "total_value": 2368828.5
+  },
+  {
+    "ewb_number": "968647739826",
+    "generation_date": "2024-11-15T00:00:00",
+    "validity": "2024-11-18T00:00:00",
+    "transporter_id": "32YVHHJ2844VFZD",
+    "vehicle_number": "MH88AA9751",
+    "distance_km": 1617.6,
+    "invoice_uid": "e9e06c7a03e1db33",
+    "total_value": 666812.71
+  },
+  {
+    "ewb_number": "220467860194",
+    "generation_date": "2024-06-25T00:00:00",
+    "validity": "2024-07-10T00:00:00",
+    "transporter_id": "31FZWAW5788HUZ9",
+    "vehicle_number": "TN17GG6307",
+    "distance_km": 1022.8,
+    "invoice_uid": "1a4df94253d17172",
+    "total_value": 5218834.92
+  },
+  {
+    "ewb_number": "314513700839",
+    "generation_date": "2025-02-17T00:00:00",
+    "validity": "2025-02-18T00:00:00",
+    "transporter_id": "06LPFTW7723ZWZ4",
+    "vehicle_number": "DL05DB4245",
+    "distance_km": 951.4,
+    "invoice_uid": "5de1fcd584bafb24",
+    "total_value": 4280472.18
+  },
+  {
+    "ewb_number": "413538729384",
+    "generation_date": "2025-02-25T00:00:00",
+    "validity": "2025-03-04T00:00:00",
+    "transporter_id": "03WRVFZ3140LVZB",
+    "vehicle_number": "TN12AH1746",
+    "distance_km": 1283.5,
+    "invoice_uid": "06f7f7f8d167b638",
+    "total_value": 3396620.32
+  },
+  {
+    "ewb_number": "881353519565",
+    "generation_date": "2024-04-20T00:00:00",
+    "validity": "2024-04-27T00:00:00",
+    "transporter_id": "10NGKFK4219GAZS",
+    "vehicle_number": "DL92AB5784",
+    "distance_km": 641.9,
+    "invoice_uid": "8ed918390a6cf74e",
+    "total_value": 80397.16
+  },
+  {
+    "ewb_number": "979886298600",
+    "generation_date": "2024-09-29T00:00:00",
+    "validity": "2024-10-02T00:00:00",
+    "transporter_id": "21BQNGM6412PFZM",
+    "vehicle_number": "GJ40BF3432",
+    "distance_km": 43.7,
+    "invoice_uid": "035d0813200e5f57",
+    "total_value": 338356.02
+  },
+  {
+    "ewb_number": "181913705965",
+    "generation_date": "2024-08-25T00:00:00",
+    "validity": "2024-09-01T00:00:00",
+    "transporter_id": "34IHOBS7523RNZC",
+    "vehicle_number": "DL08HA3246",
+    "distance_km": 55.2,
+    "invoice_uid": "c4a5d55cbb8f11cf",
+    "total_value": 1353417.26
+  },
+  {
+    "ewb_number": "581602635495",
+    "generation_date": "2024-09-05T00:00:00",
+    "validity": "2024-09-20T00:00:00",
+    "transporter_id": "14RAYTQ5453UKZ6",
+    "vehicle_number": "DL15BG6387",
+    "distance_km": 778.8,
+    "invoice_uid": "5bfc4cdc4b340789",
+    "total_value": 4939266.18
+  },
+  {
+    "ewb_number": "540218736668",
+    "generation_date": "2024-06-21T00:00:00",
+    "validity": "2024-06-28T00:00:00",
+    "transporter_id": "17OPYBN8336BMZ9",
+    "vehicle_number": "MH03GD6783",
+    "distance_km": 793.7,
+    "invoice_uid": "a26b3da5e3741e7d",
+    "total_value": 3282587.22
+  },
+  {
+    "ewb_number": "190140403398",
+    "generation_date": "2024-11-24T00:00:00",
+    "validity": "2024-12-01T00:00:00",
+    "transporter_id": "30PXQPS7632VGZI",
+    "vehicle_number": "KA43EE4627",
+    "distance_km": 775.4,
+    "invoice_uid": "12fb2b7aff45cfa3",
+    "total_value": 467647.97
+  },
+  {
+    "ewb_number": "735605025382",
+    "generation_date": "2025-02-06T00:00:00",
+    "validity": "2025-02-13T00:00:00",
+    "transporter_id": "33CEZTO1614BLZT",
+    "vehicle_number": "KA67FD5703",
+    "distance_km": 1579.4,
+    "invoice_uid": "f3bb92e7d88a46bd",
+    "total_value": 4919518.15
+  },
+  {
+    "ewb_number": "246486886567",
+    "generation_date": "2025-01-25T00:00:00",
+    "validity": "2025-01-26T00:00:00",
+    "transporter_id": "33FWILL5515U1ZY",
+    "vehicle_number": "GJ56BD2126",
+    "distance_km": 660.1,
+    "invoice_uid": "ff3075e1700fd696",
+    "total_value": 4811361.41
+  },
+  {
+    "ewb_number": "430792868853",
+    "generation_date": "2024-05-08T00:00:00",
+    "validity": "2024-05-11T00:00:00",
+    "transporter_id": "21RSKLZ8807UAZ1",
+    "vehicle_number": "GJ36GA3506",
+    "distance_km": 2216.4,
+    "invoice_uid": "c7b1166d5c9811d7",
+    "total_value": 5513915.28
+  },
+  {
+    "ewb_number": "531309739699",
+    "generation_date": "2024-08-13T00:00:00",
+    "validity": "2024-08-20T00:00:00",
+    "transporter_id": "09ETSCG2517A2ZI",
+    "vehicle_number": "DL43GB4531",
+    "distance_km": 519.0,
+    "invoice_uid": "653984dc00e49499",
+    "total_value": 5861934.88
+  },
+  {
+    "ewb_number": "772633421681",
+    "generation_date": "2025-03-21T00:00:00",
+    "validity": "2025-03-28T00:00:00",
+    "transporter_id": "15TIXAF2309FHZ9",
+    "vehicle_number": "TN22DA4551",
+    "distance_km": 684.4,
+    "invoice_uid": "630b2305427e8777",
+    "total_value": 3754203.35
+  },
+  {
+    "ewb_number": "826961626902",
+    "generation_date": "2025-01-02T00:00:00",
+    "validity": "2025-01-17T00:00:00",
+    "transporter_id": "12SYVJU6484THZB",
+    "vehicle_number": "MH50FD9795",
+    "distance_km": 2182.3,
+    "invoice_uid": "801ac945fa1a925c",
+    "total_value": 2934790.23
+  },
+  {
+    "ewb_number": "242162256507",
+    "generation_date": "2024-06-19T00:00:00",
+    "validity": "2024-06-20T00:00:00",
+    "transporter_id": "04CBNPB2364X5ZV",
+    "vehicle_number": "TN07HE1590",
+    "distance_km": 1996.9,
+    "invoice_uid": "ec41cb908fe5752c",
+    "total_value": 3832815.63
+  },
+  {
+    "ewb_number": "495229178479",
+    "generation_date": "2024-09-29T00:00:00",
+    "validity": "2024-10-06T00:00:00",
+    "transporter_id": "13DCEHV8568G1ZK",
+    "vehicle_number": "GJ26DE5823",
+    "distance_km": 762.1,
+    "invoice_uid": "bcb4246096aca576",
+    "total_value": 3529722.12
+  },
+  {
+    "ewb_number": "964102178870",
+    "generation_date": "2025-02-01T00:00:00",
+    "validity": "2025-02-16T00:00:00",
+    "transporter_id": "29MQXLN6295KFZ2",
+    "vehicle_number": "KA24HH8768",
+    "distance_km": 804.1,
+    "invoice_uid": "1a9518d2760c1b99",
+    "total_value": 4842936.74
+  },
+  {
+    "ewb_number": "930285058716",
+    "generation_date": "2025-01-03T00:00:00",
+    "validity": "2025-01-18T00:00:00",
+    "transporter_id": "03GGRCU4876FSZO",
+    "vehicle_number": "TN10FE9427",
+    "distance_km": 77.4,
+    "invoice_uid": "4a43e3095a1dc583",
+    "total_value": 745140.55
+  },
+  {
+    "ewb_number": "921936967531",
+    "generation_date": "2025-01-01T00:00:00",
+    "validity": "2025-01-08T00:00:00",
+    "transporter_id": "20NXCHR1444M1ZO",
+    "vehicle_number": "MH98BF5294",
+    "distance_km": 1395.1,
+    "invoice_uid": "a2a369832eb7f2f4",
+    "total_value": 229953.51
+  },
+  {
+    "ewb_number": "822826650548",
+    "generation_date": "2025-01-17T00:00:00",
+    "validity": "2025-01-20T00:00:00",
+    "transporter_id": "11CDYCF0130JHZ4",
+    "vehicle_number": "GJ28BE8956",
+    "distance_km": 2344.8,
+    "invoice_uid": "96942d680f8a25eb",
+    "total_value": 5401940.67
+  },
+  {
+    "ewb_number": "340763037805",
+    "generation_date": "2024-11-28T00:00:00",
+    "validity": "2024-12-13T00:00:00",
+    "transporter_id": "22KARCW0097RDZV",
+    "vehicle_number": "GJ51DB1063",
+    "distance_km": 811.2,
+    "invoice_uid": "86430c94a53b87a6",
+    "total_value": 2635082.79
+  },
+  {
+    "ewb_number": "579989595690",
+    "generation_date": "2025-03-30T00:00:00",
+    "validity": "2025-04-02T00:00:00",
+    "transporter_id": "33WEOFQ6379GRZ7",
+    "vehicle_number": "MH65FB9885",
+    "distance_km": 2283.5,
+    "invoice_uid": "d370696ca94b6893",
+    "total_value": 4676652.46
+  },
+  {
+    "ewb_number": "607608590990",
+    "generation_date": "2024-11-09T00:00:00",
+    "validity": "2024-11-10T00:00:00",
+    "transporter_id": "24NIYAM9436NBZF",
+    "vehicle_number": "MH82BE5052",
+    "distance_km": 1928.1,
+    "invoice_uid": "5ed7c55e90fcdcb8",
+    "total_value": 1798566.95
+  },
+  {
+    "ewb_number": "250728444681",
+    "generation_date": "2025-01-29T00:00:00",
+    "validity": "2025-02-05T00:00:00",
+    "transporter_id": "01LINTF3224UTZQ",
+    "vehicle_number": "KA18AH5392",
+    "distance_km": 1572.2,
+    "invoice_uid": "3b513943ac55cdad",
+    "total_value": 3419872.98
+  },
+  {
+    "ewb_number": "476367613710",
+    "generation_date": "2024-11-11T00:00:00",
+    "validity": "2024-11-14T00:00:00",
+    "transporter_id": "11KPVBM2502AXZ4",
+    "vehicle_number": "TN02FC2937",
+    "distance_km": 2090.9,
+    "invoice_uid": "cd0a447a52d277b2",
+    "total_value": 3248763.75
+  },
+  {
+    "ewb_number": "833902253367",
+    "generation_date": "2024-11-21T00:00:00",
+    "validity": "2024-11-22T00:00:00",
+    "transporter_id": "23IHVPH6728DRZA",
+    "vehicle_number": "DL02CH7071",
+    "distance_km": 2288.8,
+    "invoice_uid": "fa2eb5eab53a464a",
+    "total_value": 2083348.46
+  },
+  {
+    "ewb_number": "696909177123",
+    "generation_date": "2025-01-29T00:00:00",
+    "validity": "2025-02-05T00:00:00",
+    "transporter_id": "03LONJX9651U2ZK",
+    "vehicle_number": "MH81DG7100",
+    "distance_km": 2222.5,
+    "invoice_uid": "ce3eb6c14dd638d3",
+    "total_value": 2100516.74
+  },
+  {
+    "ewb_number": "301241158201",
+    "generation_date": "2024-12-04T00:00:00",
+    "validity": "2024-12-05T00:00:00",
+    "transporter_id": "37PIFGO7239JJZE",
+    "vehicle_number": "KA48DG6345",
+    "distance_km": 435.1,
+    "invoice_uid": "743433534ec5c736",
+    "total_value": 3925459.39
+  },
+  {
+    "ewb_number": "202849455223",
+    "generation_date": "2024-04-04T00:00:00",
+    "validity": "2024-04-05T00:00:00",
+    "transporter_id": "37YUGCU9442UGZY",
+    "vehicle_number": "GJ45FF6320",
+    "distance_km": 435.7,
+    "invoice_uid": "3403999edc9938ad",
+    "total_value": 4899776.61
+  },
+  {
+    "ewb_number": "683573720815",
+    "generation_date": "2024-10-25T00:00:00",
+    "validity": "2024-11-01T00:00:00",
+    "transporter_id": "14CULHS3851J3ZL",
+    "vehicle_number": "KA30HA4641",
+    "distance_km": 496.1,
+    "invoice_uid": "259c0b2109c67228",
+    "total_value": 5474016.04
+  },
+  {
+    "ewb_number": "298914800075",
+    "generation_date": "2024-04-20T00:00:00",
+    "validity": "2024-04-21T00:00:00",
+    "transporter_id": "35LHIFK7485D7Z9",
+    "vehicle_number": "KA55HD5792",
+    "distance_km": 705.2,
+    "invoice_uid": "a172a79f355130b1",
+    "total_value": 2799782.34
+  },
+  {
+    "ewb_number": "746863269470",
+    "generation_date": "2024-10-21T00:00:00",
+    "validity": "2024-10-22T00:00:00",
+    "transporter_id": "22RCNPK4552VBZ3",
+    "vehicle_number": "MH91BG9553",
+    "distance_km": 733.4,
+    "invoice_uid": "3f83a5a09891ad95",
+    "total_value": 4893819.04
+  },
+  {
+    "ewb_number": "743150704136",
+    "generation_date": "2025-03-10T00:00:00",
+    "validity": "2025-03-25T00:00:00",
+    "transporter_id": "06TPXBE2569OUZJ",
+    "vehicle_number": "MH43EE6385",
+    "distance_km": 2029.1,
+    "invoice_uid": "d05effd815b345eb",
+    "total_value": 4273088.61
+  },
+  {
+    "ewb_number": "641105062782",
+    "generation_date": "2024-12-11T00:00:00",
+    "validity": "2024-12-12T00:00:00",
+    "transporter_id": "11HXOAX7688S7ZH",
+    "vehicle_number": "TN60AF6171",
+    "distance_km": 378.0,
+    "invoice_uid": "719d4c4fbbf4d2e1",
+    "total_value": 3086689.26
+  },
+  {
+    "ewb_number": "730728107673",
+    "generation_date": "2024-10-09T00:00:00",
+    "validity": "2024-10-24T00:00:00",
+    "transporter_id": "07HQIBH7005RXZ5",
+    "vehicle_number": "MH06EF1999",
+    "distance_km": 2199.5,
+    "invoice_uid": "c53657384c917547",
+    "total_value": 3297412.29
+  },
+  {
+    "ewb_number": "368729016755",
+    "generation_date": "2025-03-23T00:00:00",
+    "validity": "2025-03-26T00:00:00",
+    "transporter_id": "06JUBAU3387NOZX",
+    "vehicle_number": "KA58DB6477",
+    "distance_km": 2153.3,
+    "invoice_uid": "73b21549157e8c7e",
+    "total_value": 2928111.66
+  },
+  {
+    "ewb_number": "671991242561",
+    "generation_date": "2024-07-05T00:00:00",
+    "validity": "2024-07-06T00:00:00",
+    "transporter_id": "14JGBLC0194KMZ5",
+    "vehicle_number": "GJ82EG5351",
+    "distance_km": 116.7,
+    "invoice_uid": "b4596420b25d40e4",
+    "total_value": 1820952.06
+  },
+  {
+    "ewb_number": "360734201106",
+    "generation_date": "2024-12-10T00:00:00",
+    "validity": "2024-12-17T00:00:00",
+    "transporter_id": "08NXDJD4809Z7ZF",
+    "vehicle_number": "TN35AD5998",
+    "distance_km": 2368.3,
+    "invoice_uid": "0ee54db8d7d35da4",
+    "total_value": 1535626.64
+  },
+  {
+    "ewb_number": "125638054077",
+    "generation_date": "2025-02-28T00:00:00",
+    "validity": "2025-03-03T00:00:00",
+    "transporter_id": "06OKJCB9088H3Z7",
+    "vehicle_number": "KA58HC1119",
+    "distance_km": 678.6,
+    "invoice_uid": "cff15252fd2d0d04",
+    "total_value": 5049493.14
+  },
+  {
+    "ewb_number": "298447615729",
+    "generation_date": "2025-01-15T00:00:00",
+    "validity": "2025-01-18T00:00:00",
+    "transporter_id": "12JZVCF2286GRZ1",
+    "vehicle_number": "MH14AA4152",
+    "distance_km": 770.6,
+    "invoice_uid": "6f94d8c098c70ca5",
+    "total_value": 942401.81
+  },
+  {
+    "ewb_number": "727366209827",
+    "generation_date": "2025-01-05T00:00:00",
+    "validity": "2025-01-12T00:00:00",
+    "transporter_id": "09FYPAK4600HMZG",
+    "vehicle_number": "GJ02AH4542",
+    "distance_km": 1542.2,
+    "invoice_uid": "174170a2f3ded30a",
+    "total_value": 2647690.38
+  },
+  {
+    "ewb_number": "598243215953",
+    "generation_date": "2024-05-26T00:00:00",
+    "validity": "2024-06-02T00:00:00",
+    "transporter_id": "24HKZCH7279FAZU",
+    "vehicle_number": "MH83GA3360",
+    "distance_km": 862.4,
+    "invoice_uid": "1f5be451b74da493",
+    "total_value": 3189703.77
+  },
+  {
+    "ewb_number": "813303456114",
+    "generation_date": "2024-08-18T00:00:00",
+    "validity": "2024-09-02T00:00:00",
+    "transporter_id": "26PHOCI9835D3ZC",
+    "vehicle_number": "DL14BB6237",
+    "distance_km": 2388.2,
+    "invoice_uid": "28c68514aebe8613",
+    "total_value": 4748540.4
+  },
+  {
+    "ewb_number": "136815974620",
+    "generation_date": "2025-03-26T00:00:00",
+    "validity": "2025-04-10T00:00:00",
+    "transporter_id": "13HWDLJ0477YQZ5",
+    "vehicle_number": "GJ94CD6341",
+    "distance_km": 2449.3,
+    "invoice_uid": "9460b057e5570393",
+    "total_value": 4688386.11
+  },
+  {
+    "ewb_number": "116605288146",
+    "generation_date": "2024-06-20T00:00:00",
+    "validity": "2024-06-27T00:00:00",
+    "transporter_id": "27XAFFA0052JUZC",
+    "vehicle_number": "DL76BA1055",
+    "distance_km": 1295.2,
+    "invoice_uid": "2cc262a35c36e865",
+    "total_value": 1255277.2
+  },
+  {
+    "ewb_number": "698289810058",
+    "generation_date": "2024-04-02T00:00:00",
+    "validity": "2024-04-03T00:00:00",
+    "transporter_id": "35YWOJI3005SIZA",
+    "vehicle_number": "DL32GB2585",
+    "distance_km": 1810.3,
+    "invoice_uid": "d02b9d90e0adead9",
+    "total_value": 2898645.65
+  },
+  {
+    "ewb_number": "495430825350",
+    "generation_date": "2025-03-06T00:00:00",
+    "validity": "2025-03-09T00:00:00",
+    "transporter_id": "18IGKAO3962SQZA",
+    "vehicle_number": "TN57CA2564",
+    "distance_km": 155.8,
+    "invoice_uid": "80c953d0be9f73b7",
+    "total_value": 3276770.93
+  },
+  {
+    "ewb_number": "351116296678",
+    "generation_date": "2024-12-16T00:00:00",
+    "validity": "2024-12-23T00:00:00",
+    "transporter_id": "09QFIFL9021DMZ3",
+    "vehicle_number": "MH71BG2137",
+    "distance_km": 1574.6,
+    "invoice_uid": "b0a1bfaf2eeb2c70",
+    "total_value": 5155731.74
+  },
+  {
+    "ewb_number": "196457583439",
+    "generation_date": "2024-04-10T00:00:00",
+    "validity": "2024-04-11T00:00:00",
+    "transporter_id": "09CWXFE5960C2ZO",
+    "vehicle_number": "KA69FA9155",
+    "distance_km": 1841.2,
+    "invoice_uid": "6284a66d8821632a",
+    "total_value": 4260003.3
+  },
+  {
+    "ewb_number": "711387402001",
+    "generation_date": "2024-09-04T00:00:00",
+    "validity": "2024-09-19T00:00:00",
+    "transporter_id": "27CZNCK7714FTZ1",
+    "vehicle_number": "MH66GG7347",
+    "distance_km": 2338.0,
+    "invoice_uid": "42aa350887441e2f",
+    "total_value": 5273743.83
+  },
+  {
+    "ewb_number": "720625344997",
+    "generation_date": "2024-06-06T00:00:00",
+    "validity": "2024-06-21T00:00:00",
+    "transporter_id": "26ZZDHI8334XAZY",
+    "vehicle_number": "MH20BF8091",
+    "distance_km": 2110.3,
+    "invoice_uid": "31099aac34307413",
+    "total_value": 5803053.35
+  },
+  {
+    "ewb_number": "171829100298",
+    "generation_date": "2025-03-20T00:00:00",
+    "validity": "2025-03-27T00:00:00",
+    "transporter_id": "03PKALM2730DCZF",
+    "vehicle_number": "MH21FE4212",
+    "distance_km": 1644.7,
+    "invoice_uid": "54a128ed4ce7e803",
+    "total_value": 4726310.89
+  },
+  {
+    "ewb_number": "753286149034",
+    "generation_date": "2024-08-01T00:00:00",
+    "validity": "2024-08-16T00:00:00",
+    "transporter_id": "08OPPAC0292PGZG",
+    "vehicle_number": "MH97HB8645",
+    "distance_km": 1907.2,
+    "invoice_uid": "bda9b0ab7f178490",
+    "total_value": 840450.03
+  },
+  {
+    "ewb_number": "615493287013",
+    "generation_date": "2024-09-29T00:00:00",
+    "validity": "2024-10-02T00:00:00",
+    "transporter_id": "15ORVPX0147WUZ9",
+    "vehicle_number": "MH54BG1450",
+    "distance_km": 1385.8,
+    "invoice_uid": "2e30ac365cd2fe21",
+    "total_value": 5768865.05
+  },
+  {
+    "ewb_number": "589799437875",
+    "generation_date": "2025-01-31T00:00:00",
+    "validity": "2025-02-15T00:00:00",
+    "transporter_id": "23OCXCZ2075ZUZH",
+    "vehicle_number": "GJ05AC5208",
+    "distance_km": 1676.1,
+    "invoice_uid": "6561fb66b1c7bc2c",
+    "total_value": 3327536.71
+  },
+  {
+    "ewb_number": "550278914838",
+    "generation_date": "2024-06-02T00:00:00",
+    "validity": "2024-06-09T00:00:00",
+    "transporter_id": "17VKAAG1098QBZS",
+    "vehicle_number": "KA28BD3243",
+    "distance_km": 728.5,
+    "invoice_uid": "95ed57dec7e0f69e",
+    "total_value": 3452462.74
+  },
+  {
+    "ewb_number": "420826694967",
+    "generation_date": "2024-04-06T00:00:00",
+    "validity": "2024-04-21T00:00:00",
+    "transporter_id": "18SGRTK2503DWZ0",
+    "vehicle_number": "TN34CH9283",
+    "distance_km": 2052.5,
+    "invoice_uid": "862cd31ce2f52086",
+    "total_value": 5842509.73
+  },
+  {
+    "ewb_number": "209550397894",
+    "generation_date": "2024-05-27T00:00:00",
+    "validity": "2024-06-03T00:00:00",
+    "transporter_id": "10JEWAY6517AJZI",
+    "vehicle_number": "KA56FE7927",
+    "distance_km": 1935.2,
+    "invoice_uid": "bf24345b1cad49bc",
+    "total_value": 3058156.96
+  },
+  {
+    "ewb_number": "605542036803",
+    "generation_date": "2024-05-02T00:00:00",
+    "validity": "2024-05-05T00:00:00",
+    "transporter_id": "12JEEGY7641OYZ9",
+    "vehicle_number": "KA06HG8022",
+    "distance_km": 634.2,
+    "invoice_uid": "ff154a8a2c393c76",
+    "total_value": 2737319.75
+  },
+  {
+    "ewb_number": "838287358318",
+    "generation_date": "2025-03-28T00:00:00",
+    "validity": "2025-03-29T00:00:00",
+    "transporter_id": "16UNYLS6167YHZC",
+    "vehicle_number": "MH45AC8770",
+    "distance_km": 508.0,
+    "invoice_uid": "9033a664792d939e",
+    "total_value": 5564234.04
+  },
+  {
+    "ewb_number": "598775573920",
+    "generation_date": "2024-07-08T00:00:00",
+    "validity": "2024-07-11T00:00:00",
+    "transporter_id": "34ESECP1788USZM",
+    "vehicle_number": "GJ16HB7929",
+    "distance_km": 419.3,
+    "invoice_uid": "f5b3aa3ed4847aba",
+    "total_value": 2654894.74
+  },
+  {
+    "ewb_number": "130868705010",
+    "generation_date": "2024-08-16T00:00:00",
+    "validity": "2024-08-19T00:00:00",
+    "transporter_id": "34TZZPA0926I5ZL",
+    "vehicle_number": "MH55AB8382",
+    "distance_km": 1166.7,
+    "invoice_uid": "591ce64aa671929f",
+    "total_value": 2385178.17
+  },
+  {
+    "ewb_number": "588692201179",
+    "generation_date": "2024-07-09T00:00:00",
+    "validity": "2024-07-24T00:00:00",
+    "transporter_id": "23ZXAFS0392FLZ1",
+    "vehicle_number": "MH90DD3084",
+    "distance_km": 1160.4,
+    "invoice_uid": "9065a1f5751f46c7",
+    "total_value": 5233987.55
+  },
+  {
+    "ewb_number": "923016359341",
+    "generation_date": "2025-01-19T00:00:00",
+    "validity": "2025-01-26T00:00:00",
+    "transporter_id": "29ASNPN3079Y2Z5",
+    "vehicle_number": "DL06AB3814",
+    "distance_km": 1491.6,
+    "invoice_uid": "cd88dcc37b142ead",
+    "total_value": 4604779.24
+  },
+  {
+    "ewb_number": "267678688651",
+    "generation_date": "2024-04-17T00:00:00",
+    "validity": "2024-04-24T00:00:00",
+    "transporter_id": "03XUIAD6792ZFZD",
+    "vehicle_number": "TN75ED4172",
+    "distance_km": 1890.1,
+    "invoice_uid": "c92ee3b7fdc536b8",
+    "total_value": 1529257.9
+  },
+  {
+    "ewb_number": "534568276228",
+    "generation_date": "2024-04-29T00:00:00",
+    "validity": "2024-05-14T00:00:00",
+    "transporter_id": "10BFMFX4982KXZH",
+    "vehicle_number": "TN33GB3324",
+    "distance_km": 1756.0,
+    "invoice_uid": "6d414d08627bd51f",
+    "total_value": 799760.7
+  },
+  {
+    "ewb_number": "300105536077",
+    "generation_date": "2025-01-23T00:00:00",
+    "validity": "2025-01-24T00:00:00",
+    "transporter_id": "11HOMLP6812HSZ8",
+    "vehicle_number": "KA13FA3718",
+    "distance_km": 857.3,
+    "invoice_uid": "a6a127a6d138f00d",
+    "total_value": 1678055.64
+  },
+  {
+    "ewb_number": "629989938815",
+    "generation_date": "2024-04-30T00:00:00",
+    "validity": "2024-05-03T00:00:00",
+    "transporter_id": "11RUJFY6337MBZV",
+    "vehicle_number": "DL24FA2741",
+    "distance_km": 1337.9,
+    "invoice_uid": "c1c78c07cb95dabe",
+    "total_value": 1968693.29
+  },
+  {
+    "ewb_number": "413907088704",
+    "generation_date": "2024-06-28T00:00:00",
+    "validity": "2024-07-01T00:00:00",
+    "transporter_id": "17PUPLM1604AMZ8",
+    "vehicle_number": "MH75FG4181",
+    "distance_km": 470.9,
+    "invoice_uid": "74d3a587709c3834",
+    "total_value": 2426710.82
+  },
+  {
+    "ewb_number": "141485414843",
+    "generation_date": "2024-05-14T00:00:00",
+    "validity": "2024-05-21T00:00:00",
+    "transporter_id": "36KKYLB4412WNZL",
+    "vehicle_number": "MH02FD8586",
+    "distance_km": 441.9,
+    "invoice_uid": "49957577545d0ca5",
+    "total_value": 1153751.03
+  },
+  {
+    "ewb_number": "483923215645",
+    "generation_date": "2024-07-11T00:00:00",
+    "validity": "2024-07-18T00:00:00",
+    "transporter_id": "29XHXFO1485P3ZY",
+    "vehicle_number": "TN89DE5789",
+    "distance_km": 458.4,
+    "invoice_uid": "6639e4e69f31efac",
+    "total_value": 677575.23
+  },
+  {
+    "ewb_number": "865791722845",
+    "generation_date": "2024-05-06T00:00:00",
+    "validity": "2024-05-09T00:00:00",
+    "transporter_id": "23BEOJJ2271ISZ2",
+    "vehicle_number": "KA26GE8350",
+    "distance_km": 1430.0,
+    "invoice_uid": "bf207e433d51c3ef",
+    "total_value": 1934776.62
+  },
+  {
+    "ewb_number": "876246371062",
+    "generation_date": "2024-12-31T00:00:00",
+    "validity": "2025-01-07T00:00:00",
+    "transporter_id": "18BAYTK2863XCZM",
+    "vehicle_number": "MH51ED6263",
+    "distance_km": 1952.8,
+    "invoice_uid": "0857d87c8e409f5a",
+    "total_value": 3913393.08
+  },
+  {
+    "ewb_number": "843593587523",
+    "generation_date": "2024-05-10T00:00:00",
+    "validity": "2024-05-25T00:00:00",
+    "transporter_id": "03TKYBL6803Q4ZK",
+    "vehicle_number": "DL58HC2802",
+    "distance_km": 37.6,
+    "invoice_uid": "f6a8c40084714f23",
+    "total_value": 3964960.67
+  },
+  {
+    "ewb_number": "334788132057",
+    "generation_date": "2024-08-27T00:00:00",
+    "validity": "2024-08-28T00:00:00",
+    "transporter_id": "18VMUBR9114P6ZZ",
+    "vehicle_number": "GJ03HG6391",
+    "distance_km": 552.9,
+    "invoice_uid": "243822d1e42783b7",
+    "total_value": 2144462.71
+  },
+  {
+    "ewb_number": "849048621723",
+    "generation_date": "2024-11-28T00:00:00",
+    "validity": "2024-12-13T00:00:00",
+    "transporter_id": "33AKEAY0759ADZU",
+    "vehicle_number": "GJ75CB9790",
+    "distance_km": 2326.9,
+    "invoice_uid": "b4daf8941c77ca4f",
+    "total_value": 3379086.95
+  },
+  {
+    "ewb_number": "852918448099",
+    "generation_date": "2024-07-29T00:00:00",
+    "validity": "2024-07-30T00:00:00",
+    "transporter_id": "31CJOLO0316RDZR",
+    "vehicle_number": "MH48EC5449",
+    "distance_km": 587.7,
+    "invoice_uid": "3d995a0fde17a89a",
+    "total_value": 534651.71
+  },
+  {
+    "ewb_number": "797444125402",
+    "generation_date": "2024-04-28T00:00:00",
+    "validity": "2024-05-13T00:00:00",
+    "transporter_id": "07YHFBK8587BPZN",
+    "vehicle_number": "KA99CB6383",
+    "distance_km": 13.7,
+    "invoice_uid": "f61a6d961eff4a67",
+    "total_value": 4383979.26
+  },
+  {
+    "ewb_number": "802302664365",
+    "generation_date": "2024-04-28T00:00:00",
+    "validity": "2024-04-29T00:00:00",
+    "transporter_id": "21LKNTN5678Q2ZP",
+    "vehicle_number": "MH59CF4012",
+    "distance_km": 1607.5,
+    "invoice_uid": "fde13b7068b05396",
+    "total_value": 5766253.31
+  },
+  {
+    "ewb_number": "815671319941",
+    "generation_date": "2025-01-29T00:00:00",
+    "validity": "2025-02-01T00:00:00",
+    "transporter_id": "10QINJA0078VKZC",
+    "vehicle_number": "DL85FD7681",
+    "distance_km": 1495.7,
+    "invoice_uid": "aafd0c1c03b17b08",
+    "total_value": 4028015.61
+  },
+  {
+    "ewb_number": "507118974374",
+    "generation_date": "2025-01-08T00:00:00",
+    "validity": "2025-01-15T00:00:00",
+    "transporter_id": "16RZWGQ5185PYZ7",
+    "vehicle_number": "KA36GG3494",
+    "distance_km": 2497.7,
+    "invoice_uid": "232c7859799a11e0",
+    "total_value": 3362777.2
+  },
+  {
+    "ewb_number": "246776983714",
+    "generation_date": "2024-10-24T00:00:00",
+    "validity": "2024-10-25T00:00:00",
+    "transporter_id": "05YENCF9513MUZG",
+    "vehicle_number": "GJ75GC4098",
+    "distance_km": 2232.4,
+    "invoice_uid": "194ba9cc9f5ef57d",
+    "total_value": 3565949.07
+  },
+  {
+    "ewb_number": "682410976522",
+    "generation_date": "2024-09-12T00:00:00",
+    "validity": "2024-09-15T00:00:00",
+    "transporter_id": "32ZPECM0002UQZB",
+    "vehicle_number": "DL79BE4716",
+    "distance_km": 2133.7,
+    "invoice_uid": "c6d3fa6afaaa7102",
+    "total_value": 4335655.65
+  },
+  {
+    "ewb_number": "722903317038",
+    "generation_date": "2024-09-01T00:00:00",
+    "validity": "2024-09-16T00:00:00",
+    "transporter_id": "37ZLYBT9561S3ZD",
+    "vehicle_number": "KA52CA2395",
+    "distance_km": 1189.9,
+    "invoice_uid": "0b80abd2f42d984f",
+    "total_value": 94524.32
+  },
+  {
+    "ewb_number": "229955520540",
+    "generation_date": "2024-12-26T00:00:00",
+    "validity": "2024-12-29T00:00:00",
+    "transporter_id": "34IZRJV6800PDZ8",
+    "vehicle_number": "DL10HF2017",
+    "distance_km": 572.1,
+    "invoice_uid": "c7d03153b4cbb3d5",
+    "total_value": 3374543.79
+  },
+  {
+    "ewb_number": "702526406980",
+    "generation_date": "2025-02-13T00:00:00",
+    "validity": "2025-02-14T00:00:00",
+    "transporter_id": "33UMAPN8730ARZ9",
+    "vehicle_number": "KA10BH1558",
+    "distance_km": 2443.9,
+    "invoice_uid": "80fd33b5826c3be1",
+    "total_value": 3137928.72
+  },
+  {
+    "ewb_number": "979258460205",
+    "generation_date": "2025-03-03T00:00:00",
+    "validity": "2025-03-18T00:00:00",
+    "transporter_id": "16RGRLB6802S1ZK",
+    "vehicle_number": "KA41EB9840",
+    "distance_km": 698.0,
+    "invoice_uid": "968ffee784d7d2cd",
+    "total_value": 5097040.73
+  },
+  {
+    "ewb_number": "520482862419",
+    "generation_date": "2024-07-17T00:00:00",
+    "validity": "2024-07-24T00:00:00",
+    "transporter_id": "32RSFFX2710GKZJ",
+    "vehicle_number": "KA03AG8985",
+    "distance_km": 116.0,
+    "invoice_uid": "56c5baa83422c92a",
+    "total_value": 2009397.79
+  },
+  {
+    "ewb_number": "344236118692",
+    "generation_date": "2024-04-22T00:00:00",
+    "validity": "2024-04-23T00:00:00",
+    "transporter_id": "22CRXLM1323BBZ1",
+    "vehicle_number": "TN31CB2825",
+    "distance_km": 1489.1,
+    "invoice_uid": "40aba93dd43c9112",
+    "total_value": 993288.35
+  },
+  {
+    "ewb_number": "804024742183",
+    "generation_date": "2024-11-27T00:00:00",
+    "validity": "2024-11-30T00:00:00",
+    "transporter_id": "34CTHBT5754ZPZC",
+    "vehicle_number": "TN17GC5066",
+    "distance_km": 823.5,
+    "invoice_uid": "5a25174f1a5b4169",
+    "total_value": 2380767.92
+  },
+  {
+    "ewb_number": "533970066707",
+    "generation_date": "2024-07-28T00:00:00",
+    "validity": "2024-08-12T00:00:00",
+    "transporter_id": "37GVJCX5664A8ZL",
+    "vehicle_number": "MH28AB3701",
+    "distance_km": 156.2,
+    "invoice_uid": "76de6d7238fd8c02",
+    "total_value": 690201.61
+  },
+  {
+    "ewb_number": "997292676695",
+    "generation_date": "2024-06-09T00:00:00",
+    "validity": "2024-06-24T00:00:00",
+    "transporter_id": "19YRGGU5137TJZ1",
+    "vehicle_number": "KA29BB1266",
+    "distance_km": 1580.2,
+    "invoice_uid": "76857db799fcadf9",
+    "total_value": 3041941.92
+  },
+  {
+    "ewb_number": "270253993884",
+    "generation_date": "2024-08-23T00:00:00",
+    "validity": "2024-09-07T00:00:00",
+    "transporter_id": "01XKDHZ9330G5ZV",
+    "vehicle_number": "TN30BG9143",
+    "distance_km": 2024.3,
+    "invoice_uid": "28ffac70d36a12c4",
+    "total_value": 2548846.63
+  },
+  {
+    "ewb_number": "203997454033",
+    "generation_date": "2024-08-09T00:00:00",
+    "validity": "2024-08-16T00:00:00",
+    "transporter_id": "36SZMAK7190UZZK",
+    "vehicle_number": "TN56EG4519",
+    "distance_km": 1079.9,
+    "invoice_uid": "08dac46e69573b0b",
+    "total_value": 485287.05
+  },
+  {
+    "ewb_number": "623331306637",
+    "generation_date": "2025-02-16T00:00:00",
+    "validity": "2025-02-17T00:00:00",
+    "transporter_id": "13OGABS1034GAZ4",
+    "vehicle_number": "GJ90HD3183",
+    "distance_km": 533.7,
+    "invoice_uid": "590c923d5adffb3e",
+    "total_value": 2714673.0
+  },
+  {
+    "ewb_number": "731453355017",
+    "generation_date": "2024-07-05T00:00:00",
+    "validity": "2024-07-06T00:00:00",
+    "transporter_id": "20GZBTG2752GWZR",
+    "vehicle_number": "MH78CA8917",
+    "distance_km": 835.2,
+    "invoice_uid": "1c94aa89da0b7c1c",
+    "total_value": 5437292.9
+  },
+  {
+    "ewb_number": "951195108797",
+    "generation_date": "2024-11-10T00:00:00",
+    "validity": "2024-11-25T00:00:00",
+    "transporter_id": "35ZSDCP4420X3Z0",
+    "vehicle_number": "TN52EH1463",
+    "distance_km": 2314.5,
+    "invoice_uid": "109bb20ecc08090e",
+    "total_value": 3621388.26
+  },
+  {
+    "ewb_number": "398483300570",
+    "generation_date": "2025-02-09T00:00:00",
+    "validity": "2025-02-10T00:00:00",
+    "transporter_id": "30RWMHQ1415ABZW",
+    "vehicle_number": "MH06DG4127",
+    "distance_km": 2014.1,
+    "invoice_uid": "7e3b9a7551b7467e",
+    "total_value": 1085643.67
+  },
+  {
+    "ewb_number": "758236755505",
+    "generation_date": "2025-01-19T00:00:00",
+    "validity": "2025-02-03T00:00:00",
+    "transporter_id": "30ATXHA8582NJZZ",
+    "vehicle_number": "DL17CD5214",
+    "distance_km": 2234.0,
+    "invoice_uid": "4fd52a79a4083407",
+    "total_value": 1577732.79
+  },
+  {
+    "ewb_number": "127450918426",
+    "generation_date": "2024-06-05T00:00:00",
+    "validity": "2024-06-12T00:00:00",
+    "transporter_id": "31NRQTY7162AAZS",
+    "vehicle_number": "DL51BA9896",
+    "distance_km": 157.8,
+    "invoice_uid": "b368cbbc583d2d2f",
+    "total_value": 2657130.94
+  },
+  {
+    "ewb_number": "677185256683",
+    "generation_date": "2024-06-07T00:00:00",
+    "validity": "2024-06-22T00:00:00",
+    "transporter_id": "21IUKPE2003I7ZY",
+    "vehicle_number": "DL23EE5260",
+    "distance_km": 181.1,
+    "invoice_uid": "8216c020c798a722",
+    "total_value": 495683.31
+  },
+  {
+    "ewb_number": "154680611705",
+    "generation_date": "2024-12-27T00:00:00",
+    "validity": "2024-12-30T00:00:00",
+    "transporter_id": "33APWBG2554CWZY",
+    "vehicle_number": "GJ63CE6515",
+    "distance_km": 2475.2,
+    "invoice_uid": "9667a434102a5c3d",
+    "total_value": 5381784.79
+  },
+  {
+    "ewb_number": "377339082918",
+    "generation_date": "2024-09-10T00:00:00",
+    "validity": "2024-09-11T00:00:00",
+    "transporter_id": "18XPQPB1907IAZZ",
+    "vehicle_number": "MH30BF9690",
+    "distance_km": 1505.2,
+    "invoice_uid": "720947c8b9ecb76f",
+    "total_value": 2436765.9
+  },
+  {
+    "ewb_number": "769323833913",
+    "generation_date": "2024-04-09T00:00:00",
+    "validity": "2024-04-16T00:00:00",
+    "transporter_id": "15UNKPZ9142YBZM",
+    "vehicle_number": "TN04FG5586",
+    "distance_km": 422.7,
+    "invoice_uid": "870fe027c9c229b2",
+    "total_value": 1129092.19
+  },
+  {
+    "ewb_number": "694718705680",
+    "generation_date": "2025-03-25T00:00:00",
+    "validity": "2025-03-28T00:00:00",
+    "transporter_id": "10HDJHK5458NGZ5",
+    "vehicle_number": "DL59CD8762",
+    "distance_km": 306.4,
+    "invoice_uid": "91305eb120088092",
+    "total_value": 1920361.46
+  },
+  {
+    "ewb_number": "597541866050",
+    "generation_date": "2025-03-14T00:00:00",
+    "validity": "2025-03-17T00:00:00",
+    "transporter_id": "26MBPHP6535TBZD",
+    "vehicle_number": "TN71DE9384",
+    "distance_km": 1113.8,
+    "invoice_uid": "fa46c53044aa8f5f",
+    "total_value": 298214.15
+  },
+  {
+    "ewb_number": "811105161382",
+    "generation_date": "2024-07-31T00:00:00",
+    "validity": "2024-08-15T00:00:00",
+    "transporter_id": "03WUCCZ0804W8ZY",
+    "vehicle_number": "MH59CD8881",
+    "distance_km": 1950.5,
+    "invoice_uid": "c393ba983406f9ff",
+    "total_value": 2096158.52
+  },
+  {
+    "ewb_number": "451189304228",
+    "generation_date": "2024-09-03T00:00:00",
+    "validity": "2024-09-18T00:00:00",
+    "transporter_id": "18RADBQ4682IHZ6",
+    "vehicle_number": "MH40FD2714",
+    "distance_km": 2429.9,
+    "invoice_uid": "23cb9cd590cb6896",
+    "total_value": 5322624.36
+  },
+  {
+    "ewb_number": "569685427935",
+    "generation_date": "2024-06-18T00:00:00",
+    "validity": "2024-06-25T00:00:00",
+    "transporter_id": "20GZOGA9984N2Z2",
+    "vehicle_number": "MH56DC6231",
+    "distance_km": 1204.6,
+    "invoice_uid": "a916f60543a0ddb9",
+    "total_value": 5768909.87
+  },
+  {
+    "ewb_number": "141707011675",
+    "generation_date": "2024-05-31T00:00:00",
+    "validity": "2024-06-03T00:00:00",
+    "transporter_id": "24OCOGU1823M5Z6",
+    "vehicle_number": "GJ45ED8091",
+    "distance_km": 1994.8,
+    "invoice_uid": "e167a74f9322823d",
+    "total_value": 3057472.48
+  },
+  {
+    "ewb_number": "170543526946",
+    "generation_date": "2024-06-30T00:00:00",
+    "validity": "2024-07-15T00:00:00",
+    "transporter_id": "07AAECC5050JFZD",
+    "vehicle_number": "KA36HG1959",
+    "distance_km": 1766.0,
+    "invoice_uid": "2f17b8cd3b1a4167",
+    "total_value": 1934843.89
+  },
+  {
+    "ewb_number": "133282136627",
+    "generation_date": "2024-06-04T00:00:00",
+    "validity": "2024-06-19T00:00:00",
+    "transporter_id": "29SEOFN3453NSZ2",
+    "vehicle_number": "MH01CF7457",
+    "distance_km": 2289.0,
+    "invoice_uid": "11ea2ac17e3dbd7b",
+    "total_value": 2390603.77
+  },
+  {
+    "ewb_number": "264614920227",
+    "generation_date": "2025-02-09T00:00:00",
+    "validity": "2025-02-16T00:00:00",
+    "transporter_id": "27HKHAT1280JOZU",
+    "vehicle_number": "TN40CG1860",
+    "distance_km": 284.0,
+    "invoice_uid": "33dd76d0873902f2",
+    "total_value": 2857622.31
+  },
+  {
+    "ewb_number": "971744127114",
+    "generation_date": "2025-02-24T00:00:00",
+    "validity": "2025-03-03T00:00:00",
+    "transporter_id": "19AEUHC7987IHZK",
+    "vehicle_number": "GJ52HC3958",
+    "distance_km": 1338.3,
+    "invoice_uid": "495c17b3081b89c0",
+    "total_value": 5272530.14
+  },
+  {
+    "ewb_number": "114128351745",
+    "generation_date": "2024-08-08T00:00:00",
+    "validity": "2024-08-15T00:00:00",
+    "transporter_id": "04HLQLD5053B7ZF",
+    "vehicle_number": "GJ62DB6112",
+    "distance_km": 523.3,
+    "invoice_uid": "251d8e374a444748",
+    "total_value": 1449725.17
+  },
+  {
+    "ewb_number": "432530303884",
+    "generation_date": "2025-02-18T00:00:00",
+    "validity": "2025-02-21T00:00:00",
+    "transporter_id": "16ILBPU8145G5ZK",
+    "vehicle_number": "KA34CD1200",
+    "distance_km": 1016.6,
+    "invoice_uid": "a2e3994983a98474",
+    "total_value": 5293677.26
+  },
+  {
+    "ewb_number": "140718006320",
+    "generation_date": "2025-03-23T00:00:00",
+    "validity": "2025-03-24T00:00:00",
+    "transporter_id": "36IGTTE0948GAZJ",
+    "vehicle_number": "DL18CE1612",
+    "distance_km": 88.5,
+    "invoice_uid": "a9be95c87f19916a",
+    "total_value": 3376725.31
+  },
+  {
+    "ewb_number": "209847551330",
+    "generation_date": "2024-10-11T00:00:00",
+    "validity": "2024-10-14T00:00:00",
+    "transporter_id": "19FEELD7172NMZL",
+    "vehicle_number": "DL28EC9201",
+    "distance_km": 1005.3,
+    "invoice_uid": "94ab0f5076de47a0",
+    "total_value": 3668470.64
+  },
+  {
+    "ewb_number": "401689253046",
+    "generation_date": "2024-04-03T00:00:00",
+    "validity": "2024-04-10T00:00:00",
+    "transporter_id": "24EMGLY0699MMZR",
+    "vehicle_number": "GJ09EH7391",
+    "distance_km": 2401.5,
+    "invoice_uid": "5461e32a2f23b979",
+    "total_value": 1556751.21
+  },
+  {
+    "ewb_number": "938065293929",
+    "generation_date": "2024-05-24T00:00:00",
+    "validity": "2024-05-31T00:00:00",
+    "transporter_id": "32TEFLP9114FRZO",
+    "vehicle_number": "DL96DF5447",
+    "distance_km": 539.1,
+    "invoice_uid": "bd89a79ed76601fb",
+    "total_value": 2789744.08
+  },
+  {
+    "ewb_number": "331096741466",
+    "generation_date": "2025-01-21T00:00:00",
+    "validity": "2025-02-05T00:00:00",
+    "transporter_id": "02DBRAD2689W9Z9",
+    "vehicle_number": "TN94ED2930",
+    "distance_km": 338.2,
+    "invoice_uid": "9d5d7f47c2202395",
+    "total_value": 2065380.96
+  },
+  {
+    "ewb_number": "188755257697",
+    "generation_date": "2024-07-04T00:00:00",
+    "validity": "2024-07-05T00:00:00",
+    "transporter_id": "15EKXGS4646NEZ5",
+    "vehicle_number": "KA29BA2718",
+    "distance_km": 2390.3,
+    "invoice_uid": "889c7fb72b344f36",
+    "total_value": 4112101.04
+  },
+  {
+    "ewb_number": "899244497986",
+    "generation_date": "2025-02-03T00:00:00",
+    "validity": "2025-02-04T00:00:00",
+    "transporter_id": "19YWMFB0251A6ZX",
+    "vehicle_number": "MH07EC1633",
+    "distance_km": 384.8,
+    "invoice_uid": "e24edc9df05ab98c",
+    "total_value": 4315468.45
+  },
+  {
+    "ewb_number": "448792274915",
+    "generation_date": "2024-05-08T00:00:00",
+    "validity": "2024-05-11T00:00:00",
+    "transporter_id": "04BBMBP8909M6ZM",
+    "vehicle_number": "KA62BB9118",
+    "distance_km": 298.9,
+    "invoice_uid": "a3037359f031759b",
+    "total_value": 3553577.61
+  },
+  {
+    "ewb_number": "200026902882",
+    "generation_date": "2025-03-16T00:00:00",
+    "validity": "2025-03-17T00:00:00",
+    "transporter_id": "14DNWGK1467TSZO",
+    "vehicle_number": "TN66FH7235",
+    "distance_km": 743.5,
+    "invoice_uid": "754cf43b8b47f834",
+    "total_value": 5927920.55
+  },
+  {
+    "ewb_number": "754600108681",
+    "generation_date": "2025-02-21T00:00:00",
+    "validity": "2025-03-08T00:00:00",
+    "transporter_id": "34ZEBPI8391UKZG",
+    "vehicle_number": "MH01CF5636",
+    "distance_km": 1221.5,
+    "invoice_uid": "96fb803297ec1ff1",
+    "total_value": 1780650.24
+  },
+  {
+    "ewb_number": "500326201719",
+    "generation_date": "2025-01-03T00:00:00",
+    "validity": "2025-01-10T00:00:00",
+    "transporter_id": "24UHDCO6014YQZ5",
+    "vehicle_number": "KA04EG1130",
+    "distance_km": 1196.3,
+    "invoice_uid": "a16adb9d4902ab2a",
+    "total_value": 4158589.62
+  },
+  {
+    "ewb_number": "482774849677",
+    "generation_date": "2024-10-11T00:00:00",
+    "validity": "2024-10-14T00:00:00",
+    "transporter_id": "36DDDCR1023EDZD",
+    "vehicle_number": "KA78EA1021",
+    "distance_km": 689.6,
+    "invoice_uid": "d7a947a584be94f2",
+    "total_value": 3825278.74
+  },
+  {
+    "ewb_number": "871546020669",
+    "generation_date": "2024-10-08T00:00:00",
+    "validity": "2024-10-15T00:00:00",
+    "transporter_id": "20YOBJQ2158A7Z6",
+    "vehicle_number": "GJ37FD5936",
+    "distance_km": 202.2,
+    "invoice_uid": "f40e3a37bcd3633a",
+    "total_value": 3945704.82
+  },
+  {
+    "ewb_number": "711881051873",
+    "generation_date": "2024-10-27T00:00:00",
+    "validity": "2024-10-28T00:00:00",
+    "transporter_id": "27RCVTX9499X1ZI",
+    "vehicle_number": "KA43FF9077",
+    "distance_km": 1962.8,
+    "invoice_uid": "56e5826b117ca48d",
+    "total_value": 1699078.89
+  },
+  {
+    "ewb_number": "399600365875",
+    "generation_date": "2024-04-01T00:00:00",
+    "validity": "2024-04-08T00:00:00",
+    "transporter_id": "04LBKCO4945J9ZK",
+    "vehicle_number": "KA29AE4185",
+    "distance_km": 1202.5,
+    "invoice_uid": "0e156712902af059",
+    "total_value": 3556651.5
+  },
+  {
+    "ewb_number": "879340581423",
+    "generation_date": "2024-12-12T00:00:00",
+    "validity": "2024-12-15T00:00:00",
+    "transporter_id": "02ISILT1532SPZN",
+    "vehicle_number": "DL64GA3656",
+    "distance_km": 701.1,
+    "invoice_uid": "8978a4804792f92c",
+    "total_value": 1907139.72
+  },
+  {
+    "ewb_number": "273699738248",
+    "generation_date": "2025-02-02T00:00:00",
+    "validity": "2025-02-03T00:00:00",
+    "transporter_id": "23MYPCA3457DGZQ",
+    "vehicle_number": "GJ23GG4439",
+    "distance_km": 1192.3,
+    "invoice_uid": "82d1e649c78f2f2d",
+    "total_value": 2297373.21
+  },
+  {
+    "ewb_number": "780209740938",
+    "generation_date": "2024-09-29T00:00:00",
+    "validity": "2024-10-02T00:00:00",
+    "transporter_id": "26MMPAB6153DAZI",
+    "vehicle_number": "DL44GE9064",
+    "distance_km": 169.3,
+    "invoice_uid": "17f60f9c6ab8e5bc",
+    "total_value": 5098706.73
+  },
+  {
+    "ewb_number": "369886582800",
+    "generation_date": "2024-11-17T00:00:00",
+    "validity": "2024-12-02T00:00:00",
+    "transporter_id": "34ATPHG6610OSZ1",
+    "vehicle_number": "TN92GF1957",
+    "distance_km": 868.1,
+    "invoice_uid": "754f52bbd4628b21",
+    "total_value": 5236882.35
+  },
+  {
+    "ewb_number": "465950531410",
+    "generation_date": "2024-05-15T00:00:00",
+    "validity": "2024-05-18T00:00:00",
+    "transporter_id": "19DFMPL5018QXZR",
+    "vehicle_number": "KA54DH2372",
+    "distance_km": 217.0,
+    "invoice_uid": "2fe6193442ad6dee",
+    "total_value": 3075971.02
+  },
+  {
+    "ewb_number": "577856571406",
+    "generation_date": "2024-04-21T00:00:00",
+    "validity": "2024-04-28T00:00:00",
+    "transporter_id": "07PQWLT2975IWZS",
+    "vehicle_number": "GJ26HG6611",
+    "distance_km": 1429.6,
+    "invoice_uid": "9ec9cbcb3259e222",
+    "total_value": 4694859.62
+  },
+  {
+    "ewb_number": "409209398202",
+    "generation_date": "2024-12-25T00:00:00",
+    "validity": "2025-01-01T00:00:00",
+    "transporter_id": "33YFVFP9339MRZM",
+    "vehicle_number": "KA68HE7977",
+    "distance_km": 407.8,
+    "invoice_uid": "0a9a2ea21a1a1497",
+    "total_value": 232040.88
+  },
+  {
+    "ewb_number": "124490562216",
+    "generation_date": "2024-10-26T00:00:00",
+    "validity": "2024-11-10T00:00:00",
+    "transporter_id": "24PFRGE0538V1ZW",
+    "vehicle_number": "DL19DE9084",
+    "distance_km": 1159.1,
+    "invoice_uid": "7c3eaa4b357e6209",
+    "total_value": 1764215.25
+  },
+  {
+    "ewb_number": "163107739129",
+    "generation_date": "2024-09-24T00:00:00",
+    "validity": "2024-10-01T00:00:00",
+    "transporter_id": "09ISKLY7016VYZG",
+    "vehicle_number": "TN26AB2103",
+    "distance_km": 2471.2,
+    "invoice_uid": "6cdd3a3b10de32d4",
+    "total_value": 4266260.19
+  },
+  {
+    "ewb_number": "695674760252",
+    "generation_date": "2024-04-26T00:00:00",
+    "validity": "2024-05-11T00:00:00",
+    "transporter_id": "30MTCFM0366J9Z0",
+    "vehicle_number": "MH72FG5586",
+    "distance_km": 1425.0,
+    "invoice_uid": "5ee58bb30c574674",
+    "total_value": 1724685.0
+  },
+  {
+    "ewb_number": "620162305698",
+    "generation_date": "2024-08-12T00:00:00",
+    "validity": "2024-08-19T00:00:00",
+    "transporter_id": "03UNRAR8255UJZJ",
+    "vehicle_number": "KA82BA5617",
+    "distance_km": 163.0,
+    "invoice_uid": "4c295aa527eb17c2",
+    "total_value": 2181331.86
+  },
+  {
+    "ewb_number": "546342340359",
+    "generation_date": "2024-09-17T00:00:00",
+    "validity": "2024-09-24T00:00:00",
+    "transporter_id": "07JLMJR2090OQZS",
+    "vehicle_number": "GJ68DH2684",
+    "distance_km": 1095.5,
+    "invoice_uid": "c4705f5c5d0b88b5",
+    "total_value": 3082963.56
+  },
+  {
+    "ewb_number": "692615467678",
+    "generation_date": "2024-09-30T00:00:00",
+    "validity": "2024-10-03T00:00:00",
+    "transporter_id": "24JGQBS3375HGZ2",
+    "vehicle_number": "DL75CE3608",
+    "distance_km": 975.9,
+    "invoice_uid": "05983e0a7aa31721",
+    "total_value": 3863453.94
+  },
+  {
+    "ewb_number": "448599330588",
+    "generation_date": "2025-01-06T00:00:00",
+    "validity": "2025-01-09T00:00:00",
+    "transporter_id": "37WJHBH0589AVZS",
+    "vehicle_number": "DL93AH4666",
+    "distance_km": 1393.4,
+    "invoice_uid": "dd35058c91292fc2",
+    "total_value": 3568505.24
+  },
+  {
+    "ewb_number": "886586993669",
+    "generation_date": "2024-11-30T00:00:00",
+    "validity": "2024-12-07T00:00:00",
+    "transporter_id": "31DHHFV9368WVZM",
+    "vehicle_number": "MH97GB8778",
+    "distance_km": 279.8,
+    "invoice_uid": "d301c98241468d91",
+    "total_value": 2690337.27
+  },
+  {
+    "ewb_number": "254382498237",
+    "generation_date": "2024-08-30T00:00:00",
+    "validity": "2024-09-14T00:00:00",
+    "transporter_id": "17RJUTG9185YGZE",
+    "vehicle_number": "GJ91AH1348",
+    "distance_km": 911.0,
+    "invoice_uid": "e772db00ab0073bc",
+    "total_value": 3188504.58
+  },
+  {
+    "ewb_number": "386342998473",
+    "generation_date": "2024-09-16T00:00:00",
+    "validity": "2024-10-01T00:00:00",
+    "transporter_id": "12XPWFH3573C7ZQ",
+    "vehicle_number": "KA74GH2495",
+    "distance_km": 2047.3,
+    "invoice_uid": "02974f361cccdbbe",
+    "total_value": 3912681.07
+  },
+  {
+    "ewb_number": "697089751313",
+    "generation_date": "2024-08-01T00:00:00",
+    "validity": "2024-08-16T00:00:00",
+    "transporter_id": "14RCRLZ0007IAZY",
+    "vehicle_number": "TN15GD1934",
+    "distance_km": 2199.0,
+    "invoice_uid": "507385fa3f34e277",
+    "total_value": 129590.47
+  },
+  {
+    "ewb_number": "587706611850",
+    "generation_date": "2025-02-01T00:00:00",
+    "validity": "2025-02-02T00:00:00",
+    "transporter_id": "05SVIPB1693IMZK",
+    "vehicle_number": "GJ77CA4770",
+    "distance_km": 132.9,
+    "invoice_uid": "55ebe3535492b147",
+    "total_value": 4789980.84
+  },
+  {
+    "ewb_number": "848822615399",
+    "generation_date": "2024-12-30T00:00:00",
+    "validity": "2025-01-02T00:00:00",
+    "transporter_id": "07RTATN4245E8Z2",
+    "vehicle_number": "KA18GD8772",
+    "distance_km": 2496.8,
+    "invoice_uid": "6a904c4e2994b9a1",
+    "total_value": 2559712.85
+  },
+  {
+    "ewb_number": "564647065985",
+    "generation_date": "2024-05-24T00:00:00",
+    "validity": "2024-06-08T00:00:00",
+    "transporter_id": "21LNRAS6160MBZP",
+    "vehicle_number": "DL71AH5774",
+    "distance_km": 1456.1,
+    "invoice_uid": "d78d50fe3558ac73",
+    "total_value": 4792758.92
+  },
+  {
+    "ewb_number": "946644562563",
+    "generation_date": "2024-11-25T00:00:00",
+    "validity": "2024-12-10T00:00:00",
+    "transporter_id": "27CYKJR5591LNZ6",
+    "vehicle_number": "MH69HB2870",
+    "distance_km": 2105.4,
+    "invoice_uid": "03e6ce337a53eaee",
+    "total_value": 2430105.12
+  },
+  {
+    "ewb_number": "790783698586",
+    "generation_date": "2025-02-03T00:00:00",
+    "validity": "2025-02-04T00:00:00",
+    "transporter_id": "13METAM6611HRZ7",
+    "vehicle_number": "GJ27BA7298",
+    "distance_km": 428.7,
+    "invoice_uid": "7f7102db055576b4",
+    "total_value": 1546023.48
+  },
+  {
+    "ewb_number": "890487441031",
+    "generation_date": "2024-06-28T00:00:00",
+    "validity": "2024-07-13T00:00:00",
+    "transporter_id": "30OMFGI9230MZZA",
+    "vehicle_number": "TN46DE9301",
+    "distance_km": 503.8,
+    "invoice_uid": "55b6b0b41228eee9",
+    "total_value": 3842540.33
+  },
+  {
+    "ewb_number": "983781663305",
+    "generation_date": "2024-06-21T00:00:00",
+    "validity": "2024-06-24T00:00:00",
+    "transporter_id": "20RQHLT6800XLZA",
+    "vehicle_number": "MH47AC9716",
+    "distance_km": 680.2,
+    "invoice_uid": "d2013bd40205bc5f",
+    "total_value": 4909735.57
+  },
+  {
+    "ewb_number": "140176615968",
+    "generation_date": "2025-02-03T00:00:00",
+    "validity": "2025-02-06T00:00:00",
+    "transporter_id": "05RQHHA6902H9Z0",
+    "vehicle_number": "TN77ED4666",
+    "distance_km": 1879.0,
+    "invoice_uid": "9ce502caa44fbcad",
+    "total_value": 3346663.67
+  },
+  {
+    "ewb_number": "301460211394",
+    "generation_date": "2024-06-12T00:00:00",
+    "validity": "2024-06-19T00:00:00",
+    "transporter_id": "17CBJFQ1732CSZO",
+    "vehicle_number": "MH78BD6311",
+    "distance_km": 243.5,
+    "invoice_uid": "622473e62755f3b6",
+    "total_value": 3875645.08
+  },
+  {
+    "ewb_number": "204733942516",
+    "generation_date": "2024-11-19T00:00:00",
+    "validity": "2024-11-22T00:00:00",
+    "transporter_id": "07VRVHN7777ICZA",
+    "vehicle_number": "TN04EB9374",
+    "distance_km": 2439.5,
+    "invoice_uid": "5850d80d9e338bd6",
+    "total_value": 4850063.09
+  },
+  {
+    "ewb_number": "463836458984",
+    "generation_date": "2025-01-18T00:00:00",
+    "validity": "2025-01-21T00:00:00",
+    "transporter_id": "18XDRLO2899GFZX",
+    "vehicle_number": "GJ72AE9226",
+    "distance_km": 866.9,
+    "invoice_uid": "445f3e0ec18bd40d",
+    "total_value": 495715.06
+  },
+  {
+    "ewb_number": "886452316745",
+    "generation_date": "2024-08-03T00:00:00",
+    "validity": "2024-08-10T00:00:00",
+    "transporter_id": "30HAHGG8576HOZD",
+    "vehicle_number": "DL11AC8926",
+    "distance_km": 1214.3,
+    "invoice_uid": "0572e9c17b7109f6",
+    "total_value": 1757730.24
+  },
+  {
+    "ewb_number": "998629942902",
+    "generation_date": "2025-03-11T00:00:00",
+    "validity": "2025-03-14T00:00:00",
+    "transporter_id": "08EPGTC7464P2ZY",
+    "vehicle_number": "KA18HH1016",
+    "distance_km": 1110.8,
+    "invoice_uid": "77c7879feeab0d70",
+    "total_value": 3569710.35
+  },
+  {
+    "ewb_number": "109759027346",
+    "generation_date": "2024-08-19T00:00:00",
+    "validity": "2024-08-22T00:00:00",
+    "transporter_id": "37HRLHJ6572NXZD",
+    "vehicle_number": "MH06BD3165",
+    "distance_km": 1121.6,
+    "invoice_uid": "cde61e6c73b3e2da",
+    "total_value": 328372.6
+  },
+  {
+    "ewb_number": "957806608655",
+    "generation_date": "2024-05-01T00:00:00",
+    "validity": "2024-05-16T00:00:00",
+    "transporter_id": "26FVGTV6094H1ZM",
+    "vehicle_number": "TN96EH8019",
+    "distance_km": 1210.5,
+    "invoice_uid": "b247dfae66239c3a",
+    "total_value": 3055264.6
+  },
+  {
+    "ewb_number": "390435205275",
+    "generation_date": "2024-04-26T00:00:00",
+    "validity": "2024-05-03T00:00:00",
+    "transporter_id": "32JYKJE6331FSZ5",
+    "vehicle_number": "TN11DH8309",
+    "distance_km": 1838.6,
+    "invoice_uid": "a68ca0452a5e6275",
+    "total_value": 5388718.22
+  },
+  {
+    "ewb_number": "852553068852",
+    "generation_date": "2024-06-12T00:00:00",
+    "validity": "2024-06-19T00:00:00",
+    "transporter_id": "08RYHLM1470V5Z7",
+    "vehicle_number": "TN54BE3852",
+    "distance_km": 1569.3,
+    "invoice_uid": "eafe052c02ca0358",
+    "total_value": 1419950.46
+  },
+  {
+    "ewb_number": "937856885442",
+    "generation_date": "2024-10-30T00:00:00",
+    "validity": "2024-11-06T00:00:00",
+    "transporter_id": "15OEYTD6193TIZ9",
+    "vehicle_number": "MH06EA7178",
+    "distance_km": 1859.6,
+    "invoice_uid": "02291dba0b4f16d1",
+    "total_value": 2827881.61
+  },
+  {
+    "ewb_number": "158634909102",
+    "generation_date": "2024-06-20T00:00:00",
+    "validity": "2024-07-05T00:00:00",
+    "transporter_id": "04ILPPU2585OLZE",
+    "vehicle_number": "DL18BH3035",
+    "distance_km": 284.8,
+    "invoice_uid": "63f74f75a198d239",
+    "total_value": 2831517.83
+  },
+  {
+    "ewb_number": "490123918472",
+    "generation_date": "2024-05-10T00:00:00",
+    "validity": "2024-05-25T00:00:00",
+    "transporter_id": "05VTTBN5629Q6ZR",
+    "vehicle_number": "GJ28AG9690",
+    "distance_km": 2445.3,
+    "invoice_uid": "28a0b2d906648517",
+    "total_value": 1247360.69
+  },
+  {
+    "ewb_number": "736805184010",
+    "generation_date": "2024-11-05T00:00:00",
+    "validity": "2024-11-06T00:00:00",
+    "transporter_id": "22TBRAH4132QXZT",
+    "vehicle_number": "DL44GD9981",
+    "distance_km": 1898.7,
+    "invoice_uid": "86b13ff526a222f5",
+    "total_value": 2054317.48
+  },
+  {
+    "ewb_number": "998104692765",
+    "generation_date": "2024-09-12T00:00:00",
+    "validity": "2024-09-15T00:00:00",
+    "transporter_id": "17SKAPM2530GLZI",
+    "vehicle_number": "DL13FG4565",
+    "distance_km": 1942.2,
+    "invoice_uid": "065b09859c506aa9",
+    "total_value": 678529.45
+  },
+  {
+    "ewb_number": "539884267131",
+    "generation_date": "2025-02-13T00:00:00",
+    "validity": "2025-02-14T00:00:00",
+    "transporter_id": "15BFZJG9441PJZA",
+    "vehicle_number": "MH91CE3172",
+    "distance_km": 1629.6,
+    "invoice_uid": "c5377504edd0352d",
+    "total_value": 3416080.8
+  },
+  {
+    "ewb_number": "407919636921",
+    "generation_date": "2024-05-02T00:00:00",
+    "validity": "2024-05-05T00:00:00",
+    "transporter_id": "35VTATJ4380VSZG",
+    "vehicle_number": "MH44GE1132",
+    "distance_km": 1535.6,
+    "invoice_uid": "e756c0e0ca6efad7",
+    "total_value": 3975270.21
+  },
+  {
+    "ewb_number": "394705635934",
+    "generation_date": "2024-07-08T00:00:00",
+    "validity": "2024-07-11T00:00:00",
+    "transporter_id": "12TPECH4746NBZQ",
+    "vehicle_number": "GJ45DD9802",
+    "distance_km": 965.5,
+    "invoice_uid": "075f5d508c0f705f",
+    "total_value": 230829.33
+  },
+  {
+    "ewb_number": "985629007051",
+    "generation_date": "2025-03-13T00:00:00",
+    "validity": "2025-03-20T00:00:00",
+    "transporter_id": "30ROFFI2397MHZH",
+    "vehicle_number": "MH65GF5718",
+    "distance_km": 447.6,
+    "invoice_uid": "58a0c848ddc6c639",
+    "total_value": 4179037.47
+  },
+  {
+    "ewb_number": "544401658117",
+    "generation_date": "2024-04-11T00:00:00",
+    "validity": "2024-04-18T00:00:00",
+    "transporter_id": "35BLUPG0773EUZ7",
+    "vehicle_number": "DL36EG7181",
+    "distance_km": 1295.7,
+    "invoice_uid": "08eb46bf3af0126d",
+    "total_value": 1587895.13
+  },
+  {
+    "ewb_number": "574245269424",
+    "generation_date": "2025-03-25T00:00:00",
+    "validity": "2025-04-01T00:00:00",
+    "transporter_id": "12AIOPN9636IEZG",
+    "vehicle_number": "KA89DF8126",
+    "distance_km": 1443.0,
+    "invoice_uid": "30dbd1960431005c",
+    "total_value": 4361040.74
+  },
+  {
+    "ewb_number": "917881313143",
+    "generation_date": "2024-09-23T00:00:00",
+    "validity": "2024-09-26T00:00:00",
+    "transporter_id": "29TWHBU4752H4Z5",
+    "vehicle_number": "TN26FF4616",
+    "distance_km": 57.2,
+    "invoice_uid": "6cd7bdf3039368dc",
+    "total_value": 292813.0
+  },
+  {
+    "ewb_number": "484226341745",
+    "generation_date": "2024-06-12T00:00:00",
+    "validity": "2024-06-27T00:00:00",
+    "transporter_id": "19TBFHN1972JEZV",
+    "vehicle_number": "GJ34GG5007",
+    "distance_km": 589.2,
+    "invoice_uid": "0f3066f06896db75",
+    "total_value": 3241233.62
+  },
+  {
+    "ewb_number": "644660768602",
+    "generation_date": "2024-12-01T00:00:00",
+    "validity": "2024-12-08T00:00:00",
+    "transporter_id": "22UZWTI6698W9ZR",
+    "vehicle_number": "GJ46DH8531",
+    "distance_km": 1970.2,
+    "invoice_uid": "865055e609ef90e3",
+    "total_value": 2355168.41
+  },
+  {
+    "ewb_number": "427275310740",
+    "generation_date": "2024-10-17T00:00:00",
+    "validity": "2024-10-18T00:00:00",
+    "transporter_id": "18BTTFB6007S3ZH",
+    "vehicle_number": "TN48GF9294",
+    "distance_km": 383.5,
+    "invoice_uid": "6f45ede86efd9249",
+    "total_value": 2478044.79
+  },
+  {
+    "ewb_number": "164725756663",
+    "generation_date": "2024-12-25T00:00:00",
+    "validity": "2024-12-28T00:00:00",
+    "transporter_id": "27VPTHN0675SLZ2",
+    "vehicle_number": "MH12BF9231",
+    "distance_km": 545.4,
+    "invoice_uid": "ce80cfe532c1b948",
+    "total_value": 4190484.43
+  },
+  {
+    "ewb_number": "102873030685",
+    "generation_date": "2024-11-05T00:00:00",
+    "validity": "2024-11-12T00:00:00",
+    "transporter_id": "24STKLR8703EQZM",
+    "vehicle_number": "KA77FA9630",
+    "distance_km": 1608.3,
+    "invoice_uid": "1bf63a5a504bb729",
+    "total_value": 1638506.98
+  },
+  {
+    "ewb_number": "750909867001",
+    "generation_date": "2025-03-27T00:00:00",
+    "validity": "2025-03-28T00:00:00",
+    "transporter_id": "17GTNCI4880KJZ6",
+    "vehicle_number": "MH03CD9266",
+    "distance_km": 1207.3,
+    "invoice_uid": "ef2e6fc519a69fd0",
+    "total_value": 2929233.87
+  },
+  {
+    "ewb_number": "995648907958",
+    "generation_date": "2024-09-02T00:00:00",
+    "validity": "2024-09-03T00:00:00",
+    "transporter_id": "04JYYPL6646KYZG",
+    "vehicle_number": "KA91BC7145",
+    "distance_km": 832.4,
+    "invoice_uid": "73589cf2c5b4b5d6",
+    "total_value": 1142098.83
+  },
+  {
+    "ewb_number": "940595867059",
+    "generation_date": "2024-11-22T00:00:00",
+    "validity": "2024-11-23T00:00:00",
+    "transporter_id": "20TZYBI8116FBZB",
+    "vehicle_number": "MH89FH4967",
+    "distance_km": 2445.4,
+    "invoice_uid": "2f4e4637dfd48a35",
+    "total_value": 3979220.78
+  },
+  {
+    "ewb_number": "465432342246",
+    "generation_date": "2024-05-03T00:00:00",
+    "validity": "2024-05-10T00:00:00",
+    "transporter_id": "37JWYHH0030O6Z6",
+    "vehicle_number": "MH07GF9995",
+    "distance_km": 764.7,
+    "invoice_uid": "45605bc45ea72f2d",
+    "total_value": 1855738.35
+  },
+  {
+    "ewb_number": "782620350651",
+    "generation_date": "2025-03-29T00:00:00",
+    "validity": "2025-03-30T00:00:00",
+    "transporter_id": "36AZXLU3608W9ZT",
+    "vehicle_number": "DL86EC3023",
+    "distance_km": 1017.2,
+    "invoice_uid": "e3be1ccf950c252e",
+    "total_value": 1401447.06
+  },
+  {
+    "ewb_number": "103202994696",
+    "generation_date": "2025-02-21T00:00:00",
+    "validity": "2025-02-22T00:00:00",
+    "transporter_id": "11IFRHP1160GAZN",
+    "vehicle_number": "MH06HE6564",
+    "distance_km": 1543.1,
+    "invoice_uid": "5cf13b8fbb1cc33c",
+    "total_value": 1006924.2
+  },
+  {
+    "ewb_number": "984831705836",
+    "generation_date": "2025-02-07T00:00:00",
+    "validity": "2025-02-22T00:00:00",
+    "transporter_id": "31BOECI0788IQZ2",
+    "vehicle_number": "GJ44AA5213",
+    "distance_km": 2177.9,
+    "invoice_uid": "7f63d55e7d312c25",
+    "total_value": 464911.82
+  },
+  {
+    "ewb_number": "323656422855",
+    "generation_date": "2024-04-19T00:00:00",
+    "validity": "2024-05-04T00:00:00",
+    "transporter_id": "26RBQCS0007G1Z0",
+    "vehicle_number": "KA62EH2304",
+    "distance_km": 1886.6,
+    "invoice_uid": "dc3422d561b99572",
+    "total_value": 5043359.64
+  },
+  {
+    "ewb_number": "493369715081",
+    "generation_date": "2024-12-23T00:00:00",
+    "validity": "2024-12-24T00:00:00",
+    "transporter_id": "17YKFAS3263AXZO",
+    "vehicle_number": "GJ52GF7225",
+    "distance_km": 1725.0,
+    "invoice_uid": "6867bb952db5d9af",
+    "total_value": 4187816.82
+  },
+  {
+    "ewb_number": "576920617798",
+    "generation_date": "2024-06-21T00:00:00",
+    "validity": "2024-06-28T00:00:00",
+    "transporter_id": "18LSRLP9656MLZT",
+    "vehicle_number": "GJ29HE5599",
+    "distance_km": 1440.6,
+    "invoice_uid": "0bf1f30eeb7c45c1",
+    "total_value": 5346886.61
+  }
+]

@@ -1,0 +1,390 @@
+{
+  "export_timestamp": "2026-02-27T19:23:03.170682",
+  "database_stats": {
+    "total_gstins": 65,
+    "total_invoices": 1206,
+    "total_returns": 2340,
+    "total_mismatches": 18,
+    "gstins_with_risk_scores": 65
+  },
+  "fraud_analysis": {
+    "severity_distribution": {
+      "CRITICAL": 6,
+      "HIGH": 7,
+      "MEDIUM": 5
+    },
+    "mismatch_types": {
+      "null": 18
+    },
+    "total_itc_at_risk": 0,
+    "high_risk_entities": 65
+  },
+  "top_fraud_cases": [
+    {
+      "mismatch_id": "FRAUD-004-PHANTOM",
+      "type": null,
+      "severity": "CRITICAL",
+      "description": "Phantom invoice detected \u2014 Continental IN issued invoice with no supporting documents",
+      "narrative": "CRITICAL: Invoice B2B/2425/542 worth \u20b946.85L from Continental IN (06JISJR0069HKZG) has been identified as a phantom invoice. The knowledge graph traversal reveals: (1) No IRN (e-Invoice Reference Number) was generated \u2014 mandatory for B2B transactions above \u20b95 Cr turnover since Oct 2020 and \u20b95L since Aug 2023. (2) No e-Way Bill exists despite the invoice value exceeding \u20b950,000 threshold. (3) No bank transaction was found matching this invoice amount (\u00b15%). (4) The supplier's GSTR-1 filing for Oct 2024 was filed 47 days late, raising questions about the genuineness of the filing. The ML model assigns a 91% fraud probability based on the absence of all 3 corroborating documents (IRN + EWB + Bank Txn).",
+      "evidence_path": null,
+      "resolution_actions": [
+        "Immediately reverse ITC of \u20b98,43,250 claimed against this invoice",
+        "Issue SCN (Show Cause Notice) under Section 74 CGST Act for extended period",
+        "Refer to DGGI for investigation of the supplier entity",
+        "Verify physical existence of supplier at registered address"
+      ],
+      "regulatory_ref": null,
+      "gstin": "01ANHAR2967D4ZW",
+      "buyer_gstin": "01ANHAR2967D4ZW",
+      "seller_gstin": "06JISJR0069HKZG",
+      "return_period": "102024",
+      "invoice_value": null,
+      "tax_difference": null,
+      "itc_risk": null,
+      "risk_score": null,
+      "detected_at": "2026-02-27T09:15:22",
+      "status": "OPEN"
+    },
+    {
+      "mismatch_id": "FRAUD-005-PHANTOM",
+      "type": null,
+      "severity": "CRITICAL",
+      "description": "Invoices claimed from a supplier with suspended GST registration",
+      "narrative": "Two invoices totalling \u20b969.82L claimed by Navin Fluorine from a supplier whose GST registration was suspended effective 15-Sep-2024 (suo moto cancellation proceedings initiated). Despite the suspension, invoices dated 08-Dec-2024 and 19-Dec-2024 appear in the claimant's GSTR-2B. The supplier's GSTR-1 for Dec 2024 shows 47 outward invoices filed in a bulk upload on 31-Dec-2024 \u2014 23 of which were raised AFTER suspension date. No e-Way Bills were generated for any of these invoices. Purchase register analysis shows these invoices were booked under 'Capital Goods' category to claim 100% ITC immediately instead of spreading over 5 years. This is a classic bill trading pattern.",
+      "evidence_path": null,
+      "resolution_actions": [
+        "Reverse ITC of \u20b912,56,800 immediately under Rule 42/43",
+        "File DRC-03 for voluntary payment of tax + interest",
+        "Lodge complaint with jurisdictional officer under Section 122"
+      ],
+      "regulatory_ref": null,
+      "gstin": "01MIMHZ2258RGZ6",
+      "buyer_gstin": "01MIMHZ2258RGZ6",
+      "seller_gstin": "06LHWCW4227D3ZC",
+      "return_period": "122024",
+      "invoice_value": null,
+      "tax_difference": null,
+      "itc_risk": null,
+      "risk_score": null,
+      "detected_at": "2026-02-27T09:18:05",
+      "status": "ESCALATED"
+    },
+    {
+      "mismatch_id": "FRAUD-009-ITCOVR",
+      "type": null,
+      "severity": "CRITICAL",
+      "description": "ITC overclaimed by \u20b921.45L \u2014 claimed on blocked items under Section 17(5)",
+      "narrative": "Exide Industries claimed ITC of \u20b931,20,000 in GSTR-3B for January 2025, but eligible ITC as per GSTR-2B is only \u20b99,75,000. Analysis of the purchase register reveals \u20b921,45,000 was claimed on items blocked under Section 17(5) of the CGST Act: (a) \u20b98,50,000 on motor vehicles (not used for transportation of goods), (b) \u20b96,80,000 on food & beverages for employee recreation, (c) \u20b94,15,000 on outdoor catering for annual event, (d) \u20b92,00,000 on membership of a club. These categories are explicitly blocked from ITC eligibility regardless of business use. The overclaim ratio is 2.2x.",
+      "evidence_path": null,
+      "resolution_actions": [
+        "Reverse \u20b921,45,000 blocked ITC in next GSTR-3B",
+        "Pay interest under Section 50(1) at 18% p.a. from date of claim",
+        "File DRC-03 for voluntary payment to avoid penalty proceedings"
+      ],
+      "regulatory_ref": null,
+      "gstin": "02BKOLB2495WPZY",
+      "buyer_gstin": "02BKOLB2495WPZY",
+      "seller_gstin": "02YKTPZ6224AQZR",
+      "return_period": "012025",
+      "invoice_value": null,
+      "tax_difference": null,
+      "itc_risk": null,
+      "risk_score": null,
+      "detected_at": "2026-02-27T10:14:09",
+      "status": "OPEN"
+    },
+    {
+      "mismatch_id": "FRAUD-012-MISS1",
+      "type": null,
+      "severity": "CRITICAL",
+      "description": "Invoice in GSTR-2B has no corresponding GSTR-1 entry \u2014 suspected phantom invoice",
+      "narrative": "Invoice B2B2425000389 worth \u20b957,45,556 appears in KEI Industries's GSTR-2B for January 2025 but has NO corresponding entry in the supplier's GSTR-1. The supplier GSTIN shows 'active' status but has NOT filed GSTR-1 for Jan 2025 at all. Knowledge graph analysis reveals: (1) The supplier has zero GSTR-1 filings for the last 3 months, (2) No TRANSACTS_WITH relationship exists between these two GSTINs prior to Jan 2025, (3) The supplier was registered only 4 months ago with minimal turnover declaration (\u20b920L). This creates a strong suspicion of either a newly created shell entity or identity theft of an existing GSTIN.",
+      "evidence_path": null,
+      "resolution_actions": [
+        "Do NOT claim ITC until GSTR-1 is filed and verified",
+        "Report to concerned GST officer for supplier verification",
+        "Request GSTN to flag supplier for mandatory physical verification"
+      ],
+      "regulatory_ref": null,
+      "gstin": "04CJJGW2962SNZ4",
+      "buyer_gstin": "04CJJGW2962SNZ4",
+      "seller_gstin": "06LHWCW4227D3ZC",
+      "return_period": "012025",
+      "invoice_value": null,
+      "tax_difference": null,
+      "itc_risk": null,
+      "risk_score": null,
+      "detected_at": "2026-02-27T10:25:18",
+      "status": "OPEN"
+    },
+    {
+      "mismatch_id": "FRAUD-001-CIRC",
+      "type": null,
+      "severity": "CRITICAL",
+      "description": "Circular trade ring: Kirloskar Brothers \u2192 Sun Pharma Labs \u2192 Navin Fluorine \u2192 Kirloskar Brothers",
+      "narrative": "CRITICAL ALERT: Classic carousel fraud detected involving a 3-entity circular trading ring. Kirloskar Brothers issued invoices worth \u20b993.82L to Sun Pharma Labs, who then billed \u20b972.55L to Navin Fluorine, who completed the loop by invoicing \u20b956.83L back to Kirloskar Brothers. The value inflation ratio of 1.31x across the cycle indicates artificial value padding to maximise ITC claims. None of the transactions have corresponding bank payments or e-Way Bills, strongly suggesting these are paper transactions designed to generate fraudulent ITC credits. Total ITC at risk: \u20b940.18L. This pattern matches known GST carousel fraud typology documented by the DGGI (Directorate General of GST Intelligence).",
+      "evidence_path": null,
+      "resolution_actions": [
+        "Freeze ITC for all 3 entities pending investigation",
+        "Issue SCN under Section 74 CGST Act (fraud/wilful misstatement)",
+        "Refer to DGGI for coordinated investigation across jurisdictions",
+        "Provisional attachment of property under Section 83 (\u20b94,017,689 at risk)"
+      ],
+      "regulatory_ref": null,
+      "gstin": "01ANHAR2967D4ZW",
+      "buyer_gstin": "01MIMHZ2258RGZ6",
+      "seller_gstin": "01ANHAR2967D4ZW",
+      "return_period": "112024",
+      "invoice_value": null,
+      "tax_difference": null,
+      "itc_risk": null,
+      "risk_score": null,
+      "detected_at": "2026-02-27T08:45:12",
+      "status": "OPEN"
+    },
+    {
+      "mismatch_id": "FRAUD-002-CIRC",
+      "type": null,
+      "severity": "CRITICAL",
+      "description": "Circular trade ring: Blue Star Cooling \u2192 Exide Industries \u2192 SKF India Ltd \u2192 Berger Paints \u2192 Blue Star Cooling",
+      "narrative": "HIGH-RISK circular trade identified across 4 entities. Starting from Blue Star Cooling \u2192 Exide Industries \u2192 SKF India Ltd \u2192 Berger Paints \u2192 back to Blue Star Cooling. The total circulated value exceeds \u20b93.85 Cr with a progressive value inflation of 1.44x per hop. Notably, SKF India Ltd has a compliance rating below 30 and has 3 late-filed returns in the last 6 months. The pattern shows invoices raised within 48 hours of each other \u2014 an impossibility for genuine manufacturing/trading operations. The goods described (Steel Structures, HSN 7308) show no corresponding raw material purchases by any participant.",
+      "evidence_path": null,
+      "resolution_actions": [
+        "Freeze ITC for all 4 entities pending investigation",
+        "Issue SCN under Section 74 CGST Act (fraud/wilful misstatement)",
+        "Refer to DGGI for coordinated investigation across jurisdictions",
+        "Provisional attachment of property under Section 83 (\u20b96,931,260 at risk)"
+      ],
+      "regulatory_ref": null,
+      "gstin": "01TLXTG7331WGZ2",
+      "buyer_gstin": "02YKTPZ6224AQZR",
+      "seller_gstin": "01TLXTG7331WGZ2",
+      "return_period": "012025",
+      "invoice_value": null,
+      "tax_difference": null,
+      "itc_risk": null,
+      "risk_score": null,
+      "detected_at": "2026-02-27T08:45:12",
+      "status": "OPEN"
+    },
+    {
+      "mismatch_id": "FRAUD-003-CIRC",
+      "type": null,
+      "severity": "HIGH",
+      "description": "Circular trade ring: Bharat Electronics Ltd \u2192 KEI Industries \u2192 Pidilite Industries \u2192 Mahindra Components \u2192 Reliance Trading Corp \u2192 Bharat Electronics Ltd",
+      "narrative": "Complex 5-entity circular trading network uncovered. The chain spans across 3 different states: Bharat Electronics Ltd (State 03) \u2192 KEI Industries \u2192 Pidilite Industries \u2192 Mahindra Components \u2192 Reliance Trading Corp \u2192 back to Bharat Electronics Ltd. Total value: \u20b95.73 Cr. Cross-verification with bank statements reveals no actual fund transfers between 3 of the 5 entities. IGST has been exploited for inter-state transactions to claim refunds. Two entities share the same registered address, indicating possible shell company involvement. ML model confidence: 94.2%.",
+      "evidence_path": null,
+      "resolution_actions": [
+        "Freeze ITC for all 5 entities pending investigation",
+        "Issue SCN under Section 74 CGST Act (fraud/wilful misstatement)",
+        "Refer to DGGI for coordinated investigation across jurisdictions",
+        "Provisional attachment of property under Section 83 (\u20b910,315,800 at risk)"
+      ],
+      "regulatory_ref": null,
+      "gstin": "03QAHFE7680NZZM",
+      "buyer_gstin": "05NZJPJ8685W7ZH",
+      "seller_gstin": "03QAHFE7680NZZM",
+      "return_period": "022025",
+      "invoice_value": null,
+      "tax_difference": null,
+      "itc_risk": null,
+      "risk_score": null,
+      "detected_at": "2026-02-27T08:45:12",
+      "status": "OPEN"
+    },
+    {
+      "mismatch_id": "FRAUD-006-VALMIS",
+      "type": null,
+      "severity": "HIGH",
+      "description": "Taxable value inflated by \u20b921.53L in buyer's GSTR-2B vs supplier's GSTR-1",
+      "narrative": "Significant value mismatch detected on invoice TAX/2425/0516. Supplier Sun Pharma Labs reported taxable value of \u20b918,92,300 in GSTR-1, but buyer Blue Star Cooling has recorded \u20b940,45,750 in GSTR-2B \u2014 a difference of \u20b921,53,450 (113.8% inflation). The CGST/SGST claimed by the buyer (\u20b93,64,117.50 each at 18%) is based on the inflated amount, resulting in excess ITC of \u20b93,87,450. Cross-referencing with the bank transaction shows payment of \u20b922,32,914 \u2014 which aligns with the supplier's value, not the buyer's. This is a textbook ITC inflation scheme where the buyer modifies the invoice value in their books before filing.",
+      "evidence_path": null,
+      "resolution_actions": [
+        "Issue demand notice for \u20b93,87,450 excess ITC + 18% interest",
+        "Cross-verify with supplier's books under Section 65 (Audit)",
+        "Check if buyer has made similar inflations in other periods"
+      ],
+      "regulatory_ref": null,
+      "gstin": "01TLXTG7331WGZ2",
+      "buyer_gstin": "01TLXTG7331WGZ2",
+      "seller_gstin": "01DEMBO8806RVZQ",
+      "return_period": "082024",
+      "invoice_value": null,
+      "tax_difference": null,
+      "itc_risk": null,
+      "risk_score": null,
+      "detected_at": "2026-02-27T10:02:33",
+      "status": "UNDER_REVIEW"
+    },
+    {
+      "mismatch_id": "FRAUD-007-VALMIS",
+      "type": null,
+      "severity": "HIGH",
+      "description": "Supplier under-reported taxable value by \u20b911.98L to reduce output tax liability",
+      "narrative": "Reverse value mismatch: SKF India Ltd reported only \u20b914,23,500 in GSTR-1 for an invoice, while KEI Industries's purchase register and GSTR-2B both show \u20b926,21,800 \u2014 a shortfall of \u20b911,98,300. The supplier appears to have intentionally reduced their output tax liability by \u20b92,15,694 (IGST @ 18%). The e-Way Bill generated for this consignment shows a value of \u20b926,21,800, corroborating the buyer's figures. The supplier has shown a pattern of under-reporting in 4 out of the last 6 months, with cumulative under-reporting of \u20b947.3L.",
+      "evidence_path": null,
+      "resolution_actions": [
+        "Issue notice under Section 73 for short payment of output tax",
+        "Direct supplier to file GSTR-1 amendment for correct values",
+        "Initiate special audit under Section 66 for extended period review"
+      ],
+      "regulatory_ref": null,
+      "gstin": "02TQTFI5946D6ZP",
+      "buyer_gstin": "04CJJGW2962SNZ4",
+      "seller_gstin": "02TQTFI5946D6ZP",
+      "return_period": "092024",
+      "invoice_value": null,
+      "tax_difference": null,
+      "itc_risk": null,
+      "risk_score": null,
+      "detected_at": "2026-02-27T10:05:17",
+      "status": "OPEN"
+    },
+    {
+      "mismatch_id": "FRAUD-010-ITCOVR",
+      "type": null,
+      "severity": "HIGH",
+      "description": "ITC claimed in GSTR-3B exceeds available credit in GSTR-2B by \u20b98.92L",
+      "narrative": "Reliance Trading Corp claimed IGST ITC of \u20b918,42,350 in November 2024 GSTR-3B, but the auto-populated GSTR-2B shows eligible ITC of only \u20b99,50,000. The excess of \u20b98,92,350 has no supporting documentation in the GSTR-2B. Analysis shows the buyer manually entered additional ITC of \u20b98,92,350 under 'All other ITC' section of GSTR-3B Table 4(A)(5), which is meant only for ITC on imports, ISD credits, and transitional credits \u2014 none of which apply here. The buyer has a history of claiming excess ITC in 3 of the previous 5 months.",
+      "evidence_path": null,
+      "resolution_actions": [
+        "Restrict ITC to GSTR-2B amount under Rule 36(4)",
+        "Issue notice under Section 74 (fraud/wilful misstatement \u2014 extended period)",
+        "Impose penalty of \u20b98,92,350 under Section 122(2)(b)"
+      ],
+      "regulatory_ref": null,
+      "gstin": "05NZJPJ8685W7ZH",
+      "buyer_gstin": "05NZJPJ8685W7ZH",
+      "seller_gstin": "03QAHFE7680NZZM",
+      "return_period": "112024",
+      "invoice_value": null,
+      "tax_difference": null,
+      "itc_risk": null,
+      "risk_score": null,
+      "detected_at": "2026-02-27T10:18:30",
+      "status": "OPEN"
+    }
+  ],
+  "high_risk_vendors": [
+    {
+      "gstin": "18PSFGQ4980NTZ8",
+      "entity_name": null,
+      "risk_score": 68.56,
+      "risk_label": "medium"
+    },
+    {
+      "gstin": "10NGQBJ4498IOZV",
+      "entity_name": null,
+      "risk_score": 68.55,
+      "risk_label": "low"
+    },
+    {
+      "gstin": "02BKOLB2495WPZY",
+      "entity_name": null,
+      "risk_score": 68.37,
+      "risk_label": "medium"
+    },
+    {
+      "gstin": "01TLXTG7331WGZ2",
+      "entity_name": null,
+      "risk_score": 67.73,
+      "risk_label": "critical"
+    },
+    {
+      "gstin": "10ZICJD5474UMZ1",
+      "entity_name": null,
+      "risk_score": 67.73,
+      "risk_label": "low"
+    },
+    {
+      "gstin": "22SAYPV7763CRZW",
+      "entity_name": null,
+      "risk_score": 67.34,
+      "risk_label": "medium"
+    },
+    {
+      "gstin": "22WJNGF2848XQZL",
+      "entity_name": null,
+      "risk_score": 67.0,
+      "risk_label": "low"
+    },
+    {
+      "gstin": "29PDZAL5606ASZ0",
+      "entity_name": null,
+      "risk_score": 66.9,
+      "risk_label": "low"
+    },
+    {
+      "gstin": "27BMFJL3720GXZO",
+      "entity_name": null,
+      "risk_score": 66.18,
+      "risk_label": "low"
+    },
+    {
+      "gstin": "22TVHPP6202IAZZ",
+      "entity_name": null,
+      "risk_score": 65.77,
+      "risk_label": "medium"
+    },
+    {
+      "gstin": "14JXHTN3667Y5ZQ",
+      "entity_name": null,
+      "risk_score": 65.48,
+      "risk_label": "low"
+    },
+    {
+      "gstin": "01MIMHZ2258RGZ6",
+      "entity_name": null,
+      "risk_score": 63.39,
+      "risk_label": "high"
+    },
+    {
+      "gstin": "03QAHFE7680NZZM",
+      "entity_name": null,
+      "risk_score": 63.28,
+      "risk_label": "low"
+    },
+    {
+      "gstin": "07UECLL4476UDZZ",
+      "entity_name": null,
+      "risk_score": 62.04,
+      "risk_label": "medium"
+    },
+    {
+      "gstin": "21KRMAH2280HJZ4",
+      "entity_name": null,
+      "risk_score": 61.91,
+      "risk_label": "medium"
+    },
+    {
+      "gstin": "33VCYCP9274PXZK",
+      "entity_name": null,
+      "risk_score": 61.45,
+      "risk_label": "low"
+    },
+    {
+      "gstin": "02TQTFI5946D6ZP",
+      "entity_name": null,
+      "risk_score": 60.66,
+      "risk_label": "critical"
+    },
+    {
+      "gstin": "34KBJLI9726XZZJ",
+      "entity_name": null,
+      "risk_score": 59.93,
+      "risk_label": "low"
+    },
+    {
+      "gstin": "34UKYPI8225VZZF",
+      "entity_name": null,
+      "risk_score": 59.77,
+      "risk_label": "low"
+    },
+    {
+      "gstin": "34RHBCP5429NBZ0",
+      "entity_name": null,
+      "risk_score": 59.67,
+      "risk_label": "critical"
+    }
+  ]
+}
