@@ -226,6 +226,3 @@ Score = 0.4 × Financial_Impact + 0.3 × Probability + 0.3 × Vendor_Risk
 | POST | `/api/v1/risk/train` | Train XGBoost model |
 | POST | `/api/v1/ingestion/seed` | Generate + load + validate data |
 
-## License
-
-MIT
